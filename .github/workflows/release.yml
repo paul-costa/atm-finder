@@ -1,0 +1,67 @@
+name: Release
+
+# Tag a commit as vX.Y.Z to publish prebuilt command-line binaries on the GitHub release.
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            target: x86_64-unknown-linux-gnu
+            name: linux-x86_64
+          - os: macos-latest
+            target: aarch64-apple-darwin
+            name: macos-arm64
+          - os: windows-latest
+            target: x86_64-pc-windows-msvc
+            name: windows-x86_64
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: ${{ matrix.target }}
+      - uses: Swatinem/rust-cache@v2
+      - name: Build
+        run: cargo build --release -p atm-finder --target ${{ matrix.target }}
+      - name: Package
+        shell: bash
+        run: |
+          NAME="atm-finder-${GITHUB_REF_NAME}-${{ matrix.name }}"
+          mkdir -p "$NAME"
+          cp README.md LICENSE "$NAME/"
+          if [ "${{ runner.os }}" = "Windows" ]; then
+            cp "target/${{ matrix.target }}/release/atm-finder.exe" "$NAME/"
+            7z a "$NAME.zip" "$NAME" > /dev/null
+          else
+            cp "target/${{ matrix.target }}/release/atm-finder" "$NAME/"
+            tar czf "$NAME.tar.gz" "$NAME"
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.name }}
+          path: |
+            atm-finder-*.tar.gz
+            atm-finder-*.zip
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          merge-multiple: true
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: artifacts/*
+          generate_release_notes: true

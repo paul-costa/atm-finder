@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Leoben</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>First Data</name>
+<description>Am Lerchenfeld A 2, 8700 Leoben
+Opening hours: 24/7
+https://www.openstreetmap.org/node/3390926004</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3390926004</value></Data>
+<Data name="lat"><value>47.3834344</value></Data>
+<Data name="lon"><value>15.1154492</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>First Data</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Am Lerchenfeld A 2</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3390926004</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3390926004</value></Data>
+</ExtendedData>
+<Point><coordinates>15.1154492,47.3834344,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Spar Österreich</name>
+<description>Bahnhofplatz 4, 8700 Leoben
+https://www.openstreetmap.org/node/3944938693</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3944938693</value></Data>
+<Data name="lat"><value>47.3861794</value></Data>
+<Data name="lon"><value>15.0897628</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Spar Österreich</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bahnhofplatz 4</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-10-23</value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3944938693</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3944938693</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0897628,47.3861794,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparda Bank</name>
+<description>Bahnhofplatz 4, 8700 Leoben
+https://www.openstreetmap.org/node/846964784</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/846964784</value></Data>
+<Data name="lat"><value>47.3869189</value></Data>
+<Data name="lon"><value>15.0904373</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparda Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bahnhofplatz 4</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-09-29</value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/846964784</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/846964784</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0904373,47.3869189,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Erzherzog Johann-Straße 13, 8700 Leoben
+Opening hours: Mo-Th 08:30-12:00, 14:00-16:00; Fr 08:30-12:00, 14:00-15:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/840572471</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/840572471</value></Data>
+<Data name="lat"><value>47.3819127</value></Data>
+<Data name="lon"><value>15.0926735</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Erzherzog Johann-Straße 13</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:30-12:00, 14:00-16:00; Fr 08:30-12:00, 14:00-15:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/840572471</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/840572471</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0926735,47.3819127,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99</name>
+<description>Erzherzog Johann-Straße 17, 8700 Leoben
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/1393370523</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1393370523</value></Data>
+<Data name="lat"><value>47.3820787</value></Data>
+<Data name="lon"><value>15.0936170</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Erzherzog Johann-Straße 17</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-05-20</value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1393370523;osm:node/1393370520</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1393370523</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0936170,47.3820787,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Austria</name>
+<description>Franz Josef-Straße 2, 8700 Leoben
+https://www.openstreetmap.org/way/91118164</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/91118164</value></Data>
+<Data name="lat"><value>47.3819692</value></Data>
+<Data name="lon"><value>15.0944067</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>Bank Austria</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Franz Josef-Straße 2</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/91118164</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/91118164</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0944067,47.3819692,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Hauptplatz 15, 8700 Leoben
+https://www.openstreetmap.org/node/1393370525</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1393370525</value></Data>
+<Data name="lat"><value>47.3809482</value></Data>
+<Data name="lon"><value>15.0943134</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Hauptplatz 15</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-08-22</value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1393370525;osm:node/649548731</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1393370525</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0943134,47.3809482,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Hauptplatz 19, 8700 Leoben
+https://www.openstreetmap.org/node/1436582123</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1436582123</value></Data>
+<Data name="lat"><value>47.3817386</value></Data>
+<Data name="lon"><value>15.0954921</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptplatz 19</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1436582123</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1436582123</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0954921,47.3817386,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Hauptplatz 19, 8700 Leoben
+https://www.openstreetmap.org/node/4025528591</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4025528591</value></Data>
+<Data name="lat"><value>47.3824978</value></Data>
+<Data name="lon"><value>15.0956838</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptplatz 19</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4025528591</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4025528591</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0956838,47.3824978,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Hauptplatz 4, 8700 Leoben
+https://www.openstreetmap.org/node/1393666336</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1393666336</value></Data>
+<Data name="lat"><value>47.3798440</value></Data>
+<Data name="lon"><value>15.0953576</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Hauptplatz 4</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1393666336;osm:node/649548758</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1393666336</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0953576,47.3798440,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Hinterbergstraße 54, 8700 Leoben
+Opening hours: 24/7
+https://www.openstreetmap.org/node/6740291621</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6740291621</value></Data>
+<Data name="lat"><value>47.3613621</value></Data>
+<Data name="lon"><value>15.0652294</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hinterbergstraße 54</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6740291621</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6740291621</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0652294,47.3613621,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Pestalozzistraße 71, 8700 Leoben
+https://www.openstreetmap.org/node/4769116992</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4769116992</value></Data>
+<Data name="lat"><value>47.3759175</value></Data>
+<Data name="lon"><value>15.0735747</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Pestalozzistraße 71</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4769116992</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4769116992</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0735747,47.3759175,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Pichlmayergasse 16, 8700 Leoben
+https://www.openstreetmap.org/node/4025534689</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4025534689</value></Data>
+<Data name="lat"><value>47.3708887</value></Data>
+<Data name="lon"><value>15.0914437</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Pichlmayergasse 16</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4025534689</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4025534689</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0914437,47.3708887,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Zeltenschlagstraße 2, 8700 Leoben
+https://www.openstreetmap.org/node/4025546747</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4025546747</value></Data>
+<Data name="lat"><value>47.3785634</value></Data>
+<Data name="lon"><value>15.0887860</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Zeltenschlagstraße 2</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4025546747</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4025546747</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0887860,47.3785634,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FirstData</name>
+<description>Zirkusstraße 14, 8700 Leoben
+https://www.openstreetmap.org/node/2180327226</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2180327226</value></Data>
+<Data name="lat"><value>47.3722800</value></Data>
+<Data name="lon"><value>15.0888225</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>FirstData</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Zirkusstraße 14</value></Data>
+<Data name="postcode"><value>8700</value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2180327226</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2180327226</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0888225,47.3722800,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Josef Graf-Gasse 5, Leoben
+Opening hours: Mo-Fr 09:00-13:00
+https://www.openstreetmap.org/node/9895464592</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9895464592</value></Data>
+<Data name="lat"><value>47.3810114</value></Data>
+<Data name="lon"><value>15.0959539</value></Data>
+<Data name="name"><value>BAWAG PSK</value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Josef Graf-Gasse 5</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Leoben</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-13:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Leoben</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9895464592</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9895464592</value></Data>
+</ExtendedData>
+<Point><coordinates>15.0959539,47.3810114,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

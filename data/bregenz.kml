@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Bregenz</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>ATM</name>
+<description>Anton-Schneider-Straße 12, 6900 Bregenz
+https://www.openstreetmap.org/node/1674535389</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1674535389</value></Data>
+<Data name="lat"><value>47.5033397</value></Data>
+<Data name="lon"><value>9.7479278</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Anton-Schneider-Straße 12</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1674535389</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1674535389</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7479278,47.5033397,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Arlbergstraße 135, 6900 Bregenz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/2677550788</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2677550788</value></Data>
+<Data name="lat"><value>47.4878551</value></Data>
+<Data name="lon"><value>9.7333335</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Arlbergstraße 135</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2677550788</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2677550788</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7333335,47.4878551,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank Vorarlberg</name>
+<description>Bahnhofstraße 12, 6900 Bregenz
+Opening hours: Mo-Fr 08:00-12:00, Tu,Fr 14:00-16:00
+https://www.openstreetmap.org/node/10178193396</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10178193396</value></Data>
+<Data name="lat"><value>47.5038139</value></Data>
+<Data name="lon"><value>9.7446386</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank Vorarlberg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bahnhofstraße 12</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, Tu,Fr 14:00-16:00</value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10178193396;osm:node/1674535422</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10178193396</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7446386,47.5038139,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Bahnhofstraße 12, 6900 Bregenz
+https://www.openstreetmap.org/node/10178202986</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10178202986</value></Data>
+<Data name="lat"><value>47.5038558</value></Data>
+<Data name="lon"><value>9.7447329</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bahnhofstraße 12</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10178202986</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10178202986</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7447329,47.5038558,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Reiffeisen Meine Bank</name>
+<description>Fritz-Mayer-Platz 1, 6900 Bregenz
+https://www.openstreetmap.org/node/2447420629</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2447420629</value></Data>
+<Data name="lat"><value>47.5026345</value></Data>
+<Data name="lon"><value>9.7401011</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Reiffeisen Meine Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Fritz-Mayer-Platz 1</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-03-22</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2447420629</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2447420629</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7401011,47.5026345,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Vorarlberg</name>
+<description>Fußweg Seebühne, 6900 Bregenz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/13945713203</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13945713203</value></Data>
+<Data name="lat"><value>47.5050677</value></Data>
+<Data name="lon"><value>9.7384138</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo Vorarlberg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Fußweg Seebühne</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>nominatim_reverse</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13945713203</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13945713203</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7384138,47.5050677,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Vorarlberg - Filiale Bregenz Vorkloster</name>
+<description>Heldendankstraße 33, 6900 Bregenz
+https://www.openstreetmap.org/way/119211750</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/119211750</value></Data>
+<Data name="lat"><value>47.4966632</value></Data>
+<Data name="lon"><value>9.7286069</value></Data>
+<Data name="name"><value>Hypo Vorarlberg - Filiale Bregenz Vorkloster</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Heldendankstraße 33</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/119211750</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/119211750</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7286069,47.4966632,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Austria</name>
+<description>Heldendankstraße 40, 6900 Bregenz
+https://www.openstreetmap.org/node/736933609</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/736933609</value></Data>
+<Data name="lat"><value>47.4963788</value></Data>
+<Data name="lon"><value>9.7277733</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>Bank Austria</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Heldendankstraße 40</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/736933609</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/736933609</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7277733,47.4963788,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Bregenz</name>
+<description>Heldendankstraße 56b, 6900 Bregenz
+Opening hours: Mo-Fr 08:00-12:15,13:45-16:00
+https://www.openstreetmap.org/node/1109373912</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1109373912</value></Data>
+<Data name="lat"><value>47.4950748</value></Data>
+<Data name="lon"><value>9.7258537</value></Data>
+<Data name="name"><value>Sparkasse Bregenz</value></Data>
+<Data name="operator"><value>Sparkasse Bregenz</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Heldendankstraße 56b</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:15,13:45-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1109373912</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1109373912</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7258537,47.4950748,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Vorarlberg</name>
+<description>Hypo-Passage 1, 6900 Bregenz
+Opening hours: Mo-Fr 08:00-12:00,13:45-16:00
+https://www.openstreetmap.org/node/1674535393</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1674535393</value></Data>
+<Data name="lat"><value>47.5034175</value></Data>
+<Data name="lon"><value>9.7441728</value></Data>
+<Data name="name"><value>Hypo Landesbank Vorarlberg</value></Data>
+<Data name="operator"><value>Hypo Vorarlberg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hypo-Passage 1</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,13:45-16:00</value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-06-16</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1674535393;osm:way/118993078</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1674535393</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7441728,47.5034175,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV Vierländerbank</name>
+<description>Kaiserstraße 33, 6900 Bregenz
+https://www.openstreetmap.org/node/10178174095</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10178174095</value></Data>
+<Data name="lat"><value>47.5037739</value></Data>
+<Data name="lon"><value>9.7451823</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BTV Vierländerbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kaiserstraße 33</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10178174095</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10178174095</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7451823,47.5037739,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Kaiserstraße 33, 6900 Bregenz
+Opening hours: 05:00-22:00
+https://www.openstreetmap.org/node/1674535397</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1674535397</value></Data>
+<Data name="lat"><value>47.5037973</value></Data>
+<Data name="lon"><value>9.7450861</value></Data>
+<Data name="name"><value>BTV</value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Kaiserstraße 33</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>05:00-22:00</value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-08-19</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1674535397</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1674535397</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7450861,47.5037973,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Kennelbacherstraße 1, 6900 Bregenz
+https://www.openstreetmap.org/node/4805791362</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4805791362</value></Data>
+<Data name="lat"><value>47.4926421</value></Data>
+<Data name="lon"><value>9.7423652</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kennelbacherstraße 1</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-09-25</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4805791362</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4805791362</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7423652,47.4926421,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Austria</name>
+<description>Kornmarktplatz 3, 6900 Bregenz
+Opening hours: Mo-Fr 09:00-12:30; PH off
+https://www.openstreetmap.org/node/4078282286</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4078282286</value></Data>
+<Data name="lat"><value>47.5040261</value></Data>
+<Data name="lon"><value>9.7472965</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>Bank Austria</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Kornmarktplatz 3</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30; PH off</value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4078282286</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4078282286</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7472965,47.5040261,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Langenerstraße 1, 6900 Bregenz
+https://www.openstreetmap.org/node/4805791369</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4805791369</value></Data>
+<Data name="lat"><value>47.4931857</value></Data>
+<Data name="lon"><value>9.7416492</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Langenerstraße 1</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-09-25</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4805791369</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4805791369</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7416492,47.4931857,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>First Data</name>
+<description>Leutbühel 2, 6900 Bregenz
+https://www.openstreetmap.org/node/2447420630</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2447420630</value></Data>
+<Data name="lat"><value>47.5021444</value></Data>
+<Data name="lon"><value>9.7462565</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>First Data</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Leutbühel 2</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-08-22</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2447420630</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2447420630</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7462565,47.5021444,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Denizbank</name>
+<description>Römerstraße 3, 6900 Bregenz
+Opening hours: Mo-Fr 09:00-12:30,13:30-17:00
+https://www.openstreetmap.org/node/1674535319</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1674535319</value></Data>
+<Data name="lat"><value>47.5019940</value></Data>
+<Data name="lon"><value>9.7463415</value></Data>
+<Data name="name"><value>Denizbank</value></Data>
+<Data name="operator"><value>Denizbank</value></Data>
+<Data name="brand"><value>Denizbank</value></Data>
+<Data name="street"><value>Römerstraße 3</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30,13:30-17:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1674535319</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1674535319</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7463415,47.5019940,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kurant</name>
+<description>Seestraße 5, 6900 Bregenz
+Opening hours: Mo-Su 05:00-21:00
+https://www.openstreetmap.org/node/12054604808</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12054604808</value></Data>
+<Data name="lat"><value>47.5054203</value></Data>
+<Data name="lon"><value>9.7480578</value></Data>
+<Data name="name"><value>Kurant Bitcoin ATM</value></Data>
+<Data name="operator"><value>Kurant</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Seestraße 5</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Su 05:00-21:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-07-15</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12054604808</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12054604808</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7480578,47.5054203,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Seestraße 5, 6900 Bregenz
+Opening hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
+https://www.openstreetmap.org/node/484262910</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/484262910</value></Data>
+<Data name="lat"><value>47.5054254</value></Data>
+<Data name="lon"><value>9.7481499</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Seestraße 5</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off</value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-09-23</value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/484262910</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/484262910</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7481499,47.5054254,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bregenzer Sparkasse</name>
+<description>Sparkassenplatz 1, 6900 Bregenz
+https://www.openstreetmap.org/node/2447421343</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2447421343</value></Data>
+<Data name="lat"><value>47.5039761</value></Data>
+<Data name="lon"><value>9.7463804</value></Data>
+<Data name="name"><value>Bregenzer Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Sparkassenplatz 1</value></Data>
+<Data name="postcode"><value>6900</value></Data>
+<Data name="city"><value>Bregenz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bregenz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2447421343</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2447421343</value></Data>
+</ExtendedData>
+<Point><coordinates>9.7463804,47.5039761,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

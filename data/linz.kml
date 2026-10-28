@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Linz</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>bank99</name>
+<description>Hamerlingstraße 44, 4018 Linz
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/262083089</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/262083089</value></Data>
+<Data name="lat"><value>48.2920454</value></Data>
+<Data name="lon"><value>14.3034529</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Hamerlingstraße 44</value></Data>
+<Data name="postcode"><value>4018</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-02-07</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/262083089;osm:node/7594803032</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/262083089</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3034529,48.2920454,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo</name>
+<description>Am Bindermichl 28, 4020 Linz
+Opening hours: Mo-Th 08:30-12:00, Tu,Th 14:00-16:30, Fr 08:30-12:00
+https://www.openstreetmap.org/node/4596363288</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4596363288</value></Data>
+<Data name="lat"><value>48.2715209</value></Data>
+<Data name="lon"><value>14.2923501</value></Data>
+<Data name="name"><value>Hypo Oberösterreich</value></Data>
+<Data name="operator"><value>Hypo</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Am Bindermichl 28</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:30-12:00, Tu,Th 14:00-16:30, Fr 08:30-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4596363288</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4596363288</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2923501,48.2715209,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HYPO</name>
+<description>Bahnhofplatz 2, 4020 Linz
+https://www.openstreetmap.org/node/960350838</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/960350838</value></Data>
+<Data name="lat"><value>48.2913849</value></Data>
+<Data name="lon"><value>14.2917844</value></Data>
+<Data name="name"><value>HYPO</value></Data>
+<Data name="operator"><value>HYPO</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bahnhofplatz 2</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-08</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/960350838</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/960350838</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2917844,48.2913849,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparda Bank</name>
+<description>Bahnhofplatz 3-6, 4020 Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/way/385865866</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/385865866</value></Data>
+<Data name="lat"><value>48.2905597</value></Data>
+<Data name="lon"><value>14.2914041</value></Data>
+<Data name="name"><value>Sparda Bank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bahnhofplatz 3-6</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-01-30</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/385865866</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/385865866</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2914041,48.2905597,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Bethlehemstraße 3, 4020 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/4391392289</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4391392289</value></Data>
+<Data name="lat"><value>48.3036054</value></Data>
+<Data name="lon"><value>14.2903287</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Bethlehemstraße 3</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4391392289</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4391392289</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2903287,48.3036054,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Buchnerplatz 1, 4020 Linz
+https://www.openstreetmap.org/node/295004299</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/295004299</value></Data>
+<Data name="lat"><value>48.2877849</value></Data>
+<Data name="lon"><value>14.3230123</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Buchnerplatz 1</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-08-05</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/295004299</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/295004299</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3230123,48.2877849,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Austria</name>
+<description>Coulinstraße 16, 4020 Linz
+Opening hours: Mo-Fr 08:30-12:30, Mo-We 13:30-15:00
+https://www.openstreetmap.org/node/318667064</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/318667064</value></Data>
+<Data name="lat"><value>48.2948838</value></Data>
+<Data name="lon"><value>14.2884823</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>Bank Austria</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Coulinstraße 16</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30, Mo-We 13:30-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/318667064</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/318667064</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2884823,48.2948838,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HYPO OOE</name>
+<description>Dametzstraße 44, 4020 Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/963900669</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/963900669</value></Data>
+<Data name="lat"><value>48.3016456</value></Data>
+<Data name="lon"><value>14.2919275</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>HYPO OOE</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dametzstraße 44</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-06-25</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/963900669</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/963900669</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2919275,48.3016456,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Derfflingerstraße 10, 4020 Linz
+https://www.openstreetmap.org/node/319820988</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/319820988</value></Data>
+<Data name="lat"><value>48.3076633</value></Data>
+<Data name="lon"><value>14.3102835</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Derfflingerstraße 10</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/319820988</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/319820988</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3102835,48.3076633,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99</name>
+<description>Domgasse 1, 4020 Linz
+Opening hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/304991304</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/304991304</value></Data>
+<Data name="lat"><value>48.3054078</value></Data>
+<Data name="lon"><value>14.2889323</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Domgasse 1</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa 09:00-12:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-06-25</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/304991304;osm:node/7594803031</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/304991304</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2889323,48.3054078,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VKB</name>
+<description>Domgasse 12, 4020 Linz
+https://www.openstreetmap.org/node/1861624603</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1861624603</value></Data>
+<Data name="lat"><value>48.3052924</value></Data>
+<Data name="lon"><value>14.2878881</value></Data>
+<Data name="name"><value>VBK</value></Data>
+<Data name="operator"><value>VKB</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Domgasse 12</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-06-25</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1861624603;osm:node/791236610</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1861624603</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2878881,48.3052924,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Einsteinstraße 5, 4020 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/5619958803</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5619958803</value></Data>
+<Data name="lat"><value>48.2764412</value></Data>
+<Data name="lon"><value>14.2980570</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Einsteinstraße 5</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5619958803</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5619958803</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2980570,48.2764412,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Europaplatz 1a, 4020 Linz
+https://www.openstreetmap.org/way/112319545</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/112319545</value></Data>
+<Data name="lat"><value>48.2993062</value></Data>
+<Data name="lon"><value>14.3015190</value></Data>
+<Data name="name"><value>Raiffeisenlandesbank Oberösterreich</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Europaplatz 1a</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/112319545</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/112319545</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3015190,48.2993062,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Österreich</name>
+<description>Europastraße 12, 4020 Linz
+https://www.openstreetmap.org/node/8138735630</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8138735630</value></Data>
+<Data name="lat"><value>48.2650844</value></Data>
+<Data name="lon"><value>14.2820855</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo Österreich</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Europastraße 12</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-07-08</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8138735630</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8138735630</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2820855,48.2650844,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Leonding reg. Gen.m.b.H.</name>
+<description>Feilstraße 7, 4020 Linz
+Opening hours: Mo-Fr 08:30-12:00
+https://www.openstreetmap.org/node/255626275</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/255626275</value></Data>
+<Data name="lat"><value>48.2672816</value></Data>
+<Data name="lon"><value>14.2870961</value></Data>
+<Data name="name"><value>Raiffeisenbank Leonding</value></Data>
+<Data name="operator"><value>Raiffeisen Leonding reg. Gen.m.b.H.</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Feilstraße 7</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/255626275</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/255626275</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2870961,48.2672816,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Fichtenstraße 7, 4020 Linz
+https://www.openstreetmap.org/node/3019746562</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3019746562</value></Data>
+<Data name="lat"><value>48.2810281</value></Data>
+<Data name="lon"><value>14.3119274</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Fichtenstraße 7</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3019746562</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3019746562</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3119274,48.2810281,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volkshilfe ReVital Shop</name>
+<description>Franckstraße 42, 4020 Linz
+Opening hours: Mo-Fr 09:00-17:00
+https://www.openstreetmap.org/node/457126310</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/457126310</value></Data>
+<Data name="lat"><value>48.2937637</value></Data>
+<Data name="lon"><value>14.3121162</value></Data>
+<Data name="name"><value>Volkshilfe ReVital Shop</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Franckstraße 42</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-17:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/457126310</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/457126310</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3121162,48.2937637,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Garnisonstraße 5, 4020 Linz
+https://www.openstreetmap.org/node/14067958349</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/14067958349</value></Data>
+<Data name="lat"><value>48.3040393</value></Data>
+<Data name="lon"><value>14.3086899</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Garnisonstraße 5</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/14067958349</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/14067958349</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3086899,48.3040393,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Goethestraße 65, 4020 Linz
+https://www.openstreetmap.org/node/1566304218</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1566304218</value></Data>
+<Data name="lat"><value>48.2988990</value></Data>
+<Data name="lon"><value>14.3019305</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Goethestraße 65</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-06-25</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1566304218</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1566304218</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3019305,48.2988990,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VKB-Bank</name>
+<description>Graben 1, 4020 Linz
+https://www.openstreetmap.org/node/14321438108</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/14321438108</value></Data>
+<Data name="lat"><value>48.3062009</value></Data>
+<Data name="lon"><value>14.2899111</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>VKB-Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Graben 1</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/14321438108</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/14321438108</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2899111,48.3062009,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Denizbank</name>
+<description>Graben 16, 4020 Linz
+https://www.openstreetmap.org/node/1564230684</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1564230684</value></Data>
+<Data name="lat"><value>48.3052190</value></Data>
+<Data name="lon"><value>14.2901215</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Denizbank</value></Data>
+<Data name="brand"><value>Denizbank</value></Data>
+<Data name="street"><value>Graben 16</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-10-22</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1564230684</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1564230684</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2901215,48.3052190,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Gruberstraße 13, 4020 Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/6565181720</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6565181720</value></Data>
+<Data name="lat"><value>48.3107492</value></Data>
+<Data name="lon"><value>14.2984990</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Gruberstraße 13</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-09-27</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6565181720</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6565181720</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2984990,48.3107492,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Gruberstraße 45, 4020 Linz
+Opening hours: Mo,Th,Fr 09:00-12:00
+https://www.openstreetmap.org/way/108805421</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/108805421</value></Data>
+<Data name="lat"><value>48.3063840</value></Data>
+<Data name="lon"><value>14.3004914</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Gruberstraße 45</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,Th,Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/108805421</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/108805421</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3004914,48.3063840,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Gruberstraße 7, 4020 Linz
+Opening hours: Mo,Th,Fr 09:00-12:00
+https://www.openstreetmap.org/node/13605825659</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13605825659</value></Data>
+<Data name="lat"><value>48.3112300</value></Data>
+<Data name="lon"><value>14.2978594</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Gruberstraße 7</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,Th,Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13605825659</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13605825659</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2978594,48.3112300,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Gruberstraße 77, 4020 Linz
+https://www.openstreetmap.org/node/755776960</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/755776960</value></Data>
+<Data name="lat"><value>48.3028167</value></Data>
+<Data name="lon"><value>14.3009053</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Gruberstraße 77</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-07-04</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/755776960</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/755776960</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3009053,48.3028167,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BACA</name>
+<description>Hauptplatz 27, 4020 Linz
+Opening hours: Mo-Fr 09:00-15:00
+https://www.openstreetmap.org/node/791236220</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/791236220</value></Data>
+<Data name="lat"><value>48.3050566</value></Data>
+<Data name="lon"><value>14.2874731</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>BACA</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Hauptplatz 27</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-09-27</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/791236220</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/791236220</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2874731,48.3050566,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Helmholtzstraße 15, 4020 Linz
+https://www.openstreetmap.org/node/1565970441</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1565970441</value></Data>
+<Data name="lat"><value>48.2562512</value></Data>
+<Data name="lon"><value>14.2862664</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Helmholtzstraße 15</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1565970441</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1565970441</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2862664,48.2562512,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Huemerstraße 25, 4020 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/1573031566</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1573031566</value></Data>
+<Data name="lat"><value>48.3033493</value></Data>
+<Data name="lon"><value>14.2990941</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Huemerstraße 25</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1573031566</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1573031566</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2990941,48.3033493,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Industriezeile 56, 4020 Linz
+https://www.openstreetmap.org/node/347687736</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/347687736</value></Data>
+<Data name="lat"><value>48.3078585</value></Data>
+<Data name="lon"><value>14.3152736</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Industriezeile 56</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-10-22</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/347687736</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/347687736</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3152736,48.3078585,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Industriezeile 76, 4020 Linz
+https://www.openstreetmap.org/node/7305280462</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7305280462</value></Data>
+<Data name="lat"><value>48.3008552</value></Data>
+<Data name="lon"><value>14.3191316</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Industriezeile 76</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7305280462</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7305280462</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3191316,48.3008552,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Landesbank</name>
+<description>Khevenhüllerstraße 12, 4020 Linz
+https://www.openstreetmap.org/node/1566304221</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1566304221</value></Data>
+<Data name="lat"><value>48.2998426</value></Data>
+<Data name="lon"><value>14.3017853</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen Landesbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Khevenhüllerstraße 12</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2023-07-02</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1566304221</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1566304221</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3017853,48.2998426,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Krankenhausstraße 5, 4020 Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/9165785719</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9165785719</value></Data>
+<Data name="lat"><value>48.3027110</value></Data>
+<Data name="lon"><value>14.3029321</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Krankenhausstraße 5</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9165785719</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9165785719</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3029321,48.3027110,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nextatm</name>
+<description>Landstraße 1, 4020 Linz
+https://www.openstreetmap.org/node/12040464932</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12040464932</value></Data>
+<Data name="lat"><value>48.3042519</value></Data>
+<Data name="lon"><value>14.2884258</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>nextatm</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Landstraße 1</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12040464932</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12040464932</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2884258,48.3042519,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Landstraße 37, 4020 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/3633359574</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3633359574</value></Data>
+<Data name="lat"><value>48.3008493</value></Data>
+<Data name="lon"><value>14.2908214</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Landstraße 37</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-09</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3633359574</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3633359574</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2908214,48.3008493,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo</name>
+<description>Landstraße 40, 4020 Linz
+Opening hours: Mo-Th 08:30-16:30; Fr 08:30-14:00
+https://www.openstreetmap.org/node/4391392489</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4391392489</value></Data>
+<Data name="lat"><value>48.3012181</value></Data>
+<Data name="lon"><value>14.2902768</value></Data>
+<Data name="name"><value>Hypo Landesbank</value></Data>
+<Data name="operator"><value>Hypo</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Landstraße 40</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:30-16:30; Fr 08:30-14:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-10-27</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4391392489;osm:node/791236283</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4391392489</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2902768,48.3012181,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kurant</name>
+<description>Landstraße 46, 4020 Linz
+Opening hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+https://www.openstreetmap.org/node/12057917847</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12057917847</value></Data>
+<Data name="lat"><value>48.3004821</value></Data>
+<Data name="lon"><value>14.2907115</value></Data>
+<Data name="name"><value>Kurant Bitcoin ATM</value></Data>
+<Data name="operator"><value>Kurant</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Landstraße 46</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-18:00; Sa 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-07-16</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12057917847</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12057917847</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2907115,48.3004821,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Landstraße 55, 4020 Linz
+Opening hours: Tu-Fr 09:00-12:00
+https://www.openstreetmap.org/node/13629254274</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13629254274</value></Data>
+<Data name="lat"><value>48.2990555</value></Data>
+<Data name="lon"><value>14.2914886</value></Data>
+<Data name="name"><value>Sparkasse OÖ</value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Landstraße 55</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Tu-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-09</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13629254274;osm:node/3633359579</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13629254274</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2914886,48.2990555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Landwiedstraße 65, 4020 Linz
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30
+https://www.openstreetmap.org/node/7595265682</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7595265682</value></Data>
+<Data name="lat"><value>48.2710904</value></Data>
+<Data name="lon"><value>14.2824847</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Landwiedstraße 65</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7595265682</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7595265682</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2824847,48.2710904,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Leharstraße 21, 4020 Linz
+https://www.openstreetmap.org/node/3818487979</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3818487979</value></Data>
+<Data name="lat"><value>48.2866354</value></Data>
+<Data name="lon"><value>14.2769262</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Leharstraße 21</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3818487979</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3818487979</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2769262,48.2866354,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Leharstraße 21, 4020 Linz
+https://www.openstreetmap.org/node/1258761939</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1258761939</value></Data>
+<Data name="lat"><value>48.2868887</value></Data>
+<Data name="lon"><value>14.2761978</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Leharstraße 21</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1258761939</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1258761939</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2761978,48.2868887,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Oberösterreich</name>
+<description>Promenade 11-13, 4020 Linz
+Opening hours: Mo-We 08:00-17:00;Th 08:00-18:00;Fr 08:00-15:00
+https://www.openstreetmap.org/relation/1067157</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:relation/1067157</value></Data>
+<Data name="lat"><value>48.3034498</value></Data>
+<Data name="lon"><value>14.2868942</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value>Sparkasse Oberösterreich</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Promenade 11-13</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-We 08:00-17:00;Th 08:00-18:00;Fr 08:00-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:relation/1067157</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/relation/1067157</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2868942,48.3034498,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Rainerstraße 2-4, 4020 Linz
+https://www.openstreetmap.org/node/318668243</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/318668243</value></Data>
+<Data name="lat"><value>48.2983834</value></Data>
+<Data name="lon"><value>14.2906325</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rainerstraße 2-4</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/318668243</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/318668243</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2906325,48.2983834,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VKB</name>
+<description>Rudigierstraße 5, 4020 Linz
+Opening hours: Mo-Fr 09:00-12:00, Th 14:00-16:00
+https://www.openstreetmap.org/node/1559840180</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1559840180</value></Data>
+<Data name="lat"><value>48.3006725</value></Data>
+<Data name="lon"><value>14.2897388</value></Data>
+<Data name="name"><value>VKB</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rudigierstraße 5</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00, Th 14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1559840180</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1559840180</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2897388,48.3006725,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Stahlstraße 5, 4020 Linz
+https://www.openstreetmap.org/node/3818482061</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3818482061</value></Data>
+<Data name="lat"><value>48.2844575</value></Data>
+<Data name="lon"><value>14.3202375</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Stahlstraße 5</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-09-29</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3818482061</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3818482061</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3202375,48.2844575,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Oberösterreich Linz - Keferfeld</name>
+<description>Unionstraße 94, 4020 Linz
+https://www.openstreetmap.org/node/313401154</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/313401154</value></Data>
+<Data name="lat"><value>48.2796313</value></Data>
+<Data name="lon"><value>14.2807521</value></Data>
+<Data name="name"><value>Sparkasse Oberösterreich Linz - Keferfeld</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Unionstraße 94</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/313401154;osm:way/37144323</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/313401154</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2807521,48.2796313,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Untere Donaulände 28, 4020 Linz
+https://www.openstreetmap.org/node/826151560</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/826151560</value></Data>
+<Data name="lat"><value>48.3085704</value></Data>
+<Data name="lon"><value>14.2915650</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Untere Donaulände 28</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/826151560</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/826151560</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2915650,48.3085704,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Untere Donaulände 4, 4020 Linz
+https://www.openstreetmap.org/node/7563553370</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7563553370</value></Data>
+<Data name="lat"><value>48.3073773</value></Data>
+<Data name="lon"><value>14.2876201</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Untere Donaulände 4</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-06-24</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7563553370</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7563553370</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2876201,48.3073773,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Oberösterreich</name>
+<description>Wankmüllerhofstraße 5, 4020 Linz
+https://www.openstreetmap.org/node/12982449249</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12982449249</value></Data>
+<Data name="lat"><value>48.2843932</value></Data>
+<Data name="lon"><value>14.3025966</value></Data>
+<Data name="name"><value>Sparkasse Oberösterreich</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Wankmüllerhofstraße 5</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12982449249</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12982449249</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3025966,48.2843932,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Wegscheider Straße 1, 4020 Linz
+Opening hours: Mo-We 08:00-12:00,14:00-16:30; Th 08:00-12:00,14:00-17:30; Fr 08:00-14:00
+https://www.openstreetmap.org/node/1180817702</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1180817702</value></Data>
+<Data name="lat"><value>48.2543802</value></Data>
+<Data name="lon"><value>14.2817713</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Wegscheider Straße 1</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-We 08:00-12:00,14:00-16:30; Th 08:00-12:00,14:00-17:30; Fr 08:00-14:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1180817702</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1180817702</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2817713,48.2543802,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Wegscheider Straße 3, 4020 Linz
+https://www.openstreetmap.org/node/1180818230</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1180818230</value></Data>
+<Data name="lat"><value>48.2539633</value></Data>
+<Data name="lon"><value>14.2809142</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Wegscheider Straße 3</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-10-02</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1180818230</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1180818230</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2809142,48.2539633,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse OÖ</name>
+<description>Weingartshofstraße 26, 4020 Linz
+https://www.openstreetmap.org/node/8565845628</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8565845628</value></Data>
+<Data name="lat"><value>48.2924678</value></Data>
+<Data name="lon"><value>14.2889247</value></Data>
+<Data name="name"><value>Zweite Sparkasse</value></Data>
+<Data name="operator"><value>Sparkasse OÖ</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Weingartshofstraße 26</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8565845628</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8565845628</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2889247,48.2924678,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Weingartshofstraße 29, 4020 Linz
+Opening hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
+https://www.openstreetmap.org/node/7594803033</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7594803033</value></Data>
+<Data name="lat"><value>48.2911906</value></Data>
+<Data name="lon"><value>14.2884982</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Weingartshofstraße 29</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7594803033</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7594803033</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2884982,48.2911906,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Landesbank</name>
+<description>Wiener Straße 150, 4020 Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/6383973860</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6383973860</value></Data>
+<Data name="lat"><value>48.2801325</value></Data>
+<Data name="lon"><value>14.3088612</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen Landesbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Wiener Straße 150</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>nominatim_reverse</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value>no</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-09-30</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6383973860</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6383973860</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3088612,48.2801325,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Wiener Straße 19, 4020 Linz
+Opening hours: Mo,We 08:30-12:00,14:00-16:00; Tu 08:30-12:00; Th 08:30-12:00,14:00-16:00; Fr 08:30-13:00; PH off
+https://www.openstreetmap.org/node/5351147732</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5351147732</value></Data>
+<Data name="lat"><value>48.2915805</value></Data>
+<Data name="lon"><value>14.2965298</value></Data>
+<Data name="name"><value>Raiffeisen Landesbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Wiener Straße 19</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,We 08:30-12:00,14:00-16:00; Tu 08:30-12:00; Th 08:30-12:00,14:00-16:00; Fr 08:30-13:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5351147732</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5351147732</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2965298,48.2915805,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volkskreditbank</name>
+<description>Ziegeleistraße 74, 4020 Linz
+https://www.openstreetmap.org/node/760345059</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/760345059</value></Data>
+<Data name="lat"><value>48.2910865</value></Data>
+<Data name="lon"><value>14.2758852</value></Data>
+<Data name="name"><value>Volkskreditbank</value></Data>
+<Data name="operator"><value>Volkskreditbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Ziegeleistraße 74</value></Data>
+<Data name="postcode"><value>4020</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/760345059</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/760345059</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2758852,48.2910865,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Dauphinestraße 62, 4030 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/1654044106</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1654044106</value></Data>
+<Data name="lat"><value>48.2535537</value></Data>
+<Data name="lon"><value>14.3114041</value></Data>
+<Data name="name"><value>Allgemeine Sparkasse</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Dauphinestraße 62</value></Data>
+<Data name="postcode"><value>4030</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1654044106;osm:node/1655680385</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1654044106</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3114041,48.2535537,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Denkstraße 37, 4030 Linz
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7595265684</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7595265684</value></Data>
+<Data name="lat"><value>48.2558970</value></Data>
+<Data name="lon"><value>14.3165741</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Denkstraße 37</value></Data>
+<Data name="postcode"><value>4030</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7595265684</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7595265684</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3165741,48.2558970,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Dieselstraße 4, 4030 Linz
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7595315585</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7595315585</value></Data>
+<Data name="lat"><value>48.2520704</value></Data>
+<Data name="lon"><value>14.2862777</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dieselstraße 4</value></Data>
+<Data name="postcode"><value>4030</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7595315585</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7595315585</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2862777,48.2520704,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Lunaplatz 2, 4030 Linz
+https://www.openstreetmap.org/node/4406851219</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4406851219</value></Data>
+<Data name="lat"><value>48.2579855</value></Data>
+<Data name="lon"><value>14.3599506</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Lunaplatz 2</value></Data>
+<Data name="postcode"><value>4030</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-05-14</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4406851219</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4406851219</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3599506,48.2579855,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PSA</name>
+<description>Lunaplatz 3, 4030 Linz
+https://www.openstreetmap.org/node/321195166</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/321195166</value></Data>
+<Data name="lat"><value>48.2580000</value></Data>
+<Data name="lon"><value>14.3603829</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Lunaplatz 3</value></Data>
+<Data name="postcode"><value>4030</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-05-14</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/321195166</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/321195166</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3603829,48.2580000,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Salzburger Straße 5, 4030 Linz
+https://www.openstreetmap.org/node/1066619364</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1066619364</value></Data>
+<Data name="lat"><value>48.2730625</value></Data>
+<Data name="lon"><value>14.3129447</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Salzburger Straße 5</value></Data>
+<Data name="postcode"><value>4030</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1066619364</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1066619364</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3129447,48.2730625,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Vogelfängerweg 17, 4030 Linz
+Opening hours: Mo-Fr 09:00-12:00 open &quot;Servicezeiten&quot; || Mo-Fr 07:00-19:00 open &quot;Beratungszeiten nach Terminvereinbarung&quot;
+https://www.openstreetmap.org/node/4210366479</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4210366479</value></Data>
+<Data name="lat"><value>48.2509427</value></Data>
+<Data name="lon"><value>14.2886511</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Vogelfängerweg 17</value></Data>
+<Data name="postcode"><value>4030</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00 open &quot;Servicezeiten&quot; || Mo-Fr 07:00-19:00 open &quot;Beratungszeiten nach Terminvereinbarung&quot;</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4210366479</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4210366479</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2886511,48.2509427,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Alice-Harnoncourt-Platz 1, 4040 Linz
+Opening hours: Mo-Fr 09:00-12:30,13:30-17:00
+https://www.openstreetmap.org/node/13787753103</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13787753103</value></Data>
+<Data name="lat"><value>48.3112019</value></Data>
+<Data name="lon"><value>14.2689456</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Alice-Harnoncourt-Platz 1</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30,13:30-17:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13787753103</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13787753103</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2689456,48.3112019,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Altenberger Straße 40, 4040 Linz
+Opening hours: Mo 08:30-12:00,14:00-16:00; Tu-Fr 08:30-12:00
+https://www.openstreetmap.org/node/269878069</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/269878069</value></Data>
+<Data name="lat"><value>48.3337088</value></Data>
+<Data name="lon"><value>14.3189206</value></Data>
+<Data name="name"><value>Raiffeisen Landesbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Altenberger Straße 40</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo 08:30-12:00,14:00-16:00; Tu-Fr 08:30-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/269878069</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/269878069</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3189206,48.3337088,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Altenberger Straße 6, 4040 Linz
+Opening hours: Mo,Tu,Th,Fr 09:00-12:00,13:00-15:00; We 09:00-12:00
+https://www.openstreetmap.org/node/269522997</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/269522997</value></Data>
+<Data name="lat"><value>48.3308866</value></Data>
+<Data name="lon"><value>14.3179041</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Altenberger Straße 6</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,Tu,Th,Fr 09:00-12:00,13:00-15:00; We 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-02-12</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/269522997</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/269522997</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3179041,48.3308866,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Oberösterreich</name>
+<description>Altenberger Straße 69, 4040 Linz
+Opening hours: Mo-Th 09:00-15:00; Fr 09:00-13:00
+https://www.openstreetmap.org/node/315038112</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/315038112</value></Data>
+<Data name="lat"><value>48.3378974</value></Data>
+<Data name="lon"><value>14.3204844</value></Data>
+<Data name="name"><value>Sparkasse Oberösterreich</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Altenberger Straße 69</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 09:00-15:00; Fr 09:00-13:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-02-28</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/315038112</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/315038112</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3204844,48.3378974,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Altenberger Straße 9, 4040 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/7832014740</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7832014740</value></Data>
+<Data name="lat"><value>48.3317763</value></Data>
+<Data name="lon"><value>14.3174474</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Altenberger Straße 9</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-21</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7832014740</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7832014740</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3174474,48.3317763,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Blütenstraße 15, 4040 Linz
+https://www.openstreetmap.org/node/986821876</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/986821876</value></Data>
+<Data name="lat"><value>48.3143725</value></Data>
+<Data name="lon"><value>14.2832098</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Blütenstraße 15</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/986821876</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/986821876</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2832098,48.3143725,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VKB Bank</name>
+<description>Dornacher Straße 11, 4040 Linz
+Opening hours: Mo-Su 05:00-24:00
+https://www.openstreetmap.org/node/1652758149</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1652758149</value></Data>
+<Data name="lat"><value>48.3318559</value></Data>
+<Data name="lon"><value>14.3107819</value></Data>
+<Data name="name"><value>VKB Bank Linz-Biesenfeld</value></Data>
+<Data name="operator"><value>VKB Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dornacher Straße 11</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Su 05:00-24:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-06-28</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1652758149</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1652758149</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3107819,48.3318559,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Freistädter Straße 313-315, 4040 Linz
+https://www.openstreetmap.org/node/6411373449</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6411373449</value></Data>
+<Data name="lat"><value>48.3295040</value></Data>
+<Data name="lon"><value>14.3194977</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Freistädter Straße 313-315</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-01-25</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6411373449</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6411373449</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3194977,48.3295040,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenlandesbank OÖ</name>
+<description>Gewerbepark Urfahr 6, 4040 Linz
+https://www.openstreetmap.org/node/7108863904</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7108863904</value></Data>
+<Data name="lat"><value>48.3171786</value></Data>
+<Data name="lon"><value>14.2872740</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenlandesbank OÖ</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Gewerbepark Urfahr 6</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-07-16</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7108863904</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7108863904</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2872740,48.3171786,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo</name>
+<description>Griesmayrstraße 19, 4040 Linz
+Opening hours: Mo-Fr 08:30-12:00, Th 14:00-16:30
+https://www.openstreetmap.org/node/634647506</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/634647506</value></Data>
+<Data name="lat"><value>48.3337953</value></Data>
+<Data name="lon"><value>14.2991234</value></Data>
+<Data name="name"><value>Hypo</value></Data>
+<Data name="operator"><value>Hypo</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Griesmayrstraße 19</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:00, Th 14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-03-05</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/634647506</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/634647506</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2991234,48.3337953,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Hauptstraße 33/1, 4040 Linz
+Opening hours: Mo-Th 08:00-12:00,14:00-16:00; Fr 08:00-14:00
+https://www.openstreetmap.org/node/256046542</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/256046542</value></Data>
+<Data name="lat"><value>48.3116710</value></Data>
+<Data name="lon"><value>14.2824639</value></Data>
+<Data name="name"><value>Raiffeisenlandesbank OÖ</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Hauptstraße 33/1</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:00,14:00-16:00; Fr 08:00-14:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-05-04</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/256046542;osm:node/1755065600</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/256046542</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2824639,48.3116710,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Oberösterreich</name>
+<description>Hauptstraße 52, 4040 Linz
+https://www.openstreetmap.org/node/7856613600</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7856613600</value></Data>
+<Data name="lat"><value>48.3140056</value></Data>
+<Data name="lon"><value>14.2816044</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse Oberösterreich</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptstraße 52</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-07-08</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7856613600</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7856613600</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2816044,48.3140056,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenlandesbank Oberösterreich</name>
+<description>Leonfeldner Straße 123, 4040 Linz
+Opening hours: Mo-Fr 08:00-12:00
+https://www.openstreetmap.org/node/259863267</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/259863267</value></Data>
+<Data name="lat"><value>48.3322720</value></Data>
+<Data name="lon"><value>14.2893775</value></Data>
+<Data name="name"><value>Bankstelle Gründberg</value></Data>
+<Data name="operator"><value>Raiffeisenlandesbank Oberösterreich</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Leonfeldner Straße 123</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/259863267</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/259863267</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2893775,48.3322720,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Leonfeldner Straße 75a, 4040 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/322705933</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/322705933</value></Data>
+<Data name="lat"><value>48.3267132</value></Data>
+<Data name="lon"><value>14.2842066</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Leonfeldner Straße 75a</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/322705933</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/322705933</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2842066,48.3267132,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volkskreditbank AG</name>
+<description>Linke Brückenstraße 26, 4040 Linz
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/559470592</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/559470592</value></Data>
+<Data name="lat"><value>48.3202090</value></Data>
+<Data name="lon"><value>14.2897206</value></Data>
+<Data name="name"><value>VKB Filiale Linz-Urfahr</value></Data>
+<Data name="operator"><value>Volkskreditbank AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Linke Brückenstraße 26</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/559470592</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/559470592</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2897206,48.3202090,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Schmiedegasse 14, 4040 Linz
+https://www.openstreetmap.org/node/7856613599</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7856613599</value></Data>
+<Data name="lat"><value>48.3145968</value></Data>
+<Data name="lon"><value>14.2829429</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Schmiedegasse 14</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7856613599</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7856613599</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2829429,48.3145968,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99</name>
+<description>Schmiedegasse 14, 4040 Linz
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/876467486</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/876467486</value></Data>
+<Data name="lat"><value>48.3147286</value></Data>
+<Data name="lon"><value>14.2827267</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Schmiedegasse 14</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-10-29</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/876467486;osm:node/3479515716</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/876467486</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2827267,48.3147286,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kurant</name>
+<description>Schmiedegasse 16, 4040 Linz
+Opening hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+https://www.openstreetmap.org/node/12057892871</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12057892871</value></Data>
+<Data name="lat"><value>48.3148532</value></Data>
+<Data name="lon"><value>14.2828438</value></Data>
+<Data name="name"><value>Kurant Bitcoin ATM</value></Data>
+<Data name="operator"><value>Kurant</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Schmiedegasse 16</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Sa 10:00-20:00; Su 11:00-19:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-07-16</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12057892871</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12057892871</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2828438,48.3148532,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Oberösterreich Linz-Urfahr</name>
+<description>Sparkassenplatz 2, 4040 Linz
+Opening hours: Mo-We 08:30-12:00,14:00-16:30; Th 08:30-12:00,14:00-17:45; Fr 08:30-14:00
+https://www.openstreetmap.org/way/144122888</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/144122888</value></Data>
+<Data name="lat"><value>48.3152897</value></Data>
+<Data name="lon"><value>14.2844581</value></Data>
+<Data name="name"><value>Sparkasse Oberösterreich Linz-Urfahr</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Sparkassenplatz 2</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-We 08:30-12:00,14:00-16:30; Th 08:30-12:00,14:00-17:45; Fr 08:30-14:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/144122888</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/144122888</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2844581,48.3152897,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse OÖ</name>
+<description>Sparkassenplatz 2, 4040 Linz
+https://www.openstreetmap.org/node/7108650763</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7108650763</value></Data>
+<Data name="lat"><value>48.3157198</value></Data>
+<Data name="lon"><value>14.2843996</value></Data>
+<Data name="name"><value>Sparkasse OÖ</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Sparkassenplatz 2</value></Data>
+<Data name="postcode"><value>4040</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-04-30</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7108650763</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7108650763</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2843996,48.3157198,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Johann-Wilhelm-Klein-Straße 23, 4046 Linz
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30
+https://www.openstreetmap.org/node/7594803029</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7594803029</value></Data>
+<Data name="lat"><value>48.3322727</value></Data>
+<Data name="lon"><value>14.3123784</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Johann-Wilhelm-Klein-Straße 23</value></Data>
+<Data name="postcode"><value>4046</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7594803029</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7594803029</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3123784,48.3322727,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Bäckermühlweg, 4050 Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/4428129560</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4428129560</value></Data>
+<Data name="lat"><value>48.2435755</value></Data>
+<Data name="lon"><value>14.2769795</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bäckermühlweg</value></Data>
+<Data name="postcode"><value>4050</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>nominatim_reverse</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-09-20</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4428129560</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4428129560</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2769795,48.2435755,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Landesbank</name>
+<description>Altenberger Straße 69, 4600 Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/309784250</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/309784250</value></Data>
+<Data name="lat"><value>48.3371756</value></Data>
+<Data name="lon"><value>14.3177874</value></Data>
+<Data name="name"><value>Raiffeisen Landesbank</value></Data>
+<Data name="operator"><value>Raiffeisen Landesbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Altenberger Straße 69</value></Data>
+<Data name="postcode"><value>4600</value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-07-22</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/309784250;osm:node/315038108</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/309784250</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3177874,48.3371756,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Garnisonstraße 21, Linz
+Opening hours: 24/7
+https://www.openstreetmap.org/node/3757302806</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3757302806</value></Data>
+<Data name="lat"><value>48.3012354</value></Data>
+<Data name="lon"><value>14.3111852</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Garnisonstraße 21</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3757302806</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3757302806</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3111852,48.3012354,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Hauptplatz 10, Linz
+https://www.openstreetmap.org/node/1566304084</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1566304084</value></Data>
+<Data name="lat"><value>48.3063027</value></Data>
+<Data name="lon"><value>14.2858238</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Hauptplatz 10</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>no</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-01-10</value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1566304084</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1566304084</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2858238,48.3063027,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Wagner-Jauregg-Weg 15, Linz
+https://www.openstreetmap.org/node/14205673301</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/14205673301</value></Data>
+<Data name="lat"><value>48.2810990</value></Data>
+<Data name="lon"><value>14.2971978</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Wagner-Jauregg-Weg 15</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/14205673301</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/14205673301</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2971978,48.2810990,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Wüstenrotplatz 2-4, Linz
+Opening hours: Mo-Fr 08:00-12:00
+https://www.openstreetmap.org/node/1493582210</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1493582210</value></Data>
+<Data name="lat"><value>48.2491479</value></Data>
+<Data name="lon"><value>14.3077340</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Wüstenrotplatz 2-4</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Linz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Linz</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1493582210</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1493582210</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3077340,48.2491479,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

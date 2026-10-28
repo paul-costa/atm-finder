@@ -1,0 +1,12 @@
+# Cloudflare Tunnel: atm-finder.costapaul.com -> 127.0.0.1:8090 (config in ~/.cloudflared/atm-finder.yml)
+[Unit]
+Description=Cloudflare Tunnel for atm-finder
+After=network-online.target
+
+[Service]
+ExecStart=%h/.local/bin/cloudflared --no-autoupdate tunnel --config %h/.cloudflared/atm-finder.yml run
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Innsbruck</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>PSA</name>
+<description>Adamgasse 2, 6020 Innsbruck
+https://www.openstreetmap.org/node/2864481799</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2864481799</value></Data>
+<Data name="lat"><value>47.2640812</value></Data>
+<Data name="lon"><value>11.3979756</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Adamgasse 2</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-10-21</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2864481799</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2864481799</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3979756,47.2640812,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Österreichische Nationalbank</name>
+<description>Adamgasse 2, 6020 Innsbruck
+Opening hours: Mo-We, Fr 08:00-13:00; Th 08:00-13:00, 14:00-16:30
+https://www.openstreetmap.org/way/55313499</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/55313499</value></Data>
+<Data name="lat"><value>47.2641366</value></Data>
+<Data name="lon"><value>11.3977654</value></Data>
+<Data name="name"><value>Österreichische Nationalbank</value></Data>
+<Data name="operator"><value>Österreichische Nationalbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Adamgasse 2</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-We, Fr 08:00-13:00; Th 08:00-13:00, 14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/55313499</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/55313499</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3977654,47.2641366,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kurant</name>
+<description>Amraser Straße 52, 6020 Innsbruck
+Opening hours: Mo-Su 06:00-21:00
+https://www.openstreetmap.org/node/12056122997</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12056122997</value></Data>
+<Data name="lat"><value>47.2629200</value></Data>
+<Data name="lon"><value>11.4083757</value></Data>
+<Data name="name"><value>Kurant Bitcoin ATM</value></Data>
+<Data name="operator"><value>Kurant</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Amraser Straße 52</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Su 06:00-21:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-07-15</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12056122997</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12056122997</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4083757,47.2629200,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV Vier Länder Bank</name>
+<description>Amraser Straße 54, 6020 Innsbruck
+Opening hours: 24/7
+https://www.openstreetmap.org/node/13140811351</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13140811351</value></Data>
+<Data name="lat"><value>47.2630078</value></Data>
+<Data name="lon"><value>11.4091675</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BTV Vier Länder Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Amraser Straße 54</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value>no</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13140811351</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13140811351</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4091675,47.2630078,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Amraser-See-Straße 29, 6020 Innsbruck
+Opening hours: 24/7
+https://www.openstreetmap.org/node/12137225431</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12137225431</value></Data>
+<Data name="lat"><value>47.2619954</value></Data>
+<Data name="lon"><value>11.4231507</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Amraser-See-Straße 29</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12137225431</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12137225431</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4231507,47.2619954,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Amraser-See-Straße 56a, 6020 Innsbruck
+Opening hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
+https://www.openstreetmap.org/node/7588983913</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7588983913</value></Data>
+<Data name="lat"><value>47.2623251</value></Data>
+<Data name="lon"><value>11.4296777</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Amraser-See-Straße 56a</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7588983913</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7588983913</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4296777,47.2623251,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Amraser-See-Straße 56a, 6020 Innsbruck
+Opening hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+https://www.openstreetmap.org/way/1238172043</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/1238172043</value></Data>
+<Data name="lat"><value>47.2626714</value></Data>
+<Data name="lon"><value>11.4300846</value></Data>
+<Data name="name"><value>BTV</value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Amraser-See-Straße 56a</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-19:00; Sa 09:00-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>room</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/1238172043</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/1238172043</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4300846,47.2626714,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Andechsstraße 73, 6020 Innsbruck
+https://www.openstreetmap.org/node/13476182903</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13476182903</value></Data>
+<Data name="lat"><value>47.2665111</value></Data>
+<Data name="lon"><value>11.4243382</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Andechsstraße 73</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13476182903</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13476182903</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4243382,47.2665111,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SPAR Österreichische Warenhandels-AG</name>
+<description>Andreas-Hofer-Straße 44, 6020 Innsbruck
+Opening hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+https://www.openstreetmap.org/node/253804521</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/253804521</value></Data>
+<Data name="lat"><value>47.2562709</value></Data>
+<Data name="lon"><value>11.3915936</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>SPAR Österreichische Warenhandels-AG</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Andreas-Hofer-Straße 44</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/253804521</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/253804521</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3915936,47.2562709,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse Bank AG</name>
+<description>Anichstraße 46, 6020 Innsbruck
+Opening hours: Mo, Tu, Th 07:45-12:30,14:15-16:00; We 07:45-12:00; Fr 07:45-15:00; PH off
+https://www.openstreetmap.org/node/955180972</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/955180972</value></Data>
+<Data name="lat"><value>47.2639010</value></Data>
+<Data name="lon"><value>11.3869647</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value>Tiroler Sparkasse Bank AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Anichstraße 46</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo, Tu, Th 07:45-12:30,14:15-16:00; We 07:45-12:00; Fr 07:45-15:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>no</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-27</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/955180972</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/955180972</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3869647,47.2639010,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse</name>
+<description>Arzler Straße 43a, 6020 Innsbruck
+https://www.openstreetmap.org/node/6326885146</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6326885146</value></Data>
+<Data name="lat"><value>47.2823173</value></Data>
+<Data name="lon"><value>11.4243620</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Tiroler Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Arzler Straße 43a</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-09-28</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6326885146</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6326885146</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4243620,47.2823173,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DenizBank AG</name>
+<description>Brixner Straße 3, 6020 Innsbruck
+Opening hours: Mo-Fr 09:00-12:30,13:30-17:00
+https://www.openstreetmap.org/node/596118987</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/596118987</value></Data>
+<Data name="lat"><value>47.2650123</value></Data>
+<Data name="lon"><value>11.3996796</value></Data>
+<Data name="name"><value>Denizbank</value></Data>
+<Data name="operator"><value>DenizBank AG</value></Data>
+<Data name="brand"><value>Denizbank</value></Data>
+<Data name="street"><value>Brixner Straße 3</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30,13:30-17:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-06-27</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/596118987</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/596118987</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3996796,47.2650123,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Eduard-Bodem-Gasse 6, 6020 Innsbruck
+https://www.openstreetmap.org/node/2355810369</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2355810369</value></Data>
+<Data name="lat"><value>47.2655565</value></Data>
+<Data name="lon"><value>11.4355205</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Eduard-Bodem-Gasse 6</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2355810369</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2355810369</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4355205,47.2655565,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Tirol</name>
+<description>Erzherzog-Eugen-Straße 19, 6020 Innsbruck
+https://www.openstreetmap.org/node/13754544300</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13754544300</value></Data>
+<Data name="lat"><value>47.2763223</value></Data>
+<Data name="lon"><value>11.4083410</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo Tirol</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Erzherzog-Eugen-Straße 19</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13754544300</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13754544300</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4083410,47.2763223,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Tirol</name>
+<description>Fürstenweg 180, 6020 Innsbruck
+https://www.openstreetmap.org/node/1760621000</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1760621000</value></Data>
+<Data name="lat"><value>47.2574763</value></Data>
+<Data name="lon"><value>11.3510439</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo Tirol</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Fürstenweg 180</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1760621000</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1760621000</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3510439,47.2574763,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SPAR Österreichische Warenhandels-AG</name>
+<description>Fürstenweg 42, 6020 Innsbruck
+Opening hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+https://www.openstreetmap.org/node/1562227188</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1562227188</value></Data>
+<Data name="lat"><value>47.2639664</value></Data>
+<Data name="lon"><value>11.3771171</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>SPAR Österreichische Warenhandels-AG</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Fürstenweg 42</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1562227188</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1562227188</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3771171,47.2639664,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bankomat</name>
+<description>General-Eccher-Straße 38, 6020 Innsbruck
+Opening hours: 24/7
+https://www.openstreetmap.org/node/2519597305</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2519597305</value></Data>
+<Data name="lat"><value>47.2751145</value></Data>
+<Data name="lon"><value>11.4187763</value></Data>
+<Data name="name"><value>Bankomat</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>General-Eccher-Straße 38</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-06-03</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2519597305</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2519597305</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4187763,47.2751145,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Grabenweg 60, 6020 Innsbruck
+https://www.openstreetmap.org/node/2355006564</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2355006564</value></Data>
+<Data name="lat"><value>47.2646248</value></Data>
+<Data name="lon"><value>11.4362271</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Grabenweg 60</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-08-12</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2355006564</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2355006564</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4362271,47.2646248,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MediaMarkt Innsbruck Ost GmbH</name>
+<description>Grabenweg 8, 6020 Innsbruck
+Opening hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH off
+https://www.openstreetmap.org/node/7166073600</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7166073600</value></Data>
+<Data name="lat"><value>47.2644887</value></Data>
+<Data name="lon"><value>11.4293377</value></Data>
+<Data name="name"><value>MediaMarkt</value></Data>
+<Data name="operator"><value>MediaMarkt Innsbruck Ost GmbH</value></Data>
+<Data name="brand"><value>MediaMarkt</value></Data>
+<Data name="street"><value>Grabenweg 8</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7166073600;osm:way/47110639</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7166073600</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4293377,47.2644887,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kurant</name>
+<description>Grabenweg 8, 6020 Innsbruck
+Opening hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+https://www.openstreetmap.org/node/12056018167</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12056018167</value></Data>
+<Data name="lat"><value>47.2645002</value></Data>
+<Data name="lon"><value>11.4294447</value></Data>
+<Data name="name"><value>Kurant Bitcoin ATM</value></Data>
+<Data name="operator"><value>Kurant</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Grabenweg 8</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-18:30; Sa 09:00-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-07-15</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12056018167</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12056018167</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4294447,47.2645002,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SPAR Österreichische Warenhandels-AG</name>
+<description>Gumppstraße 25, 6020 Innsbruck
+Opening hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off
+https://www.openstreetmap.org/node/587098455</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/587098455</value></Data>
+<Data name="lat"><value>47.2646764</value></Data>
+<Data name="lon"><value>11.4115342</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>SPAR Österreichische Warenhandels-AG</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Gumppstraße 25</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/587098455</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/587098455</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4115342,47.2646764,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Gumppstraße 26, 6020 Innsbruck
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/770591600</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/770591600</value></Data>
+<Data name="lat"><value>47.2644755</value></Data>
+<Data name="lon"><value>11.4120269</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Gumppstraße 26</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/770591600</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/770591600</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4120269,47.2644755,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Haller Straße 212, 6020 Innsbruck
+https://www.openstreetmap.org/node/13532150845</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13532150845</value></Data>
+<Data name="lat"><value>47.2769673</value></Data>
+<Data name="lon"><value>11.4437124</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Haller Straße 212</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13532150845</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13532150845</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4437124,47.2769673,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Herzog-Friedrich-Straße 11, 6020 Innsbruck
+Opening hours: Su-Th 12:00-23:00; Fr, Sa 12:00-01:00
+https://www.openstreetmap.org/node/760484427</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/760484427</value></Data>
+<Data name="lat"><value>47.2685611</value></Data>
+<Data name="lon"><value>11.3926134</value></Data>
+<Data name="name"><value>Franzs</value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Herzog-Friedrich-Straße 11</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Su-Th 12:00-23:00; Fr, Sa 12:00-01:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-05-02</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/760484427;osm:node/595350813</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/760484427</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3926134,47.2685611,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RLB</name>
+<description>Herzog-Friedrich-Straße 2, 6020 Innsbruck
+https://www.openstreetmap.org/node/760484412</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/760484412</value></Data>
+<Data name="lat"><value>47.2685144</value></Data>
+<Data name="lon"><value>11.3934363</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>RLB</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Herzog-Friedrich-Straße 2</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>no</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-06-17</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/760484412</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/760484412</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3934363,47.2685144,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Tirol Bank AG</name>
+<description>Hypo-Passage 1, 6020 Innsbruck
+Opening hours: Mo-Th 07:45-12:30, 14:15-16:00; Fr 07:45-15:00; PH off
+https://www.openstreetmap.org/node/4874109297</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4874109297</value></Data>
+<Data name="lat"><value>47.2570942</value></Data>
+<Data name="lon"><value>11.3960109</value></Data>
+<Data name="name"><value>Hypo Tirol</value></Data>
+<Data name="operator"><value>Hypo Tirol Bank AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hypo-Passage 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 07:45-12:30, 14:15-16:00; Fr 07:45-15:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4874109297;osm:way/1378867686</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4874109297</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3960109,47.2570942,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SBmit</name>
+<description>Höhenstraße 147, 6020 Innsbruck
+https://www.openstreetmap.org/node/12620492252</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12620492252</value></Data>
+<Data name="lat"><value>47.2859537</value></Data>
+<Data name="lon"><value>11.3992268</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>SBmit</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Höhenstraße 147</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12620492252</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12620492252</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3992268,47.2859537,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raffeisen-Landesbank Tirol AG</name>
+<description>Höttinger Au 41, 6020 Innsbruck
+Opening hours: We, Fr 08:00-13:00; Mo-Tu, Th 08:00-13:00, 14:00-16:00
+https://www.openstreetmap.org/node/759647739</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/759647739</value></Data>
+<Data name="lat"><value>47.2652966</value></Data>
+<Data name="lon"><value>11.3794762</value></Data>
+<Data name="name"><value>Raiffeisen Landesbank Tirol</value></Data>
+<Data name="operator"><value>Raffeisen-Landesbank Tirol AG</value></Data>
+<Data name="brand"><value>Raiffeisen-Landesbank Tirol</value></Data>
+<Data name="street"><value>Höttinger Au 41</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>We, Fr 08:00-13:00; Mo-Tu, Th 08:00-13:00, 14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/759647739</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/759647739</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3794762,47.2652966,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen-Landesbank Tirol</name>
+<description>Höttinger Au 73, 6020 Innsbruck
+https://www.openstreetmap.org/node/1753768330</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1753768330</value></Data>
+<Data name="lat"><value>47.2643854</value></Data>
+<Data name="lon"><value>11.3747429</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen-Landesbank Tirol</value></Data>
+<Data name="brand"><value>Raiffeisen-Landesbank Tirol</value></Data>
+<Data name="street"><value>Höttinger Au 73</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-04-17</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1753768330</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1753768330</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3747429,47.2643854,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Innrain 100, 6020 Innsbruck
+Opening hours: Mo-Fr 07:15-19:30; Sa 07:30-18:00; PH off
+https://www.openstreetmap.org/node/9176804615</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9176804615</value></Data>
+<Data name="lat"><value>47.2577729</value></Data>
+<Data name="lon"><value>11.3790637</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Innrain 100</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:15-19:30; Sa 07:30-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-04-10</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9176804615</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9176804615</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3790637,47.2577729,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Innrain 15, 6020 Innsbruck
+Opening hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
+https://www.openstreetmap.org/node/7588983909</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7588983909</value></Data>
+<Data name="lat"><value>47.2664018</value></Data>
+<Data name="lon"><value>11.3903642</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Innrain 15</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7588983909</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7588983909</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3903642,47.2664018,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SPAR Österreichische Warenhandels-AG</name>
+<description>Innrain 36, 6020 Innsbruck
+Opening hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+https://www.openstreetmap.org/node/440661118</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/440661118</value></Data>
+<Data name="lat"><value>47.2644248</value></Data>
+<Data name="lon"><value>11.3867617</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>SPAR Österreichische Warenhandels-AG</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Innrain 36</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/440661118</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/440661118</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3867617,47.2644248,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo</name>
+<description>Innrain 47a, 6020 Innsbruck
+https://www.openstreetmap.org/node/2549559831</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2549559831</value></Data>
+<Data name="lat"><value>47.2633375</value></Data>
+<Data name="lon"><value>11.3865224</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Innrain 47a</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-07-25</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2549559831</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2549559831</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3865224,47.2633375,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo</name>
+<description>Innrain 47a, 6020 Innsbruck
+Opening hours: Mo-Th 07:45-16:00; Fr 07:45-15:00; PH off
+https://www.openstreetmap.org/node/10889967124</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10889967124</value></Data>
+<Data name="lat"><value>47.2635547</value></Data>
+<Data name="lon"><value>11.3862044</value></Data>
+<Data name="name"><value>Hypo Tirol</value></Data>
+<Data name="operator"><value>Hypo</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Innrain 47a</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 07:45-16:00; Fr 07:45-15:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-26</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10889967124;osm:node/2019897225</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10889967124</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3862044,47.2635547,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Innrain 6, 6020 Innsbruck
+Opening hours: Mo-Th 08:00-12:30, Fr 08:00-15:00; PH off, Mo-Th 13:30-16:00
+https://www.openstreetmap.org/node/8910483542</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8910483542</value></Data>
+<Data name="lat"><value>47.2671831</value></Data>
+<Data name="lon"><value>11.3903623</value></Data>
+<Data name="name"><value>Raiffeisen Landesbank Tirol</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Innrain 6</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:30, Fr 08:00-15:00; PH off, Mo-Th 13:30-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-08-02</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8910483542;osm:node/1676712854</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8910483542</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3903623,47.2671831,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Innrain 6, 6020 Innsbruck
+https://www.openstreetmap.org/node/1676712853</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1676712853</value></Data>
+<Data name="lat"><value>47.2672399</value></Data>
+<Data name="lon"><value>11.3904075</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Innrain 6</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-08-02</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1676712853</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1676712853</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3904075,47.2672399,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Bank</name>
+<description>Innstraße 7, 6020 Innsbruck
+https://www.openstreetmap.org/node/3263372212</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3263372212</value></Data>
+<Data name="lat"><value>47.2692802</value></Data>
+<Data name="lon"><value>11.3903505</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Innstraße 7</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-11-13</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3263372212</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3263372212</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3903505,47.2692802,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>AMS Tirol</name>
+<description>Innstraße 7, 6020 Innsbruck
+Opening hours: Mo,Fr 08:00-12:30; Tu-Th 08:00-16:00
+https://www.openstreetmap.org/node/759647632</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/759647632</value></Data>
+<Data name="lat"><value>47.2693002</value></Data>
+<Data name="lon"><value>11.3903601</value></Data>
+<Data name="name"><value>AKIfair/ AKIworks</value></Data>
+<Data name="operator"><value>AMS Tirol</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Innstraße 7</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,Fr 08:00-12:30; Tu-Th 08:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/759647632</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/759647632</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3903601,47.2693002,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SPAR Österreichische Warenhandels-AG</name>
+<description>Karl-Schönherr-Straße 7-9, 6020 Innsbruck
+Opening hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+https://www.openstreetmap.org/node/373268936</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/373268936</value></Data>
+<Data name="lat"><value>47.2751020</value></Data>
+<Data name="lon"><value>11.3980280</value></Data>
+<Data name="name"><value>Eurospar</value></Data>
+<Data name="operator"><value>SPAR Österreichische Warenhandels-AG</value></Data>
+<Data name="brand"><value>Eurospar</value></Data>
+<Data name="street"><value>Karl-Schönherr-Straße 7-9</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/373268936</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/373268936</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3980280,47.2751020,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Karwendelbögen 1, 6020 Innsbruck
+https://www.openstreetmap.org/node/7809486776</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7809486776</value></Data>
+<Data name="lat"><value>47.2551265</value></Data>
+<Data name="lon"><value>11.3799639</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Karwendelbögen 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7809486776</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7809486776</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3799639,47.2551265,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Leopoldstraße 28, 6020 Innsbruck
+https://www.openstreetmap.org/node/2991024690</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2991024690</value></Data>
+<Data name="lat"><value>47.2596831</value></Data>
+<Data name="lon"><value>11.3955576</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Leopoldstraße 28</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2020-12-22</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2991024690</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2991024690</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3955576,47.2596831,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Leopoldstraße 31a, 6020 Innsbruck
+Opening hours: 05:00 - 22:00
+https://www.openstreetmap.org/node/4343949737</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4343949737</value></Data>
+<Data name="lat"><value>47.2593007</value></Data>
+<Data name="lon"><value>11.3970754</value></Data>
+<Data name="name"><value>BTV</value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Leopoldstraße 31a</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>05:00 - 22:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-07-19</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4343949737;osm:node/313360742</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4343949737</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3970754,47.2593007,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen-Landesbank Tirol</name>
+<description>Maria-Theresien-Straße 18, 6020 Innsbruck
+Opening hours: 24/7
+https://www.openstreetmap.org/node/2012758287</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2012758287</value></Data>
+<Data name="lat"><value>47.2655532</value></Data>
+<Data name="lon"><value>11.3936076</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen-Landesbank Tirol</value></Data>
+<Data name="brand"><value>Raiffeisen-Landesbank Tirol</value></Data>
+<Data name="street"><value>Maria-Theresien-Straße 18</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-11-17</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2012758287</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2012758287</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3936076,47.2655532,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse</name>
+<description>Maria-Theresien-Straße 25, 6020 Innsbruck
+https://www.openstreetmap.org/node/360041102</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/360041102</value></Data>
+<Data name="lat"><value>47.2658992</value></Data>
+<Data name="lon"><value>11.3944347</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Tiroler Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Maria-Theresien-Straße 25</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-09-21</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/360041102</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/360041102</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3944347,47.2658992,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse Bankaktiengesellschaft Innsbruck</name>
+<description>Maria-Theresien-Straße 27, 6020 Innsbruck
+https://www.openstreetmap.org/node/9388148291</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9388148291</value></Data>
+<Data name="lat"><value>47.2658251</value></Data>
+<Data name="lon"><value>11.3944639</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Tiroler Sparkasse Bankaktiengesellschaft Innsbruck</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Maria-Theresien-Straße 27</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-08-10</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9388148291</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9388148291</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3944639,47.2658251,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse</name>
+<description>Maria-Theresien-Straße 29, 6020 Innsbruck
+https://www.openstreetmap.org/node/4305053205</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4305053205</value></Data>
+<Data name="lat"><value>47.2656862</value></Data>
+<Data name="lon"><value>11.3943616</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Tiroler Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Maria-Theresien-Straße 29</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-07-26</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4305053205</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4305053205</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3943616,47.2656862,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse</name>
+<description>Maria-Theresien-Straße 29-35, 6020 Innsbruck
+https://www.openstreetmap.org/node/2963337548</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2963337548</value></Data>
+<Data name="lat"><value>47.2653139</value></Data>
+<Data name="lon"><value>11.3948609</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Tiroler Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Maria-Theresien-Straße 29-35</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-09-06</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2963337548</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2963337548</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3948609,47.2653139,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>UniCredit Bank Austria AG</name>
+<description>Maria-Theresien-Straße 36, 6020 Innsbruck
+Opening hours: Mo-Fr 08:30-15:00; PH off
+https://www.openstreetmap.org/node/313360282</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/313360282</value></Data>
+<Data name="lat"><value>47.2647705</value></Data>
+<Data name="lon"><value>11.3944211</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>UniCredit Bank Austria AG</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Maria-Theresien-Straße 36</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-15:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-03-01</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/313360282</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/313360282</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3944211,47.2647705,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Maximilianstraße 12, 6020 Innsbruck
+Opening hours: 24/7
+https://www.openstreetmap.org/node/11309141054</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/11309141054</value></Data>
+<Data name="lat"><value>47.2621706</value></Data>
+<Data name="lon"><value>11.3866498</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Maximilianstraße 12</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/11309141054</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/11309141054</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3866498,47.2621706,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank AG</name>
+<description>Meinhardstraße 1, 6020 Innsbruck
+Opening hours: Mo-Fr 08:00-12:00; PH off, Mo-Fr 14:00-16:00
+https://www.openstreetmap.org/node/593725454</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/593725454</value></Data>
+<Data name="lat"><value>47.2664868</value></Data>
+<Data name="lon"><value>11.3994949</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank AG</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Meinhardstraße 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00; PH off, Mo-Fr 14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/593725454</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/593725454</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3994949,47.2664868,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Tirol</name>
+<description>Meraner Straße 8, 6020 Innsbruck
+Opening hours: Mo-Th 08:00-16:00; Fr 08:00-15:00; PH off
+https://www.openstreetmap.org/node/4343949736</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4343949736</value></Data>
+<Data name="lat"><value>47.2649536</value></Data>
+<Data name="lon"><value>11.3969084</value></Data>
+<Data name="name"><value>Hypo Tirol</value></Data>
+<Data name="operator"><value>Hypo Tirol</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Meraner Straße 8</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-16:00; Fr 08:00-15:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-09-04</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4343949736;osm:node/1588713222</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4343949736</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3969084,47.2649536,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Mitterweg 16, 6020 Innsbruck
+https://www.openstreetmap.org/node/4972495173</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4972495173</value></Data>
+<Data name="lat"><value>47.2594606</value></Data>
+<Data name="lon"><value>11.3759926</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Mitterweg 16</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-05-28</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4972495173</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4972495173</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3759926,47.2594606,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank für Tirol und Vorarlberg AG</name>
+<description>Mitterweg 9, 6020 Innsbruck
+Opening hours: Mo-Fr 08:00-12:30; PH off
+https://www.openstreetmap.org/way/102638429</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/102638429</value></Data>
+<Data name="lat"><value>47.2590643</value></Data>
+<Data name="lon"><value>11.3768566</value></Data>
+<Data name="name"><value>BTV</value></Data>
+<Data name="operator"><value>Bank für Tirol und Vorarlberg AG</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Mitterweg 9</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:30; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/102638429</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/102638429</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3768566,47.2590643,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Mitterweg 9, 6020 Innsbruck
+https://www.openstreetmap.org/node/4972495174</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4972495174</value></Data>
+<Data name="lat"><value>47.2591506</value></Data>
+<Data name="lon"><value>11.3767716</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Mitterweg 9</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>no</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-02-07</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4972495174</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4972495174</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3767716,47.2591506,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Museumstraße 38, 6020 Innsbruck
+https://www.openstreetmap.org/node/3263382107</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3263382107</value></Data>
+<Data name="lat"><value>47.2661129</value></Data>
+<Data name="lon"><value>11.4038678</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Museumstraße 38</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-01-09</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3263382107</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3263382107</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4038678,47.2661129,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse Bank AG</name>
+<description>Pradler Straße 76, 6020 Innsbruck
+Opening hours: Mo-Th 07:45-12:30, 14:15-16:00; Fr 07:45-15:00; PH off || &quot;nach Vereinbarung&quot;
+https://www.openstreetmap.org/node/768562681</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/768562681</value></Data>
+<Data name="lat"><value>47.2625245</value></Data>
+<Data name="lon"><value>11.4118634</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value>Tiroler Sparkasse Bank AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Pradler Straße 76</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 07:45-12:30, 14:15-16:00; Fr 07:45-15:00; PH off || &quot;nach Vereinbarung&quot;</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/768562681</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/768562681</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4118634,47.2625245,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Prinz-Eugen-Straße 60, 6020 Innsbruck
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7588983912</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7588983912</value></Data>
+<Data name="lat"><value>47.2729546</value></Data>
+<Data name="lon"><value>11.4125121</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Prinz-Eugen-Straße 60</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7588983912</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7588983912</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4125121,47.2729546,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Raiffeisenplatz 1, 6020 Innsbruck
+https://www.openstreetmap.org/node/2408997995</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2408997995</value></Data>
+<Data name="lat"><value>47.2640199</value></Data>
+<Data name="lon"><value>11.3985269</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Raiffeisenplatz 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2408997995</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2408997995</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3985269,47.2640199,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vier Länder Bank</name>
+<description>Reichenauer Straße 147, 6020 Innsbruck
+https://www.openstreetmap.org/node/9580869034</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9580869034</value></Data>
+<Data name="lat"><value>47.2740812</value></Data>
+<Data name="lon"><value>11.4271915</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Vier Länder Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Reichenauer Straße 147</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2024-07-16</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9580869034</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9580869034</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4271915,47.2740812,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse Bankaktiengesellschaft Innsbruck</name>
+<description>Reichenauer Straße 66, 6020 Innsbruck
+Opening hours: Mo-Th 08:00-12:00,13:30-16:00; Fr 08:00-15:00
+https://www.openstreetmap.org/node/890390249</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/890390249</value></Data>
+<Data name="lat"><value>47.2724924</value></Data>
+<Data name="lon"><value>11.4160720</value></Data>
+<Data name="name"><value>Tiroler Sparkasse, Beratungszentrum Reichenau</value></Data>
+<Data name="operator"><value>Tiroler Sparkasse Bankaktiengesellschaft Innsbruck</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Reichenauer Straße 66</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:00,13:30-16:00; Fr 08:00-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/890390249</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/890390249</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4160720,47.2724924,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RLB</name>
+<description>Rennweg 3, 6020 Innsbruck
+https://www.openstreetmap.org/node/373268940</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/373268940</value></Data>
+<Data name="lat"><value>47.2702133</value></Data>
+<Data name="lon"><value>11.3952010</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>RLB</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rennweg 3</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-06-16</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/373268940</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/373268940</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3952010,47.2702133,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Salurner Straße 2a, 6020 Innsbruck
+Opening hours: Mo-Fr 08:00-12:30,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7588983910</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7588983910</value></Data>
+<Data name="lat"><value>47.2632562</value></Data>
+<Data name="lon"><value>11.3994202</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Salurner Straße 2a</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:30,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7588983910</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7588983910</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3994202,47.2632562,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Schneeburggasse 7, 6020 Innsbruck
+https://www.openstreetmap.org/node/10890069889</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10890069889</value></Data>
+<Data name="lat"><value>47.2712122</value></Data>
+<Data name="lon"><value>11.3860577</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Schneeburggasse 7</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10890069889</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10890069889</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3860577,47.2712122,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Schützenstraße 47, 6020 Innsbruck
+https://www.openstreetmap.org/node/1218238084</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1218238084</value></Data>
+<Data name="lat"><value>47.2739518</value></Data>
+<Data name="lon"><value>11.4426355</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Schützenstraße 47</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2024-08-21</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1218238084</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1218238084</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4426355,47.2739518,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Schützenstraße 49, 6020 Innsbruck
+Opening hours: Mo-Su 05:00-22:00
+https://www.openstreetmap.org/node/1589529417</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1589529417</value></Data>
+<Data name="lat"><value>47.2740429</value></Data>
+<Data name="lon"><value>11.4432801</value></Data>
+<Data name="name"><value>BTV</value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Schützenstraße 49</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Su 05:00-22:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1589529417</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1589529417</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4432801,47.2740429,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Schützenstraße 64, 6020 Innsbruck
+Opening hours: Mo-Th 08:00-12:00,13:30-16:00; Fr 08:00-15:00; Sa-Su,PH off
+https://www.openstreetmap.org/node/1589529435</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1589529435</value></Data>
+<Data name="lat"><value>47.2738328</value></Data>
+<Data name="lon"><value>11.4442112</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Schützenstraße 64</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:00,13:30-16:00; Fr 08:00-15:00; Sa-Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-11-04</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1589529435</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1589529435</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4442112,47.2738328,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG SB-Foyer</name>
+<description>Schützenstraße 70, 6020 Innsbruck
+Opening hours: 24/7
+https://www.openstreetmap.org/node/1589529438</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1589529438</value></Data>
+<Data name="lat"><value>47.2739956</value></Data>
+<Data name="lon"><value>11.4453065</value></Data>
+<Data name="name"><value>BAWAG PSK</value></Data>
+<Data name="operator"><value>BAWAG SB-Foyer</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Schützenstraße 70</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-10-14</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1589529438</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1589529438</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4453065,47.2739956,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Siebererstraße, 6020 Innsbruck
+https://www.openstreetmap.org/node/3924378573</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3924378573</value></Data>
+<Data name="lat"><value>47.2720048</value></Data>
+<Data name="lon"><value>11.4043465</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Siebererstraße</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>nominatim_reverse</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3924378573</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3924378573</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4043465,47.2720048,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse Bankaktiengesellschaft Innsbruck</name>
+<description>Sparkassenplatz 1, 6020 Innsbruck
+Opening hours: Mo-Th 08:00-16:00; Fr 08:00-13:00; Sa-Su,PH off
+https://www.openstreetmap.org/node/1588713218</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1588713218</value></Data>
+<Data name="lat"><value>47.2662130</value></Data>
+<Data name="lon"><value>11.3953018</value></Data>
+<Data name="name"><value>Tiroler Sparkasse</value></Data>
+<Data name="operator"><value>Tiroler Sparkasse Bankaktiengesellschaft Innsbruck</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Sparkassenplatz 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-16:00; Fr 08:00-13:00; Sa-Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1588713218</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1588713218</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3953018,47.2662130,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bawag</name>
+<description>Stadlweg 1, 6020 Innsbruck
+Opening hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00
+https://www.openstreetmap.org/node/13744446601</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13744446601</value></Data>
+<Data name="lat"><value>47.2669910</value></Data>
+<Data name="lon"><value>11.4263960</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>bawag</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Stadlweg 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:30-19:00; Sa 08:00-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-04-20</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13744446601</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13744446601</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4263960,47.2669910,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BTV</name>
+<description>Stadtforum 1, 6020 Innsbruck
+Opening hours: Mo-Fr 07:45-16:00; PH off || &quot;nach Vereinbarung&quot;
+https://www.openstreetmap.org/node/1588713219</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1588713219</value></Data>
+<Data name="lat"><value>47.2662552</value></Data>
+<Data name="lon"><value>11.3962118</value></Data>
+<Data name="name"><value>BTV</value></Data>
+<Data name="operator"><value>BTV</value></Data>
+<Data name="brand"><value>BTV</value></Data>
+<Data name="street"><value>Stadtforum 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:45-16:00; PH off || &quot;nach Vereinbarung&quot;</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-08-19</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1588713219</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1588713219</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3962118,47.2662552,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SPARDA-BANK AUSTRIA eGen</name>
+<description>Südbahnstraße 14, 6020 Innsbruck
+Opening hours: Mo-We 08:00-12:30, 14:00-16:00; Th 08:00-12:30, 14:00-18:00; Fr 08:00-13:00; PH off
+https://www.openstreetmap.org/node/2715668854</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2715668854</value></Data>
+<Data name="lat"><value>47.2616866</value></Data>
+<Data name="lon"><value>11.3992395</value></Data>
+<Data name="name"><value>Sparda</value></Data>
+<Data name="operator"><value>SPARDA-BANK AUSTRIA eGen</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Südbahnstraße 14</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-We 08:00-12:30, 14:00-16:00; Th 08:00-12:30, 14:00-18:00; Fr 08:00-13:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-02-08</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2715668854</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2715668854</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3992395,47.2616866,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Südtiroler Platz 3, 6020 Innsbruck
+https://www.openstreetmap.org/node/2820317940</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2820317940</value></Data>
+<Data name="lat"><value>47.2634281</value></Data>
+<Data name="lon"><value>11.4005258</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Südtiroler Platz 3</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-12-30</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2820317940</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2820317940</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4005258,47.2634281,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Südtiroler Platz 3, 6020 Innsbruck
+https://www.openstreetmap.org/node/2820317941</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2820317941</value></Data>
+<Data name="lat"><value>47.2635330</value></Data>
+<Data name="lon"><value>11.4006553</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Südtiroler Platz 3</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-12-30</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2820317941</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2820317941</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4006553,47.2635330,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Südtiroler Platz 8, 6020 Innsbruck
+https://www.openstreetmap.org/node/1822847433</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1822847433</value></Data>
+<Data name="lat"><value>47.2636776</value></Data>
+<Data name="lon"><value>11.3997338</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Südtiroler Platz 8</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-02-22</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1822847433</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1822847433</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3997338,47.2636776,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tiroler Sparkasse</name>
+<description>Technikerstraße 34, 6020 Innsbruck
+Opening hours: Mo-Th 08:00-12:00,13:30-16:00; Fr 08:00-15:00
+https://www.openstreetmap.org/node/2194867570</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2194867570</value></Data>
+<Data name="lat"><value>47.2653554</value></Data>
+<Data name="lon"><value>11.3474042</value></Data>
+<Data name="name"><value>Tiroler Sparkasse Filiale Innsbruck-West</value></Data>
+<Data name="operator"><value>Tiroler Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Technikerstraße 34</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:00,13:30-16:00; Fr 08:00-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-09-06</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2194867570</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2194867570</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3474042,47.2653554,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Technikerstraße 5, 6020 Innsbruck
+https://www.openstreetmap.org/node/4591016759</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4591016759</value></Data>
+<Data name="lat"><value>47.2639546</value></Data>
+<Data name="lon"><value>11.3505699</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Technikerstraße 5</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4591016759</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4591016759</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3505699,47.2639546,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Universitätsstraße 15b, 6020 Innsbruck
+https://www.openstreetmap.org/node/3959141084</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3959141084</value></Data>
+<Data name="lat"><value>47.2691636</value></Data>
+<Data name="lon"><value>11.3987696</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Universitätsstraße 15b</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-05-28</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3959141084</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3959141084</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3987696,47.2691636,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Tirol</name>
+<description>Viktor-Franz-Hess-Straße 1, 6020 Innsbruck
+Opening hours: Mo-Fr 08:00-12:30; PH off
+https://www.openstreetmap.org/node/4376834048</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4376834048</value></Data>
+<Data name="lat"><value>47.2654689</value></Data>
+<Data name="lon"><value>11.3454491</value></Data>
+<Data name="name"><value>Hypo Tirol</value></Data>
+<Data name="operator"><value>Hypo Tirol</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Viktor-Franz-Hess-Straße 1</value></Data>
+<Data name="postcode"><value>6020</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:30; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-09-08</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4376834048;osm:node/768555985</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4376834048</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3454491,47.2654689,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>TISPA</name>
+<description>Hilberstraße 18, 6080 Innsbruck
+https://www.openstreetmap.org/node/253792259</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/253792259</value></Data>
+<Data name="lat"><value>47.2307343</value></Data>
+<Data name="lon"><value>11.4098489</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>TISPA</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hilberstraße 18</value></Data>
+<Data name="postcode"><value>6080</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/253792259</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/253792259</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4098489,47.2307343,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Hilberstraße 24, 6080 Innsbruck
+https://www.openstreetmap.org/node/1097748413</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1097748413</value></Data>
+<Data name="lat"><value>47.2306857</value></Data>
+<Data name="lon"><value>11.4105106</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Hilberstraße 24</value></Data>
+<Data name="postcode"><value>6080</value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1097748413</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1097748413</value></Data>
+</ExtendedData>
+<Point><coordinates>11.4105106,47.2306857,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Salurner Straße 15, Innsbruck
+https://www.openstreetmap.org/node/2408999907</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2408999907</value></Data>
+<Data name="lat"><value>47.2626145</value></Data>
+<Data name="lon"><value>11.3956935</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Salurner Straße 15</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Innsbruck</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-02-05</value></Data>
+<Data name="place"><value>Innsbruck</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2408999907</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2408999907</value></Data>
+</ExtendedData>
+<Point><coordinates>11.3956935,47.2626145,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

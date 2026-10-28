@@ -1,0 +1,27 @@
+[package]
+name = "atm-finder"
+description = "Export ATM locations in Austria (any municipality, district or state) from OpenStreetMap as CSV, GeoJSON or KML."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+authors.workspace = true
+publish = false
+
+[[bin]]
+name = "atm-finder"
+path = "src/main.rs"
+
+[dependencies]
+# The engine (boundaries, Overpass queries, merging, export); shared with the website.
+atm-finder-core = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+# Command-line parsing with --help texts generated from the doc comments in main.rs.
+clap = { version = "4", features = ["derive", "wrap_help"] }
+# Small blocking HTTP client with rustls, so no system TLS library is needed.
+ureq = "2"
+# Reading and writing the address lists of `atm-finder geocode`.
+csv = "1"
+# Legacy encodings such as cp1252 for old Excel exports.
+encoding_rs = "0.8"

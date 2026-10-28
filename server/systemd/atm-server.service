@@ -1,0 +1,17 @@
+# atm-finder website + Google Maps list API (user service on costaserver)
+# Install: ln -sf ~/atm-finder/server/systemd/atm-*.service ~/atm-finder/server/systemd/atm-*.timer ~/.config/systemd/user/
+#          systemctl --user daemon-reload && systemctl --user enable --now atm-server atm-tunnel atm-backup.timer
+[Unit]
+Description=atm-finder server (website + list API on 127.0.0.1:8090)
+After=network-online.target
+
+[Service]
+WorkingDirectory=%h/atm-finder
+Environment=ATM_GOOGLE_ACCOUNT=dosed.admin.android@gmail.com
+Environment=ATM_DIST=%h/.local/share/atm-finder/site
+ExecStart=%h/.local/bin/node server/atm-server.js serve
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

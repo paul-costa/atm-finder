@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Eisenstadt</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>Erste Bank</name>
+<description>Beim Alten Stadttor 1-3, 7000 Eisenstadt
+Opening hours: Mo-Fr 09:00-12:00,13:00-15:00
+https://www.openstreetmap.org/node/2271977728</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2271977728</value></Data>
+<Data name="lat"><value>47.8468302</value></Data>
+<Data name="lon"><value>16.5264341</value></Data>
+<Data name="name"><value>ERSTE Bank</value></Data>
+<Data name="operator"><value>Erste Bank</value></Data>
+<Data name="brand"><value>Erste Bank</value></Data>
+<Data name="street"><value>Beim Alten Stadttor 1-3</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00,13:00-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-05-28</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2271977728;osm:way/252912403</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2271977728</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5264341,47.8468302,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Betriebsstraße 1, 7000 Eisenstadt
+https://www.openstreetmap.org/node/3534516488</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3534516488</value></Data>
+<Data name="lat"><value>47.8301987</value></Data>
+<Data name="lon"><value>16.5317347</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Betriebsstraße 1</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3534516488</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3534516488</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5317347,47.8301987,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Esterhazystraße 9-13, 7000 Eisenstadt
+https://www.openstreetmap.org/node/2271976580</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2271976580</value></Data>
+<Data name="lat"><value>47.8457553</value></Data>
+<Data name="lon"><value>16.5168040</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Esterhazystraße 9-13</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>no</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-05-05</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2271976580</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2271976580</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5168040,47.8457553,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Franz Liszt-Gasse 2, 7000 Eisenstadt
+Opening hours: Mo,We 08:00-13:00; Tu,Th 08:00-13:00,14:00-16:00; Fr 08:00-12:30,13:00-15:00
+https://www.openstreetmap.org/node/3317811362</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3317811362</value></Data>
+<Data name="lat"><value>47.8473838</value></Data>
+<Data name="lon"><value>16.5256082</value></Data>
+<Data name="name"><value>Raiffeisen Landesbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Franz Liszt-Gasse 2</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo,We 08:00-13:00; Tu,Th 08:00-13:00,14:00-16:00; Fr 08:00-12:30,13:00-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-03-22</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3317811362;osm:way/252344299</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3317811362</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5256082,47.8473838,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Ignaz-Philipp-Semmelweis-Gasse 7, 7000 Eisenstadt
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/340519475</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/340519475</value></Data>
+<Data name="lat"><value>47.8449379</value></Data>
+<Data name="lon"><value>16.5210970</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Ignaz-Philipp-Semmelweis-Gasse 7</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/340519475</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/340519475</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5210970,47.8449379,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Ing. Hans Sylvester-Straße 9, 7000 Eisenstadt
+https://www.openstreetmap.org/node/3314613844</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3314613844</value></Data>
+<Data name="lat"><value>47.8514002</value></Data>
+<Data name="lon"><value>16.5318306</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Ing. Hans Sylvester-Straße 9</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-06-04</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3314613844</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3314613844</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5318306,47.8514002,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Austria</name>
+<description>Mattersburger Straße 32, 7000 Eisenstadt
+Opening hours: Mo-Fr 08:30-12:30,13:30-15:00
+https://www.openstreetmap.org/way/323691012</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/323691012</value></Data>
+<Data name="lat"><value>47.8323701</value></Data>
+<Data name="lon"><value>16.5228631</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>Bank Austria</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Mattersburger Straße 32</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,13:30-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/323691012</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/323691012</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5228631,47.8323701,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Burgenland AG</name>
+<description>Neusiedler Straße 33, 7000 Eisenstadt
+https://www.openstreetmap.org/node/2271978329</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2271978329</value></Data>
+<Data name="lat"><value>47.8469271</value></Data>
+<Data name="lon"><value>16.5301280</value></Data>
+<Data name="name"><value>Bank Burgenland AG</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Neusiedler Straße 33</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-05-28</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2271978329</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2271978329</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5301280,47.8469271,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Robert-Graf Platz 1, 7000 Eisenstadt
+https://www.openstreetmap.org/node/4557410229</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4557410229</value></Data>
+<Data name="lat"><value>47.8426933</value></Data>
+<Data name="lon"><value>16.5269386</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Robert-Graf Platz 1</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-05-26</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4557410229</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4557410229</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5269386,47.8426933,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Ruster Straße 149, 7000 Eisenstadt
+https://www.openstreetmap.org/node/5197211656</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5197211656</value></Data>
+<Data name="lat"><value>47.8279079</value></Data>
+<Data name="lon"><value>16.5324655</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Ruster Straße 149</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-06-12</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5197211656</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5197211656</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5324655,47.8279079,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Burgenland</name>
+<description>Ruster Straße 82, 7000 Eisenstadt
+https://www.openstreetmap.org/node/3534516489</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3534516489</value></Data>
+<Data name="lat"><value>47.8352673</value></Data>
+<Data name="lon"><value>16.5277847</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Bank Burgenland</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Ruster Straße 82</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-09-30</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3534516489</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3534516489</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5277847,47.8352673,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS Bank</name>
+<description>Ruster Straße 85, 7000 Eisenstadt
+https://www.openstreetmap.org/node/3534516490</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3534516490</value></Data>
+<Data name="lat"><value>47.8368723</value></Data>
+<Data name="lon"><value>16.5285406</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BKS Bank</value></Data>
+<Data name="brand"><value>BKS Bank</value></Data>
+<Data name="street"><value>Ruster Straße 85</value></Data>
+<Data name="postcode"><value>7000</value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-06-26</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3534516490</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3534516490</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5285406,47.8368723,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Burgenland AG</name>
+<description>Hauptstraße 31, Eisenstadt
+https://www.openstreetmap.org/node/2271977447</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2271977447</value></Data>
+<Data name="lat"><value>47.8465008</value></Data>
+<Data name="lon"><value>16.5238339</value></Data>
+<Data name="name"><value>Bank Burgenland AG</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptstraße 31</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Eisenstadt</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-05-28</value></Data>
+<Data name="place"><value>Eisenstadt</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2271977447</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2271977447</value></Data>
+</ExtendedData>
+<Point><coordinates>16.5238339,47.8465008,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

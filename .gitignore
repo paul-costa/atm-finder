@@ -1,0 +1,10 @@
+# build output
+target/
+web/dist/
+
+# local configuration and scratch
+.env
+output/
+.DS_Store
+node_modules/
+web/e2e/screenshot-*.png

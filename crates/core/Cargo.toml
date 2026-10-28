@@ -1,0 +1,13 @@
+[package]
+name = "atm-finder-core"
+description = "Engine of atm-finder: Austrian boundaries, Overpass queries, ATM merging, address matching and CSV/GeoJSON/KML export. No I/O."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+authors.workspace = true
+publish = false
+
+[dependencies]
+serde = { workspace = true }
+serde_json = { workspace = true }

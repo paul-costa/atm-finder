@@ -1,0 +1,7 @@
+# Copy the list backups (and the lock) to the backup disk.
+[Unit]
+Description=atm-finder: back up the Google Maps lists
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh -c 'mkdir -p /mnt/backup/atm-finder && cp -a %h/.local/share/atm-finder/lists %h/.local/share/atm-finder/lists-old /mnt/backup/atm-finder/ 2>/dev/null; ls /mnt/backup/atm-finder'

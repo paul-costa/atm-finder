@@ -1,0 +1,10 @@
+{
+  "name": "atm-finder-server",
+  "private": true,
+  "description": "Website and Google Maps list API of atm-finder on costaserver",
+  "license": "MIT",
+  "main": "atm-server.js",
+  "dependencies": {
+    "playwright-core": "^1.56.0"
+  }
+}

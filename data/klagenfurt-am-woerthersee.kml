@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Klagenfurt am Wörthersee</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>Posojilnica Bank</name>
+<description>10.-Oktober-Straße 21, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/12957200940</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12957200940</value></Data>
+<Data name="lat"><value>46.6217917</value></Data>
+<Data name="lon"><value>14.3075107</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Posojilnica Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>10.-Oktober-Straße 21</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12957200940</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12957200940</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3075107,46.6217917,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Euronet</name>
+<description>8.-Mai-Straße 33, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/8689767249</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8689767249</value></Data>
+<Data name="lat"><value>46.6231681</value></Data>
+<Data name="lon"><value>14.3113773</value></Data>
+<Data name="name"><value>Euronet</value></Data>
+<Data name="operator"><value>Euronet</value></Data>
+<Data name="brand"><value>Euronet</value></Data>
+<Data name="street"><value>8.-Mai-Straße 33</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8689767249</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8689767249</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3113773,46.6231681,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Spar</name>
+<description>Bahnhofstraße 37, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00; PH off
+https://www.openstreetmap.org/node/5006376867</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5006376867</value></Data>
+<Data name="lat"><value>46.6216373</value></Data>
+<Data name="lon"><value>14.3109557</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>Spar</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Bahnhofstraße 37</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 06:50-19:00; Sa 06:50-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-08-15</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5006376867</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5006376867</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3109557,46.6216373,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK AG</name>
+<description>Burggasse 12, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 09:00-17:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/6734430564</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6734430564</value></Data>
+<Data name="lat"><value>46.6242328</value></Data>
+<Data name="lon"><value>14.3111722</value></Data>
+<Data name="name"><value>BAWAG PSK</value></Data>
+<Data name="operator"><value>BAWAG PSK AG</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Burggasse 12</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-17:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6734430564</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6734430564</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3111722,46.6242328,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Austrian Anadi Bank AG</name>
+<description>Domgasse 5, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/way/166775613</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/166775613</value></Data>
+<Data name="lat"><value>46.6238392</value></Data>
+<Data name="lon"><value>14.3099695</value></Data>
+<Data name="name"><value>Austrian Anadi Bank AG</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Domgasse 5</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-11-18</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/166775613</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/166775613</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3099695,46.6238392,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS Bank</name>
+<description>Dr.-Arthur-Lemisch-Platz 5, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Th 08:00-16:30; Fr 08:00-13:00
+https://www.openstreetmap.org/node/809570369</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/809570369</value></Data>
+<Data name="lat"><value>46.6243853</value></Data>
+<Data name="lon"><value>14.3085398</value></Data>
+<Data name="name"><value>BKS Bank</value></Data>
+<Data name="operator"><value>BKS Bank</value></Data>
+<Data name="brand"><value>BKS Bank</value></Data>
+<Data name="street"><value>Dr.-Arthur-Lemisch-Platz 5</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-16:30; Fr 08:00-13:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-08-10</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/809570369</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/809570369</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3085398,46.6243853,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Dr.-Herrmann-Gasse 4, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-18:00, Sa,Su,PH off
+https://www.openstreetmap.org/node/7556005460</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7556005460</value></Data>
+<Data name="lat"><value>46.6233557</value></Data>
+<Data name="lon"><value>14.3054827</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Dr.-Herrmann-Gasse 4</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00, Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7556005460</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7556005460</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3054827,46.6233557,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99</name>
+<description>Durchlaßstraße 4A, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
+https://www.openstreetmap.org/node/7589277985</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7589277985</value></Data>
+<Data name="lat"><value>46.6360277</value></Data>
+<Data name="lon"><value>14.3151605</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Durchlaßstraße 4A</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-08-27</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7589277985;osm:node/7556005459</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7589277985</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3151605,46.6360277,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Feldkirchner Straße 140, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 09:00-12:30,14:00-16:00
+https://www.openstreetmap.org/node/1365204143</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1365204143</value></Data>
+<Data name="lat"><value>46.6411401</value></Data>
+<Data name="lon"><value>14.2891290</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Feldkirchner Straße 140</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30,14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1365204143</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1365204143</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2891290,46.6411401,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Austrian Anadi Bank</name>
+<description>Feschnigstraße 11, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 07:30-18:00
+https://www.openstreetmap.org/node/11640693458</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/11640693458</value></Data>
+<Data name="lat"><value>46.6357620</value></Data>
+<Data name="lon"><value>14.3075720</value></Data>
+<Data name="name"><value>Austrian Anadi Bank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Feschnigstraße 11</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:30-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-02-19</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/11640693458</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/11640693458</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3075720,46.6357620,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Burgenland</name>
+<description>Feschnigstraße 7, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-12:00
+https://www.openstreetmap.org/way/241680817</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/241680817</value></Data>
+<Data name="lat"><value>46.6364896</value></Data>
+<Data name="lon"><value>14.3106778</value></Data>
+<Data name="name"><value>Bank Burgenland</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Feschnigstraße 7</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-10-02</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/241680817</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/241680817</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3106778,46.6364896,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Flatschacher Straße 64, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/2534908191</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2534908191</value></Data>
+<Data name="lat"><value>46.6143318</value></Data>
+<Data name="lon"><value>14.3201652</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Flatschacher Straße 64</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-11-04</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2534908191</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2534908191</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3201652,46.6143318,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bankomat</name>
+<description>Flughafenstraße 60, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/4410956392</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4410956392</value></Data>
+<Data name="lat"><value>46.6500626</value></Data>
+<Data name="lon"><value>14.3244599</value></Data>
+<Data name="name"><value>Bankomat</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Flughafenstraße 60</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4410956392</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4410956392</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3244599,46.6500626,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Spar</name>
+<description>Heiligengeistplatz 4, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00; PH off
+https://www.openstreetmap.org/node/1442215160</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1442215160</value></Data>
+<Data name="lat"><value>46.6241196</value></Data>
+<Data name="lon"><value>14.3043118</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>Spar</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Heiligengeistplatz 4</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 06:50-19:00; Sa 06:50-18:00; PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-04-08</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1442215160</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1442215160</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3043118,46.6241196,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Heuplatz 1, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/1749050538</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1749050538</value></Data>
+<Data name="lat"><value>46.6263899</value></Data>
+<Data name="lon"><value>14.3080597</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Heuplatz 1</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-11-26</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1749050538</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1749050538</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3080597,46.6263899,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS Bank</name>
+<description>Kramergasse 10, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/10084406759</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10084406759</value></Data>
+<Data name="lat"><value>46.6249348</value></Data>
+<Data name="lon"><value>14.3078388</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BKS Bank</value></Data>
+<Data name="brand"><value>BKS Bank</value></Data>
+<Data name="street"><value>Kramergasse 10</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2024-10-11</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10084406759</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10084406759</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3078388,46.6249348,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS Bank</name>
+<description>Lastenstraße, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/2534908192</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2534908192</value></Data>
+<Data name="lat"><value>46.6146629</value></Data>
+<Data name="lon"><value>14.3207399</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BKS Bank</value></Data>
+<Data name="brand"><value>BKS Bank</value></Data>
+<Data name="street"><value>Lastenstraße</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>nominatim_reverse</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-06-10</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2534908192</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2534908192</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3207399,46.6146629,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Spar</name>
+<description>Mantschehofgasse 1, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+https://www.openstreetmap.org/way/183872646</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/183872646</value></Data>
+<Data name="lat"><value>46.6404907</value></Data>
+<Data name="lon"><value>14.2924933</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>Spar</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Mantschehofgasse 1</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 06:50-19:00; Sa 06:50-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-05-24</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/183872646</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/183872646</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2924933,46.6404907,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS</name>
+<description>Maria-Platzer-Straße 2, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/2302694732</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2302694732</value></Data>
+<Data name="lat"><value>46.6134854</value></Data>
+<Data name="lon"><value>14.2834563</value></Data>
+<Data name="name"><value>BKS</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Maria-Platzer-Straße 2</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2302694732</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2302694732</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2834563,46.6134854,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PSA Payment Services Austria</name>
+<description>Metnitzstrand 2, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/5840525406</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5840525406</value></Data>
+<Data name="lat"><value>46.6197305</value></Data>
+<Data name="lon"><value>14.2557610</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA Payment Services Austria</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Metnitzstrand 2</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>nominatim_reverse</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-08-29</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5840525406</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5840525406</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2557610,46.6197305,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Nautilusweg 12, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/13335737546</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13335737546</value></Data>
+<Data name="lat"><value>46.6171353</value></Data>
+<Data name="lon"><value>14.2666586</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Kärntner Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Nautilusweg 12</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-11-27</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13335737546</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13335737546</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2666586,46.6171353,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Posojilnica Bank eGen</name>
+<description>Paulitschgasse 5-7, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo,Fr 08:00-12:00,13:00-16:00; Tu-Th 08:00-12:00
+https://www.openstreetmap.org/node/528159024</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/528159024</value></Data>
+<Data name="lat"><value>46.6216888</value></Data>
+<Data name="lon"><value>14.3076828</value></Data>
+<Data name="name"><value>Poso Bank AG</value></Data>
+<Data name="operator"><value>Posojilnica Bank eGen</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Paulitschgasse 5-7</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,Fr 08:00-12:00,13:00-16:00; Tu-Th 08:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/528159024</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/528159024</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3076828,46.6216888,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Pernhartgasse 7, 9020 Klagenfurt am Wörthersee
+Opening hours: 05:00-24:00
+https://www.openstreetmap.org/node/1748051644</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1748051644</value></Data>
+<Data name="lat"><value>46.6235081</value></Data>
+<Data name="lon"><value>14.3054037</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Pernhartgasse 7</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>05:00-24:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-12-21</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1748051644;osm:node/528218892</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1748051644</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3054037,46.6235081,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Radetzkystraße 24, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-12:30
+https://www.openstreetmap.org/node/8865674511</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8865674511</value></Data>
+<Data name="lat"><value>46.6279960</value></Data>
+<Data name="lon"><value>14.2970753</value></Data>
+<Data name="name"><value>Kärntner Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Radetzkystraße 24</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8865674511</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8865674511</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2970753,46.6279960,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Landesbank</name>
+<description>Raiffeisenplatz 1, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 07:45-12:30, 14:00-16:00
+https://www.openstreetmap.org/way/169958200</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/169958200</value></Data>
+<Data name="lat"><value>46.6283016</value></Data>
+<Data name="lon"><value>14.3118754</value></Data>
+<Data name="name"><value>Raiffeisenlandesbank Kärnten</value></Data>
+<Data name="operator"><value>Raiffeisen Landesbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Raiffeisenplatz 1</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:45-12:30, 14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/169958200</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/169958200</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3118754,46.6283016,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK AG</name>
+<description>Rosentaler Straße 136, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 09:00-17:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/1438589953</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1438589953</value></Data>
+<Data name="lat"><value>46.6100629</value></Data>
+<Data name="lon"><value>14.2992104</value></Data>
+<Data name="name"><value>BAWAG PSK</value></Data>
+<Data name="operator"><value>BAWAG PSK AG</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Rosentaler Straße 136</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-17:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-01-03</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1438589953</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1438589953</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2992104,46.6100629,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenkassa</name>
+<description>Siebenhügelstraße 29, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 07:45-12:15
+https://www.openstreetmap.org/node/2302688888</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2302688888</value></Data>
+<Data name="lat"><value>46.6130959</value></Data>
+<Data name="lon"><value>14.2885021</value></Data>
+<Data name="name"><value>Raiffeisenkassa</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Siebenhügelstraße 29</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:45-12:15</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-10-07</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2302688888</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2302688888</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2885021,46.6130959,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS Bank</name>
+<description>St. Ruprechter Straße 12, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/9554223908</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9554223908</value></Data>
+<Data name="lat"><value>46.6171993</value></Data>
+<Data name="lon"><value>14.3077829</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BKS Bank</value></Data>
+<Data name="brand"><value>BKS Bank</value></Data>
+<Data name="street"><value>St. Ruprechter Straße 12</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-06-10</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9554223908</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9554223908</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3077829,46.6171993,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>St. Veiter Ring 20, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/10087418779</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10087418779</value></Data>
+<Data name="lat"><value>46.6274157</value></Data>
+<Data name="lon"><value>14.3105206</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>St. Veiter Ring 20</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10087418779</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10087418779</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3105206,46.6274157,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>St. Veiter Ring 20, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/10088004084</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10088004084</value></Data>
+<Data name="lat"><value>46.6276677</value></Data>
+<Data name="lon"><value>14.3107946</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>St. Veiter Ring 20</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-09-17</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10088004084</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10088004084</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3107946,46.6276677,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Landesbank Kärnten</name>
+<description>St. Veiter Straße 4, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/8012469263</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8012469263</value></Data>
+<Data name="lat"><value>46.6274586</value></Data>
+<Data name="lon"><value>14.3091115</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen Landesbank Kärnten</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>St. Veiter Straße 4</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-09-17</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8012469263</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8012469263</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3091115,46.6274586,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>St. Veiter Straße 77, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/1437776405</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1437776405</value></Data>
+<Data name="lat"><value>46.6383766</value></Data>
+<Data name="lon"><value>14.3130820</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>St. Veiter Straße 77</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-11-12</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1437776405</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1437776405</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3130820,46.6383766,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Südbahngürtel 7a, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-19:00; Sa 09:00-12:00; Su,PH off
+https://www.openstreetmap.org/node/1675760553</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1675760553</value></Data>
+<Data name="lat"><value>46.6159324</value></Data>
+<Data name="lon"><value>14.3115914</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Südbahngürtel 7a</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-19:00; Sa 09:00-12:00; Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1675760553</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1675760553</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3115914,46.6159324,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Spar</name>
+<description>Turmgasse 24, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+https://www.openstreetmap.org/way/110234709</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/110234709</value></Data>
+<Data name="lat"><value>46.6380235</value></Data>
+<Data name="lon"><value>14.2989870</value></Data>
+<Data name="name"><value>Spar</value></Data>
+<Data name="operator"><value>Spar</value></Data>
+<Data name="brand"><value>Spar</value></Data>
+<Data name="street"><value>Turmgasse 24</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 06:50-19:00; Sa 06:50-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-05-27</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/110234709</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/110234709</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2989870,46.6380235,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Villacher Straße 165, 9020 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-12:30,14:00-16:00
+https://www.openstreetmap.org/node/3367208016</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3367208016</value></Data>
+<Data name="lat"><value>46.6195428</value></Data>
+<Data name="lon"><value>14.2787575</value></Data>
+<Data name="name"><value>Kärntner Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Villacher Straße 165</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:30,14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-12-21</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3367208016</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3367208016</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2787575,46.6195428,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Villacher Straße 171, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/3405900863</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3405900863</value></Data>
+<Data name="lat"><value>46.6194081</value></Data>
+<Data name="lon"><value>14.2778123</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Villacher Straße 171</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-01-10</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3405900863</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3405900863</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2778123,46.6194081,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Völkermarkter Straße 123, 9020 Klagenfurt am Wörthersee
+Opening hours: 24/7
+https://www.openstreetmap.org/node/14294202901</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/14294202901</value></Data>
+<Data name="lat"><value>46.6254919</value></Data>
+<Data name="lon"><value>14.3365279</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Völkermarkter Straße 123</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/14294202901</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/14294202901</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3365279,46.6254919,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Völkermarkter Straße 138, 9020 Klagenfurt am Wörthersee
+Opening hours: 24/7
+https://www.openstreetmap.org/node/4384772945</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4384772945</value></Data>
+<Data name="lat"><value>46.6251645</value></Data>
+<Data name="lon"><value>14.3387190</value></Data>
+<Data name="name"><value>Kärntner Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Völkermarkter Straße 138</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4384772945</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4384772945</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3387190,46.6251645,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Völkermarkter Straße 200, 9020 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/3754906026</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3754906026</value></Data>
+<Data name="lat"><value>46.6282588</value></Data>
+<Data name="lon"><value>14.3494491</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Völkermarkter Straße 200</value></Data>
+<Data name="postcode"><value>9020</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>nominatim_reverse</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3754906026</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3754906026</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3494491,46.6282588,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Hallegger Straße 295, 9061 Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/4049918544</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4049918544</value></Data>
+<Data name="lat"><value>46.6669764</value></Data>
+<Data name="lon"><value>14.2569666</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Hallegger Straße 295</value></Data>
+<Data name="postcode"><value>9061</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4049918544</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4049918544</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2569666,46.6669764,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Keutschacher Straße 122, 9073 Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7556005461</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7556005461</value></Data>
+<Data name="lat"><value>46.5923043</value></Data>
+<Data name="lon"><value>14.2719731</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Keutschacher Straße 122</value></Data>
+<Data name="postcode"><value>9073</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7556005461</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7556005461</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2719731,46.5923043,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Kindergartenstraße 1, 9073 Klagenfurt am Wörthersee
+Opening hours: Mo,Fr 08:00-12:30,14:00-16:00
+https://www.openstreetmap.org/way/1524953890</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/1524953890</value></Data>
+<Data name="lat"><value>46.5931039</value></Data>
+<Data name="lon"><value>14.2697658</value></Data>
+<Data name="name"><value>Kärntner Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kindergartenstraße 1</value></Data>
+<Data name="postcode"><value>9073</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,Fr 08:00-12:30,14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/1524953890</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/1524953890</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2697658,46.5931039,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS</name>
+<description>Siebenbürgengasse, 9073 Klagenfurt am Wörthersee
+Opening hours: Mo-Th 08:00-12:30,13:30-16:00; Fr 08:00-15:00
+https://www.openstreetmap.org/node/550355718</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/550355718</value></Data>
+<Data name="lat"><value>46.5920924</value></Data>
+<Data name="lon"><value>14.2730644</value></Data>
+<Data name="name"><value>BKS</value></Data>
+<Data name="operator"><value>BKS</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Siebenbürgengasse</value></Data>
+<Data name="postcode"><value>9073</value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:30,13:30-16:00; Fr 08:00-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/550355718</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/550355718</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2730644,46.5920924,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PSA</name>
+<description>10.-Oktober-Straße 13, Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/10799312837</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10799312837</value></Data>
+<Data name="lat"><value>46.6222962</value></Data>
+<Data name="lon"><value>14.3075564</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>10.-Oktober-Straße 13</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-06-27</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10799312837</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10799312837</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3075564,46.6222962,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ICCash</name>
+<description>Alter Platz 32, Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/9417121688</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9417121688</value></Data>
+<Data name="lat"><value>46.6254417</value></Data>
+<Data name="lon"><value>14.3071614</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>ICCash</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Alter Platz 32</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-06-24</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9417121688</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9417121688</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3071614,46.6254417,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Bahnhofstraße 3, Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 07:45-12:30, 14:00-16:00
+https://www.openstreetmap.org/node/267276273</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/267276273</value></Data>
+<Data name="lat"><value>46.6252530</value></Data>
+<Data name="lon"><value>14.3106886</value></Data>
+<Data name="name"><value>Raiffeisen Bezirksbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Bahnhofstraße 3</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:45-12:30, 14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-05-13</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/267276273;osm:node/751830437;osm:node/11096813706</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/267276273</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3106886,46.6252530,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Durchlaßstraße 4, Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/10598712432</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10598712432</value></Data>
+<Data name="lat"><value>46.6354065</value></Data>
+<Data name="lon"><value>14.3143750</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Durchlaßstraße 4</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-12-16</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10598712432</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10598712432</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3143750,46.6354065,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Heuplatz 5, Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-20:30; Sa 08:00-19:00
+https://www.openstreetmap.org/node/10087418816</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10087418816</value></Data>
+<Data name="lat"><value>46.6269136</value></Data>
+<Data name="lon"><value>14.3086515</value></Data>
+<Data name="name"><value>Kärntner Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Heuplatz 5</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-20:30; Sa 08:00-19:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10087418816</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10087418816</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3086515,46.6269136,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>IHG</name>
+<description>Jacques-Lemans-Platz 2, Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/14105496974</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/14105496974</value></Data>
+<Data name="lat"><value>46.6244859</value></Data>
+<Data name="lon"><value>14.3096159</value></Data>
+<Data name="name"><value>Garner</value></Data>
+<Data name="operator"><value>IHG</value></Data>
+<Data name="brand"><value>IHG</value></Data>
+<Data name="street"><value>Jacques-Lemans-Platz 2</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>8</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-08-19</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/14105496974</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/14105496974</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3096159,46.6244859,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Keutschacher Straße 120, Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/1739704680</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1739704680</value></Data>
+<Data name="lat"><value>46.5923478</value></Data>
+<Data name="lon"><value>14.2744937</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Keutschacher Straße 120</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2023-07-05</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1739704680</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1739704680</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2744937,46.5923478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Landesbank</name>
+<description>Nautilusweg 11, Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 07:45-12:30
+https://www.openstreetmap.org/node/528304434</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/528304434</value></Data>
+<Data name="lat"><value>46.6176088</value></Data>
+<Data name="lon"><value>14.2686356</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen Landesbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Nautilusweg 11</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:45-12:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-08-31</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/528304434</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/528304434</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2686356,46.6176088,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Neuer Platz 14, Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-16:00
+https://www.openstreetmap.org/node/12903192946</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12903192946</value></Data>
+<Data name="lat"><value>46.6235689</value></Data>
+<Data name="lon"><value>14.3070043</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Neuer Platz 14</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12903192946;osm:node/799295482</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12903192946</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3070043,46.6235689,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BKS Bank</name>
+<description>Radetzkystraße 42, Klagenfurt am Wörthersee
+Opening hours: Mo-Th 08:00-12:30,13:30-16:00, Fr 08:00-14:00
+https://www.openstreetmap.org/node/1438523312</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1438523312</value></Data>
+<Data name="lat"><value>46.6283372</value></Data>
+<Data name="lon"><value>14.2948171</value></Data>
+<Data name="name"><value>BKS Bank</value></Data>
+<Data name="operator"><value>BKS Bank</value></Data>
+<Data name="brand"><value>BKS Bank</value></Data>
+<Data name="street"><value>Radetzkystraße 42</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:30,13:30-16:00, Fr 08:00-14:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1438523312</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1438523312</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2948171,46.6283372,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Rosentaler Straße 144, Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:00-12:30,14:00-16:00
+https://www.openstreetmap.org/node/1438591185</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1438591185</value></Data>
+<Data name="lat"><value>46.6079866</value></Data>
+<Data name="lon"><value>14.2989221</value></Data>
+<Data name="name"><value>Kärntner Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rosentaler Straße 144</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:30,14:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-04-19</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1438591185</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1438591185</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2989221,46.6079866,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Rosentaler Straße 200, Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/1438601727</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1438601727</value></Data>
+<Data name="lat"><value>46.6029427</value></Data>
+<Data name="lon"><value>14.2968481</value></Data>
+<Data name="name"><value>Raiffeisenbank Klagenfurt</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Rosentaler Straße 200</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1438601727</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1438601727</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2968481,46.6029427,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kärntner Sparkasse</name>
+<description>Schleppe-Platz 4, Klagenfurt am Wörthersee
+Opening hours: 05:00-24:00
+https://www.openstreetmap.org/way/335557761</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/335557761</value></Data>
+<Data name="lat"><value>46.6408768</value></Data>
+<Data name="lon"><value>14.2880748</value></Data>
+<Data name="name"><value>Kärntner Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Schleppe-Platz 4</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>05:00-24:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-04-19</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/335557761</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/335557761</value></Data>
+</ExtendedData>
+<Point><coordinates>14.2880748,46.6408768,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Walther-von-der-Vogelweide-Platz 1, Klagenfurt am Wörthersee
+https://www.openstreetmap.org/node/1675760556</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1675760556</value></Data>
+<Data name="lat"><value>46.6159783</value></Data>
+<Data name="lon"><value>14.3134156</value></Data>
+<Data name="name"><value>BAWAG PSK</value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Walther-von-der-Vogelweide-Platz 1</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-05-02</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1675760556</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1675760556</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3134156,46.6159783,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparda-Bank</name>
+<description>Walther-von-der-Vogelweide-Platz 4, Klagenfurt am Wörthersee
+Opening hours: Mo-Fr 08:30-12:00
+https://www.openstreetmap.org/node/10284557520</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10284557520</value></Data>
+<Data name="lat"><value>46.6163220</value></Data>
+<Data name="lon"><value>14.3144513</value></Data>
+<Data name="name"><value>Sparda-Bank</value></Data>
+<Data name="operator"><value>Sparda-Bank</value></Data>
+<Data name="brand"><value>Sparda-Bank</value></Data>
+<Data name="street"><value>Walther-von-der-Vogelweide-Platz 4</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-12-24</value></Data>
+<Data name="place"><value>Klagenfurt am Wörthersee</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10284557520</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10284557520</value></Data>
+</ExtendedData>
+<Point><coordinates>14.3144513,46.6163220,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

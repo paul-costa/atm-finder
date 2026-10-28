@@ -1,0 +1,17 @@
+id,lat,lon,name,operator,brand,street,postcode,city,address_source,kind,opening_hours,fee,cash_in,wheelchair,indoor,check_date,place,sources,source_ids,url
+osm:node/3390926004,47.3834344,15.1154492,,First Data,,Am Lerchenfeld A 2,8700,Leoben,osm_nearby,atm,24/7,,,yes,,,Leoben,osm,osm:node/3390926004,https://www.openstreetmap.org/node/3390926004
+osm:node/3944938693,47.3861794,15.0897628,,Spar Österreich,,Bahnhofplatz 4,8700,Leoben,osm_nearby,atm,,,no,,yes,2025-10-23,Leoben,osm,osm:node/3944938693,https://www.openstreetmap.org/node/3944938693
+osm:node/846964784,47.3869189,15.0904373,,Sparda Bank,,Bahnhofplatz 4,8700,Leoben,osm_nearby,atm,,,yes,,yes,2024-09-29,Leoben,osm,osm:node/846964784,https://www.openstreetmap.org/node/846964784
+osm:node/840572471,47.3819127,15.0926735,Steiermärkische Sparkasse,Steiermärkische Bank und Sparkassen AG,Sparkasse,Erzherzog Johann-Straße 13,8700,Leoben,source,bank_with_atm,"Mo-Th 08:30-12:00, 14:00-16:00; Fr 08:30-12:00, 14:00-15:00; Sa,Su,PH off",,,yes,,,Leoben,osm,osm:node/840572471,https://www.openstreetmap.org/node/840572471
+osm:node/1393370523,47.3820787,15.0936170,bank99,bank99,bank99,Erzherzog Johann-Straße 17,8700,Leoben,source,atm,"Mo-Fr 08:00-18:00; Sa,Su,PH off",,no,,,2023-05-20,Leoben,osm,osm:node/1393370523;osm:node/1393370520,https://www.openstreetmap.org/node/1393370523
+osm:way/91118164,47.3819692,15.0944067,Bank Austria,Bank Austria,Bank Austria,Franz Josef-Straße 2,8700,Leoben,source,bank_with_atm,,,,yes,,,Leoben,osm,osm:way/91118164,https://www.openstreetmap.org/way/91118164
+osm:node/1393370525,47.3809482,15.0943134,Raiffeisen,Raiffeisenbank,Raiffeisen,Hauptplatz 15,8700,Leoben,osm_nearby,atm,,,,,,2024-08-22,Leoben,osm,osm:node/1393370525;osm:node/649548731,https://www.openstreetmap.org/node/1393370525
+osm:node/1436582123,47.3817386,15.0954921,,,,Hauptplatz 19,8700,Leoben,osm_nearby,atm,,,,,,,Leoben,osm,osm:node/1436582123,https://www.openstreetmap.org/node/1436582123
+osm:node/4025528591,47.3824978,15.0956838,,,,Hauptplatz 19,8700,Leoben,osm_nearby,atm,,,,,,,Leoben,osm,osm:node/4025528591,https://www.openstreetmap.org/node/4025528591
+osm:node/1393666336,47.3798440,15.0953576,Volksbank,Volksbank,Volksbank,Hauptplatz 4,8700,Leoben,source,atm,,,,yes,,,Leoben,osm,osm:node/1393666336;osm:node/649548758,https://www.openstreetmap.org/node/1393666336
+osm:node/6740291621,47.3613621,15.0652294,,,,Hinterbergstraße 54,8700,Leoben,osm_nearby,atm,24/7,,,yes,,,Leoben,osm,osm:node/6740291621,https://www.openstreetmap.org/node/6740291621
+osm:node/4769116992,47.3759175,15.0735747,,,,Pestalozzistraße 71,8700,Leoben,osm_nearby,atm,,,,,,,Leoben,osm,osm:node/4769116992,https://www.openstreetmap.org/node/4769116992
+osm:node/4025534689,47.3708887,15.0914437,,,,Pichlmayergasse 16,8700,Leoben,osm_nearby,atm,,,,,,,Leoben,osm,osm:node/4025534689,https://www.openstreetmap.org/node/4025534689
+osm:node/4025546747,47.3785634,15.0887860,,,,Zeltenschlagstraße 2,8700,Leoben,osm_nearby,atm,,,,,,,Leoben,osm,osm:node/4025546747,https://www.openstreetmap.org/node/4025546747
+osm:node/2180327226,47.3722800,15.0888225,,FirstData,,Zirkusstraße 14,8700,Leoben,osm_nearby,atm,,,,,,,Leoben,osm,osm:node/2180327226,https://www.openstreetmap.org/node/2180327226
+osm:node/9895464592,47.3810114,15.0959539,BAWAG PSK,BAWAG PSK,BAWAG PSK,Josef Graf-Gasse 5,,Leoben,source,bank_with_atm,Mo-Fr 09:00-13:00,,,,,,Leoben,osm,osm:node/9895464592,https://www.openstreetmap.org/node/9895464592

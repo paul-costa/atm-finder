@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Salzburg</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Alpenstraße 48, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/9041307905</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9041307905</value></Data>
+<Data name="lat"><value>47.7867127</value></Data>
+<Data name="lon"><value>13.0661346</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Alpenstraße 48</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-01-17</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9041307905;osm:node/5420746065</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9041307905</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0661346,47.7867127,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Alpenstraße 54, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:30
+https://www.openstreetmap.org/node/7533417260</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7533417260</value></Data>
+<Data name="lat"><value>47.7849602</value></Data>
+<Data name="lon"><value>13.0662243</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Alpenstraße 54</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-09-27</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7533417260</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7533417260</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0662243,47.7849602,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Austria</name>
+<description>Alpenstraße 61, 5020 Salzburg
+Opening hours: Mo-Fr 08:00-12:30
+https://www.openstreetmap.org/node/1407318582</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1407318582</value></Data>
+<Data name="lat"><value>47.7838970</value></Data>
+<Data name="lon"><value>13.0672694</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>Bank Austria</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Alpenstraße 61</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-05-15</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1407318582;osm:node/462718468</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1407318582</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0672694,47.7838970,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Alpenstraße 75, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30,14:00-16:30
+https://www.openstreetmap.org/node/477834858</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/477834858</value></Data>
+<Data name="lat"><value>47.7811792</value></Data>
+<Data name="lon"><value>13.0681092</value></Data>
+<Data name="name"><value>BAWAG PSK</value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Alpenstraße 75</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/477834858</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/477834858</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0681092,47.7811792,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Alpenstraße 98, 5020 Salzburg
+https://www.openstreetmap.org/node/790712359</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/790712359</value></Data>
+<Data name="lat"><value>47.7772044</value></Data>
+<Data name="lon"><value>13.0680165</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Alpenstraße 98</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-08-22</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/790712359</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/790712359</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0680165,47.7772044,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Alpenstraße 99, 5020 Salzburg
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/7591803218</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7591803218</value></Data>
+<Data name="lat"><value>47.7753902</value></Data>
+<Data name="lon"><value>13.0693579</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Alpenstraße 99</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-08-22</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7591803218</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7591803218</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0693579,47.7753902,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Bank AG</name>
+<description>Alter Markt 3, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30,14:00-16:30
+https://www.openstreetmap.org/node/3753937124</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3753937124</value></Data>
+<Data name="lat"><value>47.7998048</value></Data>
+<Data name="lon"><value>13.0454766</value></Data>
+<Data name="name"><value>Sparkasse Salzburg</value></Data>
+<Data name="operator"><value>Sparkasse Bank AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Alter Markt 3</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3753937124</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3753937124</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0454766,47.7998048,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank AG</name>
+<description>Alter Markt 4, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/3753937525</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3753937525</value></Data>
+<Data name="lat"><value>47.7996678</value></Data>
+<Data name="lon"><value>13.0454512</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank AG</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Alter Markt 4</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-08-12</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3753937525;osm:node/268243689</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3753937525</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0454512,47.7996678,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Anton-Neumayr-Platz 5, 5020 Salzburg
+https://www.openstreetmap.org/node/2311424006</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2311424006</value></Data>
+<Data name="lat"><value>47.8008072</value></Data>
+<Data name="lon"><value>13.0395927</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Anton-Neumayr-Platz 5</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-05-22</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2311424006</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2311424006</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0395927,47.8008072,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank Salzburg</name>
+<description>Berchtesgadner Straße 11, 5020 Salzburg
+https://www.openstreetmap.org/node/2441302886</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2441302886</value></Data>
+<Data name="lat"><value>47.7771982</value></Data>
+<Data name="lon"><value>13.0431531</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank Salzburg</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Berchtesgadner Straße 11</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-08-20</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2441302886</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2441302886</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0431531,47.7771982,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Salzburg</name>
+<description>Dr.-Franz-Rehrl-Platz 5, 5020 Salzburg
+https://www.openstreetmap.org/node/619716624</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/619716624</value></Data>
+<Data name="lat"><value>47.7992236</value></Data>
+<Data name="lon"><value>13.0555822</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse Salzburg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dr.-Franz-Rehrl-Platz 5</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-09-06</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/619716624</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/619716624</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0555822,47.7992236,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Eberhard-Fugger-Straße 7, 5020 Salzburg-Parsch
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/7591803222</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7591803222</value></Data>
+<Data name="lat"><value>47.8034744</value></Data>
+<Data name="lon"><value>13.0659303</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Eberhard-Fugger-Straße 7</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg-Parsch</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7591803222</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7591803222</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0659303,47.8034744,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Elisabethstraße 38, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:00,15:00-16:30
+https://www.openstreetmap.org/node/8219033167</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8219033167</value></Data>
+<Data name="lat"><value>47.8180394</value></Data>
+<Data name="lon"><value>13.0446389</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Elisabethstraße 38</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00,15:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8219033167;osm:node/254500310</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8219033167</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0446389,47.8180394,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo-Salzburg</name>
+<description>Europastraße 1, 5020 Salzburg
+https://www.openstreetmap.org/node/1574622603</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1574622603</value></Data>
+<Data name="lat"><value>47.8152458</value></Data>
+<Data name="lon"><value>13.0084011</value></Data>
+<Data name="name"><value>Hypo</value></Data>
+<Data name="operator"><value>Hypo-Salzburg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Europastraße 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-08-27</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1574622603</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1574622603</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0084011,47.8152458,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kurant</name>
+<description>Europastraße 1, 5020 Salzburg
+Opening hours: Mo-Th 09:00-19:30; Fr 09:00-21:00; Sa 09:00-18:00
+https://www.openstreetmap.org/node/12057015187</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12057015187</value></Data>
+<Data name="lat"><value>47.8157544</value></Data>
+<Data name="lon"><value>13.0055544</value></Data>
+<Data name="name"><value>Kurant Bitcoin ATM</value></Data>
+<Data name="operator"><value>Kurant</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Europastraße 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 09:00-19:30; Fr 09:00-21:00; Sa 09:00-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-07-16</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12057015187</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12057015187</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0055544,47.8157544,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Salzburg</name>
+<description>Europastraße 1, 5020 Salzburg-Europark
+https://www.openstreetmap.org/node/1390812050</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1390812050</value></Data>
+<Data name="lat"><value>47.8163720</value></Data>
+<Data name="lon"><value>13.0079360</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo Salzburg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Europastraße 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg-Europark</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-06-08</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1390812050</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1390812050</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0079360,47.8163720,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Europastraße 1, 5020 Salzburg-Europark
+Opening hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su,PH off
+https://www.openstreetmap.org/node/1390812049</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1390812049</value></Data>
+<Data name="lat"><value>47.8164413</value></Data>
+<Data name="lon"><value>13.0079860</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Europastraße 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg-Europark</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1390812049</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1390812049</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0079860,47.8164413,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bawag</name>
+<description>Europastraße 5, 5020 Salzburg
+https://www.openstreetmap.org/node/1444672106</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1444672106</value></Data>
+<Data name="lat"><value>47.8167355</value></Data>
+<Data name="lon"><value>13.0069349</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Bawag</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Europastraße 5</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-04-24</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1444672106</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1444672106</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0069349,47.8167355,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Ferdinand-Porsche-Straße 10, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/9948362162</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9948362162</value></Data>
+<Data name="lat"><value>47.8120168</value></Data>
+<Data name="lon"><value>13.0431990</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Ferdinand-Porsche-Straße 10</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-06-02</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9948362162;osm:node/1677313884</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9948362162</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0431990,47.8120168,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PSA Payment Services Austria</name>
+<description>Franz-Josef-Straße 18, 5020 Salzburg
+https://www.openstreetmap.org/node/6873372195</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6873372195</value></Data>
+<Data name="lat"><value>47.8067215</value></Data>
+<Data name="lon"><value>13.0473003</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA Payment Services Austria</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Franz-Josef-Straße 18</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-11-04</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6873372195</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6873372195</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0473003,47.8067215,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Gaisbergstraße 11A, 5020 Salzburg
+https://www.openstreetmap.org/node/818635297</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/818635297</value></Data>
+<Data name="lat"><value>47.8015860</value></Data>
+<Data name="lon"><value>13.0666609</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Gaisbergstraße 11A</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-11-01</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/818635297</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/818635297</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0666609,47.8015860,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Gaisbergstraße 18, 5020 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/7767514608</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7767514608</value></Data>
+<Data name="lat"><value>47.8014267</value></Data>
+<Data name="lon"><value>13.0672560</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Gaisbergstraße 18</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-11-01</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7767514608;osm:node/7767514609</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7767514608</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0672560,47.8014267,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Global ATM Network</name>
+<description>Getreidegasse 4, 5020 Salzburg
+https://www.openstreetmap.org/node/11280300032</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/11280300032</value></Data>
+<Data name="lat"><value>47.8001027</value></Data>
+<Data name="lon"><value>13.0440698</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Global ATM Network</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Getreidegasse 4</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/11280300032</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/11280300032</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0440698,47.8001027,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank Salzburg eG</name>
+<description>Graf-Zeppelin-Platz 19, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:30
+https://www.openstreetmap.org/node/864083974</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/864083974</value></Data>
+<Data name="lat"><value>47.8081480</value></Data>
+<Data name="lon"><value>13.0022916</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank Salzburg eG</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Graf-Zeppelin-Platz 19</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/864083974</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/864083974</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0022916,47.8081480,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Euronet</name>
+<description>Griesgasse 9, 5020 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/1627065157</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1627065157</value></Data>
+<Data name="lat"><value>47.8005356</value></Data>
+<Data name="lon"><value>13.0435748</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Euronet</value></Data>
+<Data name="brand"><value>Euronet</value></Data>
+<Data name="street"><value>Griesgasse 9</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2024-11-22</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1627065157</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1627065157</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0435748,47.8005356,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Salzburger Sparkasse</name>
+<description>Hofhaymer-Allee 9-11, 5020 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/1143828849</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1143828849</value></Data>
+<Data name="lat"><value>47.7866703</value></Data>
+<Data name="lon"><value>13.0520715</value></Data>
+<Data name="name"><value>Salzburger Sparkasse SB Nonntal</value></Data>
+<Data name="operator"><value>Salzburger Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hofhaymer-Allee 9-11</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1143828849</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1143828849</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0520715,47.7866703,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypobank AG</name>
+<description>Ignaz-Harrer-Straße 79A, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30
+https://www.openstreetmap.org/node/913606631</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/913606631</value></Data>
+<Data name="lat"><value>47.8129613</value></Data>
+<Data name="lon"><value>13.0216117</value></Data>
+<Data name="name"><value>Hypobank AG</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Ignaz-Harrer-Straße 79A</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-10-20</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/913606631</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/913606631</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0216117,47.8129613,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Salzburg</name>
+<description>Ignaz-Härtl-Straße 10, 5020 Salzburg
+https://www.openstreetmap.org/node/10696958983</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10696958983</value></Data>
+<Data name="lat"><value>47.8086138</value></Data>
+<Data name="lon"><value>13.0644772</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo Salzburg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Ignaz-Härtl-Straße 10</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-11-05</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10696958983</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10696958983</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0644772,47.8086138,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Maxglan-Siezenheim</name>
+<description>Innsbrucker Bundesstraße 34, 5020 Salzburg
+https://www.openstreetmap.org/node/5173254760</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5173254760</value></Data>
+<Data name="lat"><value>47.8052816</value></Data>
+<Data name="lon"><value>13.0209406</value></Data>
+<Data name="name"><value>Raiffeisenbank Salzburg Liefering-Maxglan-Siezenheim, SB-Bankstelle Maxglan</value></Data>
+<Data name="operator"><value>Raiffeisenbank Maxglan-Siezenheim</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Innsbrucker Bundesstraße 34</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-07-19</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5173254760;osm:node/914257215</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5173254760</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0209406,47.8052816,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Itzlinger Hauptstraße 36, 5020 Salzburg
+https://www.openstreetmap.org/node/900676475</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/900676475</value></Data>
+<Data name="lat"><value>47.8225091</value></Data>
+<Data name="lon"><value>13.0444305</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Itzlinger Hauptstraße 36</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-01-02</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/900676475</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/900676475</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0444305,47.8225091,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Josef-Friedrich-Hummel-Straße 1, 5020 Salzburg
+https://www.openstreetmap.org/node/1626568398</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1626568398</value></Data>
+<Data name="lat"><value>47.8025023</value></Data>
+<Data name="lon"><value>13.0428552</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Josef-Friedrich-Hummel-Straße 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-08-13</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1626568398</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1626568398</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0428552,47.8025023,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Bank</name>
+<description>Julius-Raab-Platz 1, 5020 Salzburg
+https://www.openstreetmap.org/node/1632921167</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1632921167</value></Data>
+<Data name="lat"><value>47.8084125</value></Data>
+<Data name="lon"><value>13.0447284</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen Bank</value></Data>
+<Data name="brand"><value>Raiffeisen Bank</value></Data>
+<Data name="street"><value>Julius-Raab-Platz 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-07-19</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1632921167</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1632921167</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0447284,47.8084125,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>First Data</name>
+<description>Karl-Wurmb-Straße 3, 5020 Salzburg
+https://www.openstreetmap.org/node/12090442024</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12090442024</value></Data>
+<Data name="lat"><value>47.8144125</value></Data>
+<Data name="lon"><value>13.0443414</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>First Data</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Karl-Wurmb-Straße 3</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12090442024</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12090442024</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0443414,47.8144125,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Karolingerstraße 2, 5020 Salzburg
+https://www.openstreetmap.org/node/2252426298</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2252426298</value></Data>
+<Data name="lat"><value>47.7972241</value></Data>
+<Data name="lon"><value>13.0079079</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Karolingerstraße 2</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-03-23</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2252426298</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2252426298</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0079079,47.7972241,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Kendlerstraße 26, 5020 Salzburg
+Opening hours: Mo-Fr 07:15-19:30; Sa 07:30-18:00
+https://www.openstreetmap.org/node/5918027094</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5918027094</value></Data>
+<Data name="lat"><value>47.7910671</value></Data>
+<Data name="lon"><value>13.0191498</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kendlerstraße 26</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:15-19:30; Sa 07:30-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5918027094</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5918027094</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0191498,47.7910671,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Salzburg</name>
+<description>Kleßheimer Allee 104, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30,14:00-16:30
+https://www.openstreetmap.org/node/864083988</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/864083988</value></Data>
+<Data name="lat"><value>47.8122067</value></Data>
+<Data name="lon"><value>13.0046163</value></Data>
+<Data name="name"><value>Sparkasse Salzburg</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kleßheimer Allee 104</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/864083988</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/864083988</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0046163,47.8122067,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo-Salzburg</name>
+<description>Lindhofstraße 5, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30
+https://www.openstreetmap.org/node/1045974991</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1045974991</value></Data>
+<Data name="lat"><value>47.8060451</value></Data>
+<Data name="lon"><value>13.0335930</value></Data>
+<Data name="name"><value>Hypo-Salzburg</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Lindhofstraße 5</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1045974991</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1045974991</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0335930,47.8060451,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Euronet</name>
+<description>Linzer Gasse 62, 5020 Salzburg
+https://www.openstreetmap.org/node/4770753421</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4770753421</value></Data>
+<Data name="lat"><value>47.8040950</value></Data>
+<Data name="lon"><value>13.0479919</value></Data>
+<Data name="name"><value>Euronet</value></Data>
+<Data name="operator"><value>Euronet</value></Data>
+<Data name="brand"><value>Euronet</value></Data>
+<Data name="street"><value>Linzer Gasse 62</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-07-07</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4770753421</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4770753421</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0479919,47.8040950,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bankhaus Spängler</name>
+<description>Makartplatz 6, 5020 Salzburg
+https://www.openstreetmap.org/node/1941619212</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1941619212</value></Data>
+<Data name="lat"><value>47.8028576</value></Data>
+<Data name="lon"><value>13.0445266</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Bankhaus Spängler</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Makartplatz 6</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>limited</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-04-22</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1941619212</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1941619212</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0445266,47.8028576,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Maxglaner Hauptstraße 2, 5020 Salzburg
+https://www.openstreetmap.org/node/623622257</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/623622257</value></Data>
+<Data name="lat"><value>47.7959878</value></Data>
+<Data name="lon"><value>13.0263980</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Maxglaner Hauptstraße 2</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/623622257</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/623622257</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0263980,47.7959878,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Salzburger Sparkasse</name>
+<description>Maxglaner Hauptstraße 27, 5020 Salzburg
+https://www.openstreetmap.org/node/2339339697</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2339339697</value></Data>
+<Data name="lat"><value>47.7968824</value></Data>
+<Data name="lon"><value>13.0229108</value></Data>
+<Data name="name"><value>Salzburger Sparkasse</value></Data>
+<Data name="operator"><value>Salzburger Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Maxglaner Hauptstraße 27</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-08-21</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2339339697</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2339339697</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0229108,47.7968824,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Maxglaner Hauptstraße 70, 5020 Salzburg
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7591803220</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7591803220</value></Data>
+<Data name="lat"><value>47.8009493</value></Data>
+<Data name="lon"><value>13.0183479</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Maxglaner Hauptstraße 70</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7591803220</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7591803220</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0183479,47.8009493,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank AG</name>
+<description>Münchner Bundesstraße 106, 5020 Salzburg
+Opening hours: Mo,Tu,Th,Fr 08:30-12:00,14:00-16:00; We 08:30-12:00
+https://www.openstreetmap.org/node/922433591</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/922433591</value></Data>
+<Data name="lat"><value>47.8287055</value></Data>
+<Data name="lon"><value>13.0058810</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank AG</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Münchner Bundesstraße 106</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,Tu,Th,Fr 08:30-12:00,14:00-16:00; We 08:30-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/922433591</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/922433591</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0058810,47.8287055,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Münchner Bundesstraße 116, 5020 Salzburg
+https://www.openstreetmap.org/node/9039445797</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9039445797</value></Data>
+<Data name="lat"><value>47.8299317</value></Data>
+<Data name="lon"><value>13.0045744</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Münchner Bundesstraße 116</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-08-23</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9039445797</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9039445797</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0045744,47.8299317,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Münchner Bundesstraße 1B, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:00; 14:00-16:30
+https://www.openstreetmap.org/node/13257403414</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13257403414</value></Data>
+<Data name="lat"><value>47.8162225</value></Data>
+<Data name="lon"><value>13.0189908</value></Data>
+<Data name="name"><value>Raiffeisenbank Salzburg Liefering-Maxglan-Siezenheim, Bankstelle Liefering</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Münchner Bundesstraße 1B</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00; 14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13257403414;osm:way/1330454888</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13257403414</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0189908,47.8162225,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Neutorstraße 21, 5020 Salzburg
+Opening hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+https://www.openstreetmap.org/node/1848007320</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1848007320</value></Data>
+<Data name="lat"><value>47.7974672</value></Data>
+<Data name="lon"><value>13.0338661</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Neutorstraße 21</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:00-19:00; Sa 07:00-18:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-06-20</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1848007320</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1848007320</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0338661,47.7974672,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Neutorstraße 52, 5020 Salzburg
+https://www.openstreetmap.org/node/2288358207</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2288358207</value></Data>
+<Data name="lat"><value>47.7963287</value></Data>
+<Data name="lon"><value>13.0270314</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Neutorstraße 52</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-03-23</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2288358207</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2288358207</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0270314,47.7963287,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Nonntaler Hauptstraße 67, 5020 Salzburg
+https://www.openstreetmap.org/way/66058241</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/66058241</value></Data>
+<Data name="lat"><value>47.7840720</value></Data>
+<Data name="lon"><value>13.0523738</value></Data>
+<Data name="name"><value>Raiffeisenbank Morzg-Nonntal</value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Nonntaler Hauptstraße 67</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/66058241</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/66058241</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0523738,47.7840720,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG</name>
+<description>Nonntaler Hauptstraße 78, 5020 Salzburg
+https://www.openstreetmap.org/node/6127005136</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6127005136</value></Data>
+<Data name="lat"><value>47.7861361</value></Data>
+<Data name="lon"><value>13.0515606</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Nonntaler Hauptstraße 78</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-08-23</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6127005136</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6127005136</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0515606,47.7861361,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo</name>
+<description>Petersbrunnstraße 1, 5020 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/2245183113</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2245183113</value></Data>
+<Data name="lat"><value>47.7956274</value></Data>
+<Data name="lon"><value>13.0532403</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Petersbrunnstraße 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value>yes</value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-09-17</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2245183113</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2245183113</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0532403,47.7956274,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Raiffeisenstraße 19, 5020 Salzburg
+https://www.openstreetmap.org/node/4761622121</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4761622121</value></Data>
+<Data name="lat"><value>47.8247483</value></Data>
+<Data name="lon"><value>13.0381937</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Raiffeisenstraße 19</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-11-13</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4761622121</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4761622121</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0381937,47.8247483,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>UniCredit Bank Austria</name>
+<description>Rainerstraße 2, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-15:00
+https://www.openstreetmap.org/node/2463216020</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2463216020</value></Data>
+<Data name="lat"><value>47.8062225</value></Data>
+<Data name="lon"><value>13.0427432</value></Data>
+<Data name="name"><value>UniCredit Bank Austria</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rainerstraße 2</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2463216020</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2463216020</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0427432,47.8062225,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bankomat</name>
+<description>Rainerstraße 21, 5020 Salzburg
+https://www.openstreetmap.org/node/5345095697</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5345095697</value></Data>
+<Data name="lat"><value>47.8102902</value></Data>
+<Data name="lon"><value>13.0421371</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Bankomat</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rainerstraße 21</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-03-26</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5345095697</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5345095697</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0421371,47.8102902,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Rainerstraße 30, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30,14:00-16:30
+https://www.openstreetmap.org/node/6440496227</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6440496227</value></Data>
+<Data name="lat"><value>47.8114841</value></Data>
+<Data name="lon"><value>13.0439406</value></Data>
+<Data name="name"><value>Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rainerstraße 30</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-02-26</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6440496227</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6440496227</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0439406,47.8114841,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Reimsstraße 8, 5020 Salzburg
+https://www.openstreetmap.org/node/4894289521</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4894289521</value></Data>
+<Data name="lat"><value>47.8247605</value></Data>
+<Data name="lon"><value>13.0451456</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Reimsstraße 8</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4894289521</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4894289521</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0451456,47.8247605,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Residenzplatz 2, 5020 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/4770753324</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4770753324</value></Data>
+<Data name="lat"><value>47.7989600</value></Data>
+<Data name="lon"><value>13.0455901</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Residenzplatz 2</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-10-28</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4770753324;osm:node/268243702</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4770753324</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0455901,47.7989600,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Salzburg</name>
+<description>Residenzplatz 7, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:30,14:00-16:30
+https://www.openstreetmap.org/node/6283248259</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6283248259</value></Data>
+<Data name="lat"><value>47.7988247</value></Data>
+<Data name="lon"><value>13.0467343</value></Data>
+<Data name="name"><value>Hypo Salzburg</value></Data>
+<Data name="operator"><value>Hypo Salzburg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Residenzplatz 7</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-10-06</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6283248259;osm:node/1178949709</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6283248259</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0467343,47.7988247,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Residenzplatz 9, 5020 Salzburg
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/7591803221</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7591803221</value></Data>
+<Data name="lat"><value>47.7979169</value></Data>
+<Data name="lon"><value>13.0475857</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Residenzplatz 9</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7591803221</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7591803221</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0475857,47.7979169,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Saint-Julien-Straße 12, 5020 Salzburg
+Opening hours: Mo-Fr 09:00-12:30, 14:30-16:30
+https://www.openstreetmap.org/node/5351531167</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5351531167</value></Data>
+<Data name="lat"><value>47.8105622</value></Data>
+<Data name="lon"><value>13.0416601</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Saint-Julien-Straße 12</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:30, 14:30-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-11-06</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5351531167;osm:node/14111221067</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5351531167</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0416601,47.8105622,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Samergasse 1, 5020 Salzburg
+https://www.openstreetmap.org/node/1447874402</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1447874402</value></Data>
+<Data name="lat"><value>47.8155811</value></Data>
+<Data name="lon"><value>13.0542041</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Samergasse 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1447874402</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1447874402</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0542041,47.8155811,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Schrannengasse 10C, 5020 Salzburg
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/7591803223</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7591803223</value></Data>
+<Data name="lat"><value>47.8059342</value></Data>
+<Data name="lon"><value>13.0465537</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Schrannengasse 10C</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7591803223</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7591803223</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0465537,47.8059342,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Salzburger Sparkasse</name>
+<description>Schumacherstraße 14, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30,14:00-16:30
+https://www.openstreetmap.org/node/1826768839</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1826768839</value></Data>
+<Data name="lat"><value>47.8131152</value></Data>
+<Data name="lon"><value>13.0269191</value></Data>
+<Data name="name"><value>Salzburger Sparkasse</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Schumacherstraße 14</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1826768839</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1826768839</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0269191,47.8131152,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Spänglerbank</name>
+<description>Schwarzstraße 1, 5020 Salzburg
+https://www.openstreetmap.org/node/690431367</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/690431367</value></Data>
+<Data name="lat"><value>47.8017132</value></Data>
+<Data name="lon"><value>13.0442654</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Spänglerbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Schwarzstraße 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-02-05</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/690431367</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/690431367</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0442654,47.8017132,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Salzburger Sparkasse</name>
+<description>Siezenheimer Straße 39B, 5020 Salzburg
+https://www.openstreetmap.org/node/6325322687</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6325322687</value></Data>
+<Data name="lat"><value>47.8070027</value></Data>
+<Data name="lon"><value>13.0106534</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Salzburger Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Siezenheimer Straße 39B</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-08-08</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6325322687</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6325322687</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0106534,47.8070027,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenverband Salzburg</name>
+<description>Sinnhubstraße 6, 5020 Salzburg
+https://www.openstreetmap.org/node/6127004646</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6127004646</value></Data>
+<Data name="lat"><value>47.7947426</value></Data>
+<Data name="lon"><value>13.0307791</value></Data>
+<Data name="name"><value>Bankstelle Leopoldskron</value></Data>
+<Data name="operator"><value>Raiffeisenverband Salzburg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Sinnhubstraße 6</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6127004646</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6127004646</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0307791,47.7947426,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Sterneckstraße 35, 5020 Salzburg
+https://www.openstreetmap.org/node/1448135305</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1448135305</value></Data>
+<Data name="lat"><value>47.8097974</value></Data>
+<Data name="lon"><value>13.0579814</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Sterneckstraße 35</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-03-28</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1448135305</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1448135305</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0579814,47.8097974,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Sterneckstraße 55, 5020 Salzburg
+https://www.openstreetmap.org/node/1447945869</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1447945869</value></Data>
+<Data name="lat"><value>47.8099265</value></Data>
+<Data name="lon"><value>13.0631232</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Sterneckstraße 55</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-03-20</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1447945869</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1447945869</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0631232,47.8099265,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Sterneckstraße 59, 5020 Salzburg
+https://www.openstreetmap.org/node/1447945873</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1447945873</value></Data>
+<Data name="lat"><value>47.8103144</value></Data>
+<Data name="lon"><value>13.0645381</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Sterneckstraße 59</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-11-05</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1447945873</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1447945873</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0645381,47.8103144,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Strubergasse 18, 5020 Salzburg
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7591803224</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7591803224</value></Data>
+<Data name="lat"><value>47.8091846</value></Data>
+<Data name="lon"><value>13.0322048</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Strubergasse 18</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7591803224</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7591803224</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0322048,47.8091846,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparda-Bank</name>
+<description>Südtiroler Platz 1, 5020 Salzburg
+https://www.openstreetmap.org/node/6855763479</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6855763479</value></Data>
+<Data name="lat"><value>47.8129404</value></Data>
+<Data name="lon"><value>13.0458134</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparda-Bank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Südtiroler Platz 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-07-02</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6855763479</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6855763479</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0458134,47.8129404,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99</name>
+<description>Südtiroler Platz 1, 5020 Salzburg
+https://www.openstreetmap.org/node/2418591189</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2418591189</value></Data>
+<Data name="lat"><value>47.8137461</value></Data>
+<Data name="lon"><value>13.0454208</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Südtiroler Platz 1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-04-03</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2418591189</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2418591189</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0454208,47.8137461,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo Salzburg</name>
+<description>Südtiroler Platz 13, 5020 Salzburg
+https://www.openstreetmap.org/node/620443161</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/620443161</value></Data>
+<Data name="lat"><value>47.8144724</value></Data>
+<Data name="lon"><value>13.0452225</value></Data>
+<Data name="name"><value>Hypo Salzburg</value></Data>
+<Data name="operator"><value>Hypo Salzburg</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Südtiroler Platz 13</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-02</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/620443161</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/620443161</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0452225,47.8144724,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Südtiroler Platz 3, 5020 Salzburg
+Opening hours: Mo-Fr 08:30-12:30,14:00-16:30
+https://www.openstreetmap.org/node/13157846318</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13157846318</value></Data>
+<Data name="lat"><value>47.8127950</value></Data>
+<Data name="lon"><value>13.0435669</value></Data>
+<Data name="name"><value>Sparkasse Salzburg</value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Südtiroler Platz 3</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13157846318;osm:node/619716626</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13157846318</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0435669,47.8127950,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Vogelweiderstraße 27, 5020 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/1447874396</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1447874396</value></Data>
+<Data name="lat"><value>47.8097040</value></Data>
+<Data name="lon"><value>13.0547786</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Vogelweiderstraße 27</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2025-07-11</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1447874396</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1447874396</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0547786,47.8097040,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo</name>
+<description>Vogelweiderstraße 55, 5020 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/1447874400</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1447874400</value></Data>
+<Data name="lat"><value>47.8129769</value></Data>
+<Data name="lon"><value>13.0539747</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Hypo</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Vogelweiderstraße 55</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2025-10-15</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1447874400</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1447874400</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0539747,47.8129769,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EREN Bilanzbuchhaltungskanzlei e.U.</name>
+<description>Vogelweiderstraße 55/1, 5020 Salzburg
+Opening hours: Mo-Sa 08:00-19:00
+https://www.openstreetmap.org/way/49001683</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/49001683</value></Data>
+<Data name="lat"><value>47.8130304</value></Data>
+<Data name="lon"><value>13.0538887</value></Data>
+<Data name="name"><value>EREN Bilanzbuchhaltungskanzlei e.U.</value></Data>
+<Data name="operator"><value>EREN Bilanzbuchhaltungskanzlei e.U.</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Vogelweiderstraße 55/1</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Sa 08:00-19:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-09-14</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/49001683</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/49001683</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0538887,47.8130304,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Vogelweiderstraße 86, 5020 Salzburg
+https://www.openstreetmap.org/node/1448135304</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1448135304</value></Data>
+<Data name="lat"><value>47.8170717</value></Data>
+<Data name="lon"><value>13.0537127</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Vogelweiderstraße 86</value></Data>
+<Data name="postcode"><value>5020</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2021-07-09</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1448135304</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1448135304</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0537127,47.8170717,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Aglassingerstraße 2, 5023 Salzburg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/8892364818</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8892364818</value></Data>
+<Data name="lat"><value>47.8130831</value></Data>
+<Data name="lon"><value>13.0674784</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Aglassingerstraße 2</value></Data>
+<Data name="postcode"><value>5023</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-04-18</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8892364818;osm:node/916252034</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8892364818</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0674784,47.8130831,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Linzer Bundesstraße 35, 5023 Salzburg
+https://www.openstreetmap.org/node/2082978985</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2082978985</value></Data>
+<Data name="lat"><value>47.8149661</value></Data>
+<Data name="lon"><value>13.0691091</value></Data>
+<Data name="name"><value>Raiffeisenbank Gnigl</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Linzer Bundesstraße 35</value></Data>
+<Data name="postcode"><value>5023</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2082978985</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2082978985</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0691091,47.8149661,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Versorgungshausstraße 14, 5023 Salzburg-Gnigl
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/340515125</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/340515125</value></Data>
+<Data name="lat"><value>47.8126743</value></Data>
+<Data name="lon"><value>13.0716259</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Versorgungshausstraße 14</value></Data>
+<Data name="postcode"><value>5023</value></Data>
+<Data name="city"><value>Salzburg-Gnigl</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/340515125</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/340515125</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0716259,47.8126743,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Salzburger Sparkasse</name>
+<description>Aigner Straße 35, 5026 Salzburg
+https://www.openstreetmap.org/node/1407285202</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1407285202</value></Data>
+<Data name="lat"><value>47.7933463</value></Data>
+<Data name="lon"><value>13.0728308</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Salzburger Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Aigner Straße 35</value></Data>
+<Data name="postcode"><value>5026</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-11-20</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1407285202</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1407285202</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0728308,47.7933463,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hans-Jürgen Kriechhammer</name>
+<description>Aigner Straße 35, 5026 Salzburg
+Opening hours: Mo-Fr 08:30-12:30,14:00-16:30
+https://www.openstreetmap.org/node/1407318581</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1407318581</value></Data>
+<Data name="lat"><value>47.7933641</value></Data>
+<Data name="lon"><value>13.0728049</value></Data>
+<Data name="name"><value>Salzburger Sparkasse</value></Data>
+<Data name="operator"><value>Hans-Jürgen Kriechhammer</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Aigner Straße 35</value></Data>
+<Data name="postcode"><value>5026</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30,14:00-16:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1407318581</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1407318581</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0728049,47.7933641,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Aigner Straße 52, 5026 Salzburg
+https://www.openstreetmap.org/way/133489395</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/133489395</value></Data>
+<Data name="lat"><value>47.7898581</value></Data>
+<Data name="lon"><value>13.0753005</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Aigner Straße 52</value></Data>
+<Data name="postcode"><value>5026</value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-08-22</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/133489395</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/133489395</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0753005,47.7898581,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Aigner Straße 78, 5026 Salzburg-Aigen
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7591803219</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7591803219</value></Data>
+<Data name="lat"><value>47.7833356</value></Data>
+<Data name="lon"><value>13.0802540</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Aigner Straße 78</value></Data>
+<Data name="postcode"><value>5026</value></Data>
+<Data name="city"><value>Salzburg-Aigen</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7591803219</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7591803219</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0802540,47.7833356,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Interchange</name>
+<description>Kaiserschützenstraße 8, Salzburg
+https://www.openstreetmap.org/node/13477444273</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13477444273</value></Data>
+<Data name="lat"><value>47.8139196</value></Data>
+<Data name="lon"><value>13.0430996</value></Data>
+<Data name="name"><value>Interchange</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kaiserschützenstraße 8</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13477444273</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13477444273</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0430996,47.8139196,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparda Bank</name>
+<description>Südtiroler Platz  1, Salzburg
+Opening hours: Mo-Fr 08:30-12:00
+https://www.openstreetmap.org/node/1494526986</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1494526986</value></Data>
+<Data name="lat"><value>47.8123503</value></Data>
+<Data name="lon"><value>13.0445209</value></Data>
+<Data name="name"><value>Sparda-Bank</value></Data>
+<Data name="operator"><value>Sparda Bank</value></Data>
+<Data name="brand"><value>Sparda-Bank</value></Data>
+<Data name="street"><value>Südtiroler Platz  1</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>Salzburg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2026-04-23</value></Data>
+<Data name="place"><value>Salzburg</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1494526986;osm:node/5373582298</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1494526986</value></Data>
+</ExtendedData>
+<Point><coordinates>13.0445209,47.8123503,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

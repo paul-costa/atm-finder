@@ -1,0 +1,9 @@
+[Unit]
+Description=atm-finder: back up the Google Maps lists daily
+
+[Timer]
+OnCalendar=*-*-* 03:30
+Persistent=true
+
+[Install]
+WantedBy=timers.target

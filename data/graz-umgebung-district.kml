@@ -1,0 +1,1961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs Bezirk Graz-Umgebung</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>ATM</name>
+<description>Riesstraße 420, 8010 Kainbach bei Graz
+https://www.openstreetmap.org/node/7988327794</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7988327794</value></Data>
+<Data name="lat"><value>47.0999833</value></Data>
+<Data name="lon"><value>15.5572949</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Riesstraße 420</value></Data>
+<Data name="postcode"><value>8010</value></Data>
+<Data name="city"><value>Kainbach bei Graz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7988327794</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7988327794</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5572949,47.0999833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PSA Payment Services Austria GmbH</name>
+<description>Dorfplatz 1, 8046 Stattegg
+Opening hours: 24/7
+https://www.openstreetmap.org/node/13495441718</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13495441718</value></Data>
+<Data name="lat"><value>47.1374832</value></Data>
+<Data name="lon"><value>15.4195661</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA Payment Services Austria GmbH</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dorfplatz 1</value></Data>
+<Data name="postcode"><value>8046</value></Data>
+<Data name="city"><value>Stattegg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13495441718</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13495441718</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4195661,47.1374832,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Blaswirtweg 1, 8051 Thal
+https://www.openstreetmap.org/node/7188177022</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7188177022</value></Data>
+<Data name="lat"><value>47.0779184</value></Data>
+<Data name="lon"><value>15.3555284</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Blaswirtweg 1</value></Data>
+<Data name="postcode"><value>8051</value></Data>
+<Data name="city"><value>Thal</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7188177022</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7188177022</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3555284,47.0779184,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PSA Payment Services Austria GmbH</name>
+<description>Unterthalstraße 20, 8051 Thal
+Opening hours: 24/7
+https://www.openstreetmap.org/node/13366689291</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13366689291</value></Data>
+<Data name="lat"><value>47.0782559</value></Data>
+<Data name="lon"><value>15.3563038</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA Payment Services Austria GmbH</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Unterthalstraße 20</value></Data>
+<Data name="postcode"><value>8051</value></Data>
+<Data name="city"><value>Thal</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13366689291</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13366689291</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3563038,47.0782559,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Haushamerstraße 1, 8054 Seiersberg-Pirka
+Opening hours: Mo-Fr 08:30-12:30; Th 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/292265698</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/292265698</value></Data>
+<Data name="lat"><value>47.0105097</value></Data>
+<Data name="lon"><value>15.4041643</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Haushamerstraße 1</value></Data>
+<Data name="postcode"><value>8054</value></Data>
+<Data name="city"><value>Seiersberg-Pirka</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Th 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/292265698</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/292265698</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4041643,47.0105097,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Premstätter Straße 182, 8054 Seiersberg-Pirka
+Opening hours: 06:00-21:00
+https://www.openstreetmap.org/node/5658600646</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5658600646</value></Data>
+<Data name="lat"><value>46.9898461</value></Data>
+<Data name="lon"><value>15.3984151</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Premstätter Straße 182</value></Data>
+<Data name="postcode"><value>8054</value></Data>
+<Data name="city"><value>Seiersberg-Pirka</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>06:00-21:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5658600646</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5658600646</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3984151,46.9898461,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Sparkasse</name>
+<description>Shopping City Seiersberg 3, 8055 Seiersberg
+https://www.openstreetmap.org/node/9750235394</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9750235394</value></Data>
+<Data name="lat"><value>47.0121560</value></Data>
+<Data name="lon"><value>15.4102378</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Shopping City Seiersberg 3</value></Data>
+<Data name="postcode"><value>8055</value></Data>
+<Data name="city"><value>Seiersberg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9750235394</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9750235394</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4102378,47.0121560,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Sparkasse</name>
+<description>Hauptstraße 20, 8061 Sankt Radegund bei Graz
+https://www.openstreetmap.org/node/2973208799</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2973208799</value></Data>
+<Data name="lat"><value>47.1806318</value></Data>
+<Data name="lon"><value>15.4895484</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Hauptstraße 20</value></Data>
+<Data name="postcode"><value>8061</value></Data>
+<Data name="city"><value>Sankt Radegund bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2973208799;osm:node/2973209163</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2973208799</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4895484,47.1806318,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Grazer Straße 48, 8062 Kumberg
+https://www.openstreetmap.org/node/3772974688</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3772974688</value></Data>
+<Data name="lat"><value>47.1453242</value></Data>
+<Data name="lon"><value>15.5492901</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Grazer Straße 48</value></Data>
+<Data name="postcode"><value>8062</value></Data>
+<Data name="city"><value>Kumberg</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3772974688</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3772974688</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5492901,47.1453242,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Kumberg</name>
+<description>Hauptstraße 2, 8062 Kumberg
+https://www.openstreetmap.org/way/139077926</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/139077926</value></Data>
+<Data name="lat"><value>47.1594386</value></Data>
+<Data name="lon"><value>15.5343706</value></Data>
+<Data name="name"><value>Raiffeisenbank Kumberg</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptstraße 2</value></Data>
+<Data name="postcode"><value>8062</value></Data>
+<Data name="city"><value>Kumberg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/139077926</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/139077926</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5343706,47.1594386,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Nestelbach-Eggersdorf</name>
+<description>Hauptstraße 56, 8063 Eggersdorf bei Graz
+Opening hours: Mo-Fr 08:00-12:00, Mo,We,Th,Fr 14:30-17:00
+https://www.openstreetmap.org/way/164845708</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/164845708</value></Data>
+<Data name="lat"><value>47.1230541</value></Data>
+<Data name="lon"><value>15.5991840</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisenbank Nestelbach-Eggersdorf</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptstraße 56</value></Data>
+<Data name="postcode"><value>8063</value></Data>
+<Data name="city"><value>Eggersdorf bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, Mo,We,Th,Fr 14:30-17:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/164845708</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/164845708</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5991840,47.1230541,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Sparkasse - Filiale Eggersdorf</name>
+<description>Tragbergstraße 2, 8063 Eggersdorf bei Graz
+https://www.openstreetmap.org/way/164923649</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/164923649</value></Data>
+<Data name="lat"><value>47.1238611</value></Data>
+<Data name="lon"><value>15.6000640</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse - Filiale Eggersdorf</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Tragbergstraße 2</value></Data>
+<Data name="postcode"><value>8063</value></Data>
+<Data name="city"><value>Eggersdorf bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/164923649</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/164923649</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6000640,47.1238611,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Grazer Straße 6, 8071 Hausmannstätten
+https://www.openstreetmap.org/way/132216406</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/132216406</value></Data>
+<Data name="lat"><value>46.9924697</value></Data>
+<Data name="lon"><value>15.5070061</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Grazer Straße 6</value></Data>
+<Data name="postcode"><value>8071</value></Data>
+<Data name="city"><value>Hausmannstätten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/132216406</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/132216406</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5070061,46.9924697,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank</name>
+<description>Marktplatz 4, 8071 Hausmannstätten
+Opening hours: Mo-Fr 08:30-12:30; Fr 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/1836361939</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1836361939</value></Data>
+<Data name="lat"><value>46.9910540</value></Data>
+<Data name="lon"><value>15.5078201</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Marktplatz 4</value></Data>
+<Data name="postcode"><value>8071</value></Data>
+<Data name="city"><value>Hausmannstätten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Fr 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2022-05-14</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1836361939;osm:node/2902593236</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1836361939</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5078201,46.9910540,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Peter-Rosegger-Straße 1, 8072 Fernitz
+https://www.openstreetmap.org/node/12723303328</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/12723303328</value></Data>
+<Data name="lat"><value>46.9723821</value></Data>
+<Data name="lon"><value>15.4975929</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Peter-Rosegger-Straße 1</value></Data>
+<Data name="postcode"><value>8072</value></Data>
+<Data name="city"><value>Fernitz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-04-02</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/12723303328</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/12723303328</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4975929,46.9723821,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Flughafenstraße 51, 8073 Feldkirchen bei Graz
+https://www.openstreetmap.org/node/1286462903</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1286462903</value></Data>
+<Data name="lat"><value>46.9965851</value></Data>
+<Data name="lon"><value>15.4442740</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Flughafenstraße 51</value></Data>
+<Data name="postcode"><value>8073</value></Data>
+<Data name="city"><value>Feldkirchen bei Graz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-04-17</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1286462903</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1286462903</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4442740,46.9965851,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Marktplatz 1, 8073 Feldkirchen bei Graz
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7522425029</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7522425029</value></Data>
+<Data name="lat"><value>47.0113233</value></Data>
+<Data name="lon"><value>15.4431127</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Marktplatz 1</value></Data>
+<Data name="postcode"><value>8073</value></Data>
+<Data name="city"><value>Feldkirchen bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7522425029</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7522425029</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4431127,47.0113233,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Triester Straße 45, 8073 Feldkirchen bei Graz
+Opening hours: Mo-Fr 08:30-12:30; Th 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/way/151848861</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/151848861</value></Data>
+<Data name="lat"><value>47.0122343</value></Data>
+<Data name="lon"><value>15.4435792</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Triester Straße 45</value></Data>
+<Data name="postcode"><value>8073</value></Data>
+<Data name="city"><value>Feldkirchen bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Th 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/151848861</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/151848861</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4435792,47.0122343,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kurant</name>
+<description>Dr.-Auner-Straße 2, 8074 Raaba
+Opening hours: Mo-Su 08:00-17:30
+https://www.openstreetmap.org/node/8852249451</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8852249451</value></Data>
+<Data name="lat"><value>47.0292197</value></Data>
+<Data name="lon"><value>15.4949234</value></Data>
+<Data name="name"><value>Kurant Bitcoin ATM</value></Data>
+<Data name="operator"><value>Kurant</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dr.-Auner-Straße 2</value></Data>
+<Data name="postcode"><value>8074</value></Data>
+<Data name="city"><value>Raaba</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Su 08:00-17:30</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value>2024-05-19</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8852249451</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8852249451</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4949234,47.0292197,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Dr.-Auner-Straße 2, 8074 Raaba
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/5210159087</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5210159087</value></Data>
+<Data name="lat"><value>47.0292367</value></Data>
+<Data name="lon"><value>15.4950161</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Dr.-Auner-Straße 2</value></Data>
+<Data name="postcode"><value>8074</value></Data>
+<Data name="city"><value>Raaba</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5210159087</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5210159087</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4950161,47.0292367,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Raaba - Grambach</name>
+<description>Josef-Krainer-Straße 2, 8074 Raaba
+https://www.openstreetmap.org/node/7256189109</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7256189109</value></Data>
+<Data name="lat"><value>47.0348672</value></Data>
+<Data name="lon"><value>15.4926545</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank Raaba - Grambach</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Josef-Krainer-Straße 2</value></Data>
+<Data name="postcode"><value>8074</value></Data>
+<Data name="city"><value>Raaba</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2024-07-22</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7256189109</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7256189109</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4926545,47.0348672,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Graz-St.Peter eGen</name>
+<description>Josef-Krainer-Straße 47, 8074 Raaba
+Opening hours: Mo-Fr 08:00-20:00 &quot;nach Terminvereinbarung&quot;
+https://www.openstreetmap.org/node/13108706618</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13108706618</value></Data>
+<Data name="lat"><value>47.0288614</value></Data>
+<Data name="lon"><value>15.4962171</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisenbank Graz-St.Peter eGen</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Josef-Krainer-Straße 47</value></Data>
+<Data name="postcode"><value>8074</value></Data>
+<Data name="city"><value>Raaba</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-20:00 &quot;nach Terminvereinbarung&quot;</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13108706618;osm:way/131856232</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13108706618</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4962171,47.0288614,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RLB</name>
+<description>Raiffeisen-Platz 1, 8074 Raaba-Grambach
+https://www.openstreetmap.org/node/269033091</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/269033091</value></Data>
+<Data name="lat"><value>47.0281658</value></Data>
+<Data name="lon"><value>15.4916730</value></Data>
+<Data name="name"><value>RLB</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Raiffeisen-Platz 1</value></Data>
+<Data name="postcode"><value>8074</value></Data>
+<Data name="city"><value>Raaba-Grambach</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-07-28</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/269033091</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/269033091</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4916730,47.0281658,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Pachern-Hauptstraße 88, 8075 Hart bei Graz
+Opening hours: Mo-Fr 08:30-12:30; Th 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/619521050</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/619521050</value></Data>
+<Data name="lat"><value>47.0446972</value></Data>
+<Data name="lon"><value>15.5181891</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Pachern-Hauptstraße 88</value></Data>
+<Data name="postcode"><value>8075</value></Data>
+<Data name="city"><value>Hart bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Th 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/619521050</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/619521050</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5181891,47.0446972,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Pachern-Hauptstraße 91-93, 8075 Hart bei Graz
+https://www.openstreetmap.org/way/121562317</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/121562317</value></Data>
+<Data name="lat"><value>47.0453710</value></Data>
+<Data name="lon"><value>15.5197257</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Pachern-Hauptstraße 91-93</value></Data>
+<Data name="postcode"><value>8075</value></Data>
+<Data name="city"><value>Hart bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/121562317</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/121562317</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5197257,47.0453710,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Vasoldsberg 33, 8076 Vasoldsberg
+https://www.openstreetmap.org/node/85795198</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/85795198</value></Data>
+<Data name="lat"><value>47.0127150</value></Data>
+<Data name="lon"><value>15.5543794</value></Data>
+<Data name="name"><value>Raika</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Vasoldsberg 33</value></Data>
+<Data name="postcode"><value>8076</value></Data>
+<Data name="city"><value>Vasoldsberg</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/85795198</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/85795198</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5543794,47.0127150,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Bundesstraße 83, 8077 Gössendorf
+https://www.openstreetmap.org/node/13248636894</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13248636894</value></Data>
+<Data name="lat"><value>47.0075006</value></Data>
+<Data name="lon"><value>15.4813436</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bundesstraße 83</value></Data>
+<Data name="postcode"><value>8077</value></Data>
+<Data name="city"><value>Gössendorf</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13248636894</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13248636894</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4813436,47.0075006,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Hauptstraße 1, 8077 Gössendorf
+https://www.openstreetmap.org/node/14246114001</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/14246114001</value></Data>
+<Data name="lat"><value>47.0067701</value></Data>
+<Data name="lon"><value>15.4816356</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptstraße 1</value></Data>
+<Data name="postcode"><value>8077</value></Data>
+<Data name="city"><value>Gössendorf</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/14246114001;osm:node/269042362</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/14246114001</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4816356,47.0067701,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>BAWAG PSK AG</name>
+<description>Andreas Leykam Platz 1, 8101 Gratkorn
+Opening hours: Mo-Fr 09:00-17:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/1829773713</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1829773713</value></Data>
+<Data name="lat"><value>47.1326966</value></Data>
+<Data name="lon"><value>15.3401577</value></Data>
+<Data name="name"><value>BAWAG PSK</value></Data>
+<Data name="operator"><value>BAWAG PSK AG</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Andreas Leykam Platz 1</value></Data>
+<Data name="postcode"><value>8101</value></Data>
+<Data name="city"><value>Gratkorn</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-17:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1829773713</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1829773713</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3401577,47.1326966,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Brucker Straße 8, 8101 Gratkorn
+Opening hours: Mo-Fr 08:30-12:00; Mo,Fr 14:00-16:30; Sa,Su,PH off
+https://www.openstreetmap.org/way/232063347</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/232063347</value></Data>
+<Data name="lat"><value>47.1338392</value></Data>
+<Data name="lon"><value>15.3378681</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Brucker Straße 8</value></Data>
+<Data name="postcode"><value>8101</value></Data>
+<Data name="city"><value>Gratkorn</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:00; Mo,Fr 14:00-16:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/232063347</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/232063347</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3378681,47.1338392,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Dr.-Karl-Renner-Straße 8, 8101 Gratkorn
+https://www.openstreetmap.org/node/10833567719</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10833567719</value></Data>
+<Data name="lat"><value>47.1342024</value></Data>
+<Data name="lon"><value>15.3435163</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dr.-Karl-Renner-Straße 8</value></Data>
+<Data name="postcode"><value>8101</value></Data>
+<Data name="city"><value>Gratkorn</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-04-21</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10833567719</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10833567719</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3435163,47.1342024,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Markt, 8102
+Opening hours: Mo-Fr 07:30-12:00,14:30-17:00
+https://www.openstreetmap.org/node/4013272012</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4013272012</value></Data>
+<Data name="lat"><value>47.2176538</value></Data>
+<Data name="lon"><value>15.4035084</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Markt</value></Data>
+<Data name="postcode"><value>8102</value></Data>
+<Data name="city"><value></value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:30-12:00,14:30-17:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2023-09-26</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4013272012;osm:node/2284341390</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4013272012</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4035084,47.2176538,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Gratwein</name>
+<description>Rein 182, 8103 Gratwein-Straßengel
+https://www.openstreetmap.org/way/229903955</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/229903955</value></Data>
+<Data name="lat"><value>47.1372149</value></Data>
+<Data name="lon"><value>15.2858061</value></Data>
+<Data name="name"><value>Raiffeisenbank Gratwein</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Rein 182</value></Data>
+<Data name="postcode"><value>8103</value></Data>
+<Data name="city"><value>Gratwein-Straßengel</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/229903955</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/229903955</value></Data>
+</ExtendedData>
+<Point><coordinates>15.2858061,47.1372149,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Grazer Straße 59, 8111 Judendorf
+https://www.openstreetmap.org/way/118027470</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/118027470</value></Data>
+<Data name="lat"><value>47.1151176</value></Data>
+<Data name="lon"><value>15.3454778</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisenbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Grazer Straße 59</value></Data>
+<Data name="postcode"><value>8111</value></Data>
+<Data name="city"><value>Judendorf</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/118027470</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/118027470</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3454778,47.1151176,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Hauptplatz 4, 8111 Gratwein-Straßengel
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/299452559</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/299452559</value></Data>
+<Data name="lat"><value>47.1138487</value></Data>
+<Data name="lon"><value>15.3370735</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Hauptplatz 4</value></Data>
+<Data name="postcode"><value>8111</value></Data>
+<Data name="city"><value>Gratwein-Straßengel</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/299452559</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/299452559</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3370735,47.1138487,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Hauptplatz 5, 8111 Gratwein-Straßengel
+Opening hours: Mo, Fr 08:30-12:00; Tu-Th 08:30-12:00
+https://www.openstreetmap.org/way/323610095</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/323610095</value></Data>
+<Data name="lat"><value>47.1134553</value></Data>
+<Data name="lon"><value>15.3356357</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Hauptplatz 5</value></Data>
+<Data name="postcode"><value>8111</value></Data>
+<Data name="city"><value>Gratwein-Straßengel</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo, Fr 08:30-12:00; Tu-Th 08:30-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/323610095</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/323610095</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3356357,47.1134553,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Bahnhofstraße 22, 8112 Gratwein
+Opening hours: Mo-Th 08:00-12:00, 14:00-16:30; Fr 07:30-15:00
+https://www.openstreetmap.org/node/331404376</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/331404376</value></Data>
+<Data name="lat"><value>47.1297859</value></Data>
+<Data name="lon"><value>15.3209532</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bahnhofstraße 22</value></Data>
+<Data name="postcode"><value>8112</value></Data>
+<Data name="city"><value>Gratwein</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:00-12:00, 14:00-16:30; Fr 07:30-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/331404376</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/331404376</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3209532,47.1297859,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Sparkasse</name>
+<description>Bahnhofstraße Gratwein 4, 8112 Gratwein-Straßengel
+Opening hours: Mo-Fr 08:30-12:00; Mo,Fr 14:00-16:30; Sa,Su,PH off
+https://www.openstreetmap.org/way/325181014</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/325181014</value></Data>
+<Data name="lat"><value>47.1294484</value></Data>
+<Data name="lon"><value>15.3192280</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Bahnhofstraße Gratwein 4</value></Data>
+<Data name="postcode"><value>8112</value></Data>
+<Data name="city"><value>Gratwein-Straßengel</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:00; Mo,Fr 14:00-16:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/325181014</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/325181014</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3192280,47.1294484,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank St. Bartholomä</name>
+<description>St. Bartholomä 64, 8113 Sankt Bartholomä
+https://www.openstreetmap.org/node/1068241893</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1068241893</value></Data>
+<Data name="lat"><value>47.0689605</value></Data>
+<Data name="lon"><value>15.2569442</value></Data>
+<Data name="name"><value>Raiffeisenbank St. Bartholomä</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>St. Bartholomä 64</value></Data>
+<Data name="postcode"><value>8113</value></Data>
+<Data name="city"><value>Sankt Bartholomä</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1068241893</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1068241893</value></Data>
+</ExtendedData>
+<Point><coordinates>15.2569442,47.0689605,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PSA Payment Services Austria GmbH</name>
+<description>Stiwoll 31, 8113 Stiwoll
+Opening hours: 24/7
+https://www.openstreetmap.org/node/13367315845</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/13367315845</value></Data>
+<Data name="lat"><value>47.1025763</value></Data>
+<Data name="lon"><value>15.2188318</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>PSA Payment Services Austria GmbH</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Stiwoll 31</value></Data>
+<Data name="postcode"><value>8113</value></Data>
+<Data name="city"><value>Stiwoll</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/13367315845</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/13367315845</value></Data>
+</ExtendedData>
+<Point><coordinates>15.2188318,47.1025763,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Franz Tieber-Platz 1, 8120 Peggau
+Opening hours: Mo,We 08:30-12:00; Fr 08:30-12:00, 13:45-16:15; Tu,Th,Sa,Su,PH off
+https://www.openstreetmap.org/way/375731819</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/375731819</value></Data>
+<Data name="lat"><value>47.2063425</value></Data>
+<Data name="lon"><value>15.3447451</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Franz Tieber-Platz 1</value></Data>
+<Data name="postcode"><value>8120</value></Data>
+<Data name="city"><value>Peggau</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,We 08:30-12:00; Fr 08:30-12:00, 13:45-16:15; Tu,Th,Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/375731819</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/375731819</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3447451,47.2063425,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Feldgasse 2, 8121
+Opening hours: Mo-Fr 08:00-12:00, Mo,We,Fr 14:00-15:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/285860970</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/285860970</value></Data>
+<Data name="lat"><value>47.1994300</value></Data>
+<Data name="lon"><value>15.3377087</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Feldgasse 2</value></Data>
+<Data name="postcode"><value>8121</value></Data>
+<Data name="city"><value></value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, Mo,We,Fr 14:00-15:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/285860970</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/285860970</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3377087,47.1994300,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank</name>
+<description>Alter Markt 196, 8124
+https://www.openstreetmap.org/node/2324215427</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2324215427</value></Data>
+<Data name="lat"><value>47.2258325</value></Data>
+<Data name="lon"><value>15.2363155</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Alter Markt 196</value></Data>
+<Data name="postcode"><value>8124</value></Data>
+<Data name="city"><value></value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2324215427</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2324215427</value></Data>
+</ExtendedData>
+<Point><coordinates>15.2363155,47.2258325,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DDr. Michaela Gröll</name>
+<description>Gleinalmstraße 20, 8124
+https://www.openstreetmap.org/node/3612571890</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3612571890</value></Data>
+<Data name="lat"><value>47.2254536</value></Data>
+<Data name="lon"><value>15.2357730</value></Data>
+<Data name="name"><value>DDr. Michaela Gröll</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Gleinalmstraße 20</value></Data>
+<Data name="postcode"><value>8124</value></Data>
+<Data name="city"><value></value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3612571890</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3612571890</value></Data>
+</ExtendedData>
+<Point><coordinates>15.2357730,47.2254536,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Brucker Straße 3, 8130 Frohnleiten
+https://www.openstreetmap.org/node/4825657677</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4825657677</value></Data>
+<Data name="lat"><value>47.2723661</value></Data>
+<Data name="lon"><value>15.3279652</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Brucker Straße 3</value></Data>
+<Data name="postcode"><value>8130</value></Data>
+<Data name="city"><value>Frohnleiten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4825657677</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4825657677</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3279652,47.2723661,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Sparkasse</name>
+<description>Hauptplatz 14, 8130 Frohnleiten
+Opening hours: Mo-Fr 08:30-12:00, 14:00-16:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/4825657676</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4825657676</value></Data>
+<Data name="lat"><value>47.2704734</value></Data>
+<Data name="lon"><value>15.3256444</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Hauptplatz 14</value></Data>
+<Data name="postcode"><value>8130</value></Data>
+<Data name="city"><value>Frohnleiten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:00, 14:00-16:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-07-27</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4825657676;osm:node/289302081</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4825657676</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3256444,47.2704734,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen Landesbank</name>
+<description>Hauptplatz 43, 8130 Frohnleiten
+Opening hours: Mo-Fr 08:00-12:00, 14:00-16:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/4825657675</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4825657675</value></Data>
+<Data name="lat"><value>47.2712462</value></Data>
+<Data name="lon"><value>15.3275424</value></Data>
+<Data name="name"><value>Raiffeisen-Landesbank</value></Data>
+<Data name="operator"><value>Raiffeisen Landesbank</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Hauptplatz 43</value></Data>
+<Data name="postcode"><value>8130</value></Data>
+<Data name="city"><value>Frohnleiten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-16:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-10-04</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4825657675;osm:node/289301410</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4825657675</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3275424,47.2712462,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Hauptstraße 103, 8141 Premstätten
+Opening hours: Mo-Fr 08:30-12:30; Fr 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/1078523752</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1078523752</value></Data>
+<Data name="lat"><value>46.9757553</value></Data>
+<Data name="lon"><value>15.4037760</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Hauptstraße 103</value></Data>
+<Data name="postcode"><value>8141</value></Data>
+<Data name="city"><value>Premstätten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Fr 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1078523752</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1078523752</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4037760,46.9757553,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Hauptstraße 124a, 8141 Premstätten
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7522425027</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7522425027</value></Data>
+<Data name="lat"><value>46.9738961</value></Data>
+<Data name="lon"><value>15.4032856</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Hauptstraße 124a</value></Data>
+<Data name="postcode"><value>8141</value></Data>
+<Data name="city"><value>Premstätten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7522425027</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7522425027</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4032856,46.9738961,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Unterpremstätten</name>
+<description>Hauptstraße 151, 8141 Premstätten
+https://www.openstreetmap.org/way/795539134</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/795539134</value></Data>
+<Data name="lat"><value>46.9708379</value></Data>
+<Data name="lon"><value>15.4038017</value></Data>
+<Data name="name"><value>Raiffeisenbank Unterpremstätten</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Hauptstraße 151</value></Data>
+<Data name="postcode"><value>8141</value></Data>
+<Data name="city"><value>Premstätten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/795539134</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/795539134</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4038017,46.9708379,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Unterpremstätten</name>
+<description>Dorfstraße 5, 8142 Wundschuh
+https://www.openstreetmap.org/way/163251975</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/163251975</value></Data>
+<Data name="lat"><value>46.9260516</value></Data>
+<Data name="lon"><value>15.4521563</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Raiffeisenbank Unterpremstätten</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dorfstraße 5</value></Data>
+<Data name="postcode"><value>8142</value></Data>
+<Data name="city"><value>Wundschuh</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/163251975</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/163251975</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4521563,46.9260516,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Hitzendorf 63, 8151 Hitzendorf
+Opening hours: Mo-Fr 08:30-12:30; Tu,Fr 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/823368932</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/823368932</value></Data>
+<Data name="lat"><value>47.0346856</value></Data>
+<Data name="lon"><value>15.2994550</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Hitzendorf 63</value></Data>
+<Data name="postcode"><value>8151</value></Data>
+<Data name="city"><value>Hitzendorf</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Tu,Fr 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/823368932</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/823368932</value></Data>
+</ExtendedData>
+<Point><coordinates>15.2994550,47.0346856,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Hauptstraße 23, 8301 Laßnitzhöhe
+Opening hours: Mo-Fr 07:00-19:00
+https://www.openstreetmap.org/node/1267113447</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1267113447</value></Data>
+<Data name="lat"><value>47.0769058</value></Data>
+<Data name="lon"><value>15.5832360</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Hauptstraße 23</value></Data>
+<Data name="postcode"><value>8301</value></Data>
+<Data name="city"><value>Laßnitzhöhe</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:00-19:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1267113447</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1267113447</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5832360,47.0769058,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Schemerlhöhe 71, 8302 Nestelbach bei Graz
+https://www.openstreetmap.org/node/2959840345</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2959840345</value></Data>
+<Data name="lat"><value>47.0578194</value></Data>
+<Data name="lon"><value>15.5998358</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Schemerlhöhe 71</value></Data>
+<Data name="postcode"><value>8302</value></Data>
+<Data name="city"><value>Nestelbach bei Graz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2959840345</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2959840345</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5998358,47.0578194,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Schemerlhöhe 73, 8302 Nestelbach bei Graz
+https://www.openstreetmap.org/node/6480440594</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/6480440594</value></Data>
+<Data name="lat"><value>47.0582480</value></Data>
+<Data name="lon"><value>15.5990606</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Schemerlhöhe 73</value></Data>
+<Data name="postcode"><value>8302</value></Data>
+<Data name="city"><value>Nestelbach bei Graz</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/6480440594</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/6480440594</value></Data>
+</ExtendedData>
+<Point><coordinates>15.5990606,47.0582480,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Nestelbach-Eggersdorf</name>
+<description>Markt 108, 8323 Sankt Marein bei Graz
+https://www.openstreetmap.org/node/2085740888</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/2085740888</value></Data>
+<Data name="lat"><value>47.0179783</value></Data>
+<Data name="lon"><value>15.6884631</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisenbank Nestelbach-Eggersdorf</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Markt 108</value></Data>
+<Data name="postcode"><value>8323</value></Data>
+<Data name="city"><value>Sankt Marein bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/2085740888</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/2085740888</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6884631,47.0179783,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksschule St. Marein bei Graz</name>
+<description>Markt 15, 8323 Sankt Marein bei Graz
+https://www.openstreetmap.org/node/3186284191</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3186284191</value></Data>
+<Data name="lat"><value>47.0188723</value></Data>
+<Data name="lon"><value>15.6884883</value></Data>
+<Data name="name"><value>Volksschule St. Marein bei Graz</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Markt 15</value></Data>
+<Data name="postcode"><value>8323</value></Data>
+<Data name="city"><value>Sankt Marein bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>poi_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3186284191</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3186284191</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6884883,47.0188723,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Hauptstraße 104, 8401 Kalsdorf bei Graz
+Opening hours: Mo-Fr 08:30-12:30; Mo,Fr 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/way/126348244</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/126348244</value></Data>
+<Data name="lat"><value>46.9652902</value></Data>
+<Data name="lon"><value>15.4772248</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Sparkasse</value></Data>
+<Data name="street"><value>Hauptstraße 104</value></Data>
+<Data name="postcode"><value>8401</value></Data>
+<Data name="city"><value>Kalsdorf bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Mo,Fr 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/126348244</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/126348244</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4772248,46.9652902,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Hauptstraße 119, 8401 Kalsdorf bei Graz
+Opening hours: Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/340515570</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/340515570</value></Data>
+<Data name="lat"><value>46.9638911</value></Data>
+<Data name="lon"><value>15.4789603</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Hauptstraße 119</value></Data>
+<Data name="postcode"><value>8401</value></Data>
+<Data name="city"><value>Kalsdorf bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00,14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/340515570</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/340515570</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4789603,46.9638911,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Kalsdorf-Lieboch-Stainz</name>
+<description>Hauptstraße 135, 8401 Kalsdorf bei Graz
+Opening hours: Mo-Th 08:30-12:00,14:00-16:30; Fr 08:30-14:00
+https://www.openstreetmap.org/node/4693460855</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4693460855</value></Data>
+<Data name="lat"><value>46.9624637</value></Data>
+<Data name="lon"><value>15.4793885</value></Data>
+<Data name="name"><value>Raiffeisenbank Kalsdorf</value></Data>
+<Data name="operator"><value>Raiffeisenbank Kalsdorf-Lieboch-Stainz</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Hauptstraße 135</value></Data>
+<Data name="postcode"><value>8401</value></Data>
+<Data name="city"><value>Kalsdorf bei Graz</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Th 08:30-12:00,14:00-16:30; Fr 08:30-14:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-09-23</value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4693460855</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4693460855</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4793885,46.9624637,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Bundesstraße 130, 8402 Werndorf
+https://www.openstreetmap.org/node/4080440035</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/4080440035</value></Data>
+<Data name="lat"><value>46.9220981</value></Data>
+<Data name="lon"><value>15.4812628</value></Data>
+<Data name="name"><value>Steiermärkische Bank und Sparkassen AG;SB-Filiale</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Bundesstraße 130</value></Data>
+<Data name="postcode"><value>8402</value></Data>
+<Data name="city"><value>Werndorf</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/4080440035</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/4080440035</value></Data>
+</ExtendedData>
+<Point><coordinates>15.4812628,46.9220981,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Marktplatz 1, 8501 Lieboch
+Opening hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off
+https://www.openstreetmap.org/node/7522425028</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7522425028</value></Data>
+<Data name="lat"><value>46.9735196</value></Data>
+<Data name="lon"><value>15.3363901</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Marktplatz 1</value></Data>
+<Data name="postcode"><value>8501</value></Data>
+<Data name="city"><value>Lieboch</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-12:00, 14:00-17:30; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7522425028</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7522425028</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3363901,46.9735196,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Steiermärkische Bank und Sparkassen AG</name>
+<description>Packer Straße 113, 8501 Lieboch
+Opening hours: Mo-Fr 08:30-12:30; Fr 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/1769427045</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1769427045</value></Data>
+<Data name="lat"><value>46.9743539</value></Data>
+<Data name="lon"><value>15.3345377</value></Data>
+<Data name="name"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="operator"><value>Steiermärkische Bank und Sparkassen AG</value></Data>
+<Data name="brand"><value>Steiermärkische Sparkasse</value></Data>
+<Data name="street"><value>Packer Straße 113</value></Data>
+<Data name="postcode"><value>8501</value></Data>
+<Data name="city"><value>Lieboch</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30; Fr 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1769427045</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1769427045</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3345377,46.9743539,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisenbank Lieboch-Stainz</name>
+<description>Packer Straße 131, 8501 Lieboch
+Opening hours: Mo,We-Fr 08:30-12:00, 14:30-16:30, Tu 08:30-12:00, Sa-Su,PH off
+https://www.openstreetmap.org/way/178183743</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/178183743</value></Data>
+<Data name="lat"><value>46.9750901</value></Data>
+<Data name="lon"><value>15.3319146</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisenbank Lieboch-Stainz</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Packer Straße 131</value></Data>
+<Data name="postcode"><value>8501</value></Data>
+<Data name="city"><value>Lieboch</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,We-Fr 08:30-12:00, 14:30-16:30, Tu 08:30-12:00, Sa-Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>Bezirk Graz-Umgebung</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/178183743</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/178183743</value></Data>
+</ExtendedData>
+<Point><coordinates>15.3319146,46.9750901,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

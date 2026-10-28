@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ATMs St. Pölten</name>
+<Style id="atm"><IconStyle><scale>1.0</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dollar.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>BAWAG PSK</name>
+<description>Bahnhofplatz 1, 3100 St. Pölten
+https://www.openstreetmap.org/node/616745217</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/616745217</value></Data>
+<Data name="lat"><value>48.2086424</value></Data>
+<Data name="lon"><value>15.6248284</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>BAWAG PSK</value></Data>
+<Data name="brand"><value>BAWAG PSK</value></Data>
+<Data name="street"><value>Bahnhofplatz 1</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-07-28</value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/616745217</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/616745217</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6248284,48.2086424,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank</name>
+<description>Bahnhofplatz 10, 3100 St. Pölten
+https://www.openstreetmap.org/node/1661417855</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1661417855</value></Data>
+<Data name="lat"><value>48.2074573</value></Data>
+<Data name="lon"><value>15.6235262</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank</value></Data>
+<Data name="brand"><value>Volksbank</value></Data>
+<Data name="street"><value>Bahnhofplatz 10</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1661417855</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1661417855</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6235262,48.2074573,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99</name>
+<description>Bahnhofplatz 1a, 3100 St. Pölten
+Opening hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su,PH off
+https://www.openstreetmap.org/node/1661417821</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1661417821</value></Data>
+<Data name="lat"><value>48.2078346</value></Data>
+<Data name="lon"><value>15.6257117</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Bahnhofplatz 1a</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-06-07</value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1661417821;osm:node/7601872292</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1661417821</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6257117,48.2078346,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Banco Santander</name>
+<description>Brunngasse 9, 3100 St. Pölten
+Opening hours: Mo-Fr 09:00-13:00, 14:00-17:00
+https://www.openstreetmap.org/node/771168350</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/771168350</value></Data>
+<Data name="lat"><value>48.2067683</value></Data>
+<Data name="lon"><value>15.6226847</value></Data>
+<Data name="name"><value>Banco Santander</value></Data>
+<Data name="operator"><value>Banco Santander</value></Data>
+<Data name="brand"><value>Banco Santander</value></Data>
+<Data name="street"><value>Brunngasse 9</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-13:00, 14:00-17:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/771168350;osm:node/1666815332</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/771168350</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6226847,48.2067683,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Erste Bank</name>
+<description>Campus-Platz 1, 3100 St. Pölten
+https://www.openstreetmap.org/node/382967005</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/382967005</value></Data>
+<Data name="lat"><value>48.2137841</value></Data>
+<Data name="lon"><value>15.6315930</value></Data>
+<Data name="name"><value>Erste Bank</value></Data>
+<Data name="operator"><value>Erste Bank</value></Data>
+<Data name="brand"><value>Erste Bank</value></Data>
+<Data name="street"><value>Campus-Platz 1</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-07-08</value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/382967005</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/382967005</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6315930,48.2137841,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Daniel Gran-Straße 13/9, 3100 St. Pölten
+https://www.openstreetmap.org/node/10091536383</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/10091536383</value></Data>
+<Data name="lat"><value>48.2091500</value></Data>
+<Data name="lon"><value>15.6308374</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Daniel Gran-Straße 13/9</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-07-07</value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/10091536383</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/10091536383</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6308374,48.2091500,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse NÖ</name>
+<description>Domgasse 5, 3100 St. Pölten
+https://www.openstreetmap.org/node/1415472339</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1415472339</value></Data>
+<Data name="lat"><value>48.2054974</value></Data>
+<Data name="lon"><value>15.6252989</value></Data>
+<Data name="name"><value>Sparkasse NÖ</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Domgasse 5</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2025-08-19</value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1415472339</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1415472339</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6252989,48.2054974,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Franziskanergasse 4, 3100 St. Pölten
+Opening hours: 24/7
+https://www.openstreetmap.org/node/1670307866</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1670307866</value></Data>
+<Data name="lat"><value>48.2058615</value></Data>
+<Data name="lon"><value>15.6233936</value></Data>
+<Data name="name"><value>Raiffeisenbank</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Franziskanergasse 4</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1670307866</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1670307866</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6233936,48.2058615,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Erste Bank</name>
+<description>Herrengasse 1, 3100 St. Pölten
+https://www.openstreetmap.org/node/1661417801</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1661417801</value></Data>
+<Data name="lat"><value>48.2049414</value></Data>
+<Data name="lon"><value>15.6256037</value></Data>
+<Data name="name"><value>Erste Bank</value></Data>
+<Data name="operator"><value>Erste Bank</value></Data>
+<Data name="brand"><value>Erste Bank</value></Data>
+<Data name="street"><value>Herrengasse 1</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1661417801</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1661417801</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6256037,48.2049414,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Josefstraße 41, 3100 St. Pölten
+https://www.openstreetmap.org/node/8240574324</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/8240574324</value></Data>
+<Data name="lat"><value>48.1942960</value></Data>
+<Data name="lon"><value>15.6226145</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Josefstraße 41</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/8240574324</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/8240574324</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6226145,48.1942960,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Keltenstraße 2, 3100 Sankt Pölten
+https://www.openstreetmap.org/node/9214601028</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/9214601028</value></Data>
+<Data name="lat"><value>48.2284593</value></Data>
+<Data name="lon"><value>15.6767675</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Keltenstraße 2</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>Sankt Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/9214601028</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/9214601028</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6767675,48.2284593,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hypo NÖ</name>
+<description>Kremser Gasse 20, 3100 St. Pölten
+Opening hours: Mo,We-Fr 09:00-16:00; Tu 14:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/1661417806</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1661417806</value></Data>
+<Data name="lat"><value>48.2068584</value></Data>
+<Data name="lon"><value>15.6247693</value></Data>
+<Data name="name"><value>Hypo NÖ</value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kremser Gasse 20</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,We-Fr 09:00-16:00; Tu 14:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1661417806</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1661417806</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6247693,48.2068584,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Niederösterreich</name>
+<description>Landsbergerstraße 9, 3100 Sankt Pölten
+https://www.openstreetmap.org/node/666209299</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/666209299</value></Data>
+<Data name="lat"><value>48.1851833</value></Data>
+<Data name="lon"><value>15.6212570</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse Niederösterreich</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Landsbergerstraße 9</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>Sankt Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>no</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value>2026-06-27</value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/666209299</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/666209299</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6212570,48.1851833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oberbank</name>
+<description>Linzer Tor 1, 3100 St. Pölten
+Opening hours: Mo-Fr 09:00-12:00
+https://www.openstreetmap.org/node/1744232714</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1744232714</value></Data>
+<Data name="lat"><value>48.2016788</value></Data>
+<Data name="lon"><value>15.6215660</value></Data>
+<Data name="name"><value>Oberbank</value></Data>
+<Data name="operator"><value>Oberbank</value></Data>
+<Data name="brand"><value>Oberbank</value></Data>
+<Data name="street"><value>Linzer Tor 1</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 09:00-12:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1744232714</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1744232714</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6215660,48.2016788,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Neue Herrengasse 8, 3100 St. Pölten
+Opening hours: Mo-Fr 08:00-16:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/7601872293</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7601872293</value></Data>
+<Data name="lat"><value>48.2027869</value></Data>
+<Data name="lon"><value>15.6329389</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Neue Herrengasse 8</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-16:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7601872293</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7601872293</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6329389,48.2027869,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bank Austria</name>
+<description>Rathausplatz 2, 3100 St. Pölten
+Opening hours: Mo-Fr 08:30-12:30, Tu,Fr 13:30-15:00
+https://www.openstreetmap.org/node/1661417783</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/1661417783</value></Data>
+<Data name="lat"><value>48.2045756</value></Data>
+<Data name="lon"><value>15.6224937</value></Data>
+<Data name="name"><value>Bank Austria</value></Data>
+<Data name="operator"><value>Bank Austria</value></Data>
+<Data name="brand"><value>Bank Austria</value></Data>
+<Data name="street"><value>Rathausplatz 2</value></Data>
+<Data name="postcode"><value>3100</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:30-12:30, Tu,Fr 13:30-15:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value>yes</value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/1661417783</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/1661417783</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6224937,48.2045756,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Mathilde Beyerknecht-Straße 7, 3104 St. Pölten
+https://www.openstreetmap.org/node/11248563422</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/11248563422</value></Data>
+<Data name="lat"><value>48.1733483</value></Data>
+<Data name="lon"><value>15.6388990</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Mathilde Beyerknecht-Straße 7</value></Data>
+<Data name="postcode"><value>3104</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/11248563422</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/11248563422</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6388990,48.1733483,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ATM</name>
+<description>Dr.-Adolf-Schärf-Straße 10, 3107 St. Pölten
+https://www.openstreetmap.org/node/3389749155</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3389749155</value></Data>
+<Data name="lat"><value>48.2210249</value></Data>
+<Data name="lon"><value>15.6378734</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value></value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dr.-Adolf-Schärf-Straße 10</value></Data>
+<Data name="postcode"><value>3107</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3389749155</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3389749155</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6378734,48.2210249,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bank99 AG</name>
+<description>Dr.-Adolf-Schärf-Straße 5, 3107 St. Pölten
+Opening hours: Mo-Fr 08:00-18:00; Sa,Su,PH off
+https://www.openstreetmap.org/node/7601872291</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/7601872291</value></Data>
+<Data name="lat"><value>48.2237428</value></Data>
+<Data name="lon"><value>15.6363862</value></Data>
+<Data name="name"><value>bank99</value></Data>
+<Data name="operator"><value>bank99 AG</value></Data>
+<Data name="brand"><value>bank99</value></Data>
+<Data name="street"><value>Dr.-Adolf-Schärf-Straße 5</value></Data>
+<Data name="postcode"><value>3107</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-18:00; Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/7601872291</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/7601872291</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6363862,48.2237428,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse</name>
+<description>Dr.Adolf Schärf-Straße 4, 3107 St. Pölten
+Opening hours: 24/7
+https://www.openstreetmap.org/node/3400327850</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/3400327850</value></Data>
+<Data name="lat"><value>48.2228011</value></Data>
+<Data name="lon"><value>15.6356519</value></Data>
+<Data name="name"><value></value></Data>
+<Data name="operator"><value>Sparkasse</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Dr.Adolf Schärf-Straße 4</value></Data>
+<Data name="postcode"><value>3107</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>24/7</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>no</value></Data>
+<Data name="check_date"><value>2026-10-03</value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/3400327850</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/3400327850</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6356519,48.2228011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Dr.Steger-Gasse 7, 3140 Pottenbrunn
+https://www.openstreetmap.org/node/5108265357</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/5108265357</value></Data>
+<Data name="lat"><value>48.2374180</value></Data>
+<Data name="lon"><value>15.6938919</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Dr.Steger-Gasse 7</value></Data>
+<Data name="postcode"><value>3140</value></Data>
+<Data name="city"><value>Pottenbrunn</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/5108265357</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/5108265357</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6938919,48.2374180,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Raiffeisen</name>
+<description>Reitzersdorfer Straße 1, 3151 St. Georgen am Steinfelde
+Opening hours: Mo,We,Fr 09:00-12:00; Tu,Th,Sa,Su,PH off
+https://www.openstreetmap.org/way/413945198</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/413945198</value></Data>
+<Data name="lat"><value>48.1410222</value></Data>
+<Data name="lon"><value>15.6125332</value></Data>
+<Data name="name"><value>Raiffeisen</value></Data>
+<Data name="operator"><value>Raiffeisen</value></Data>
+<Data name="brand"><value>Raiffeisen</value></Data>
+<Data name="street"><value>Reitzersdorfer Straße 1</value></Data>
+<Data name="postcode"><value>3151</value></Data>
+<Data name="city"><value>St. Georgen am Steinfelde</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value>Mo,We,Fr 09:00-12:00; Tu,Th,Sa,Su,PH off</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/413945198</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/413945198</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6125332,48.1410222,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Volksbank Niederösterreich AG</name>
+<description>St. Georgener Hauptstraße, 3151 St. Pölten
+https://www.openstreetmap.org/way/699956375</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:way/699956375</value></Data>
+<Data name="lat"><value>48.1549792</value></Data>
+<Data name="lon"><value>15.6141023</value></Data>
+<Data name="name"><value>Volksbank</value></Data>
+<Data name="operator"><value>Volksbank Niederösterreich AG</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>St. Georgener Hauptstraße</value></Data>
+<Data name="postcode"><value>3151</value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>source</value></Data>
+<Data name="kind"><value>bank_with_atm</value></Data>
+<Data name="opening_hours"><value></value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value></value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value></value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:way/699956375</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/way/699956375</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6141023,48.1549792,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sparkasse Niederösterreich</name>
+<description>Kremser Landstraße 34, St. Pölten
+Opening hours: Mo-Fr 08:00-16:00
+https://www.openstreetmap.org/node/759523583</description>
+<styleUrl>#atm</styleUrl>
+<ExtendedData>
+<Data name="id"><value>osm:node/759523583</value></Data>
+<Data name="lat"><value>48.2127741</value></Data>
+<Data name="lon"><value>15.6253583</value></Data>
+<Data name="name"><value>15972 / S03870</value></Data>
+<Data name="operator"><value>Sparkasse Niederösterreich</value></Data>
+<Data name="brand"><value></value></Data>
+<Data name="street"><value>Kremser Landstraße 34</value></Data>
+<Data name="postcode"><value></value></Data>
+<Data name="city"><value>St. Pölten</value></Data>
+<Data name="address_source"><value>osm_nearby</value></Data>
+<Data name="kind"><value>atm</value></Data>
+<Data name="opening_hours"><value>Mo-Fr 08:00-16:00</value></Data>
+<Data name="fee"><value></value></Data>
+<Data name="cash_in"><value>yes</value></Data>
+<Data name="wheelchair"><value></value></Data>
+<Data name="indoor"><value>yes</value></Data>
+<Data name="check_date"><value></value></Data>
+<Data name="place"><value>St. Pölten</value></Data>
+<Data name="sources"><value>osm</value></Data>
+<Data name="source_ids"><value>osm:node/759523583;osm:node/2223241099</value></Data>
+<Data name="url"><value>https://www.openstreetmap.org/node/759523583</value></Data>
+</ExtendedData>
+<Point><coordinates>15.6253583,48.2127741,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

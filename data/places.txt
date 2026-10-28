@@ -1,0 +1,15 @@
+# One place per line: Name or Name|level (level = state, district, municipality, borough).
+# Lines starting with # are ignored. The Export data workflow writes data/<slug>.{csv,geojson,kml}.
+# It runs against the public Overpass API, so keep the list to places people actually ask for.
+Graz
+Leoben
+Graz-Umgebung|district
+# The state capitals; Wien is a state and a city at once.
+Wien
+Linz
+Salzburg
+Innsbruck
+Klagenfurt am Wörthersee
+St. Pölten
+Bregenz
+Eisenstadt
