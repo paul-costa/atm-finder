@@ -41,7 +41,6 @@ p { margin: 0 0 0.5rem; }
 .brand { font: 500 17px/1.2 var(--mono); color: var(--text); }
 .brand .prompt { color: var(--green); }
 .brand .tld { color: var(--text); }
-.brand .path { color: var(--muted); }
 main { display: grid; gap: 12px; padding-bottom: 1rem; }
 footer { color: var(--faint); font: 400 12px/1.6 var(--mono); padding-top: 28px; padding-bottom: 28px; }
 footer a { color: var(--faint); }
@@ -63,10 +62,6 @@ footer a:hover { color: var(--muted); }
 #list { --tint: #a1a1aa; }
 #ready { --tint: #8b83e6; }
 .cmd { font: 400 13px/1.5 var(--mono); color: var(--faint); }
-.dots span { color: var(--green); animation: blink 1.4s infinite both; }
-.dots span:nth-child(2) { animation-delay: 0.2s; }
-.dots span:nth-child(3) { animation-delay: 0.4s; }
-@keyframes blink { 0%, 80%, 100% { opacity: 0.2; } 40% { opacity: 1; } }
 .tagline { color: var(--muted); margin: 0.25rem 0 0; }
 .muted { color: var(--muted); font-size: 0.9rem; }
 
