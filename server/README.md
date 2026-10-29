@@ -20,7 +20,7 @@ server/
 | Public HTTPS | `atm-tunnel.service`: Cloudflare Tunnel `atm-finder` → `127.0.0.1:8090`, config `~/.cloudflared/atm-finder.yml`; `atm.costapaul.com` (old name) is redirected to `atm-finder.costapaul.com` |
 | Google account | container `atm-chromium` (linuxserver/chromium), profile in `~/.local/share/atm-finder/chromium`, remote view `https://costaserver.<tailnet>.ts.net:3011` (user `paul`, password in `vnc-pass`), DevTools on `127.0.0.1:9222` |
 | Places API key | `~/.local/share/atm-finder/places-key` (mode 600) |
-| Google account name | `~/.config/atm-finder/env` (mode 600): `ATM_GOOGLE_ACCOUNT=<address>`, read by `atm-server.service`; the address is stored in every list backup and stays out of this repository |
+| Google account name | `~/.config/atm-finder/env` (mode 600): `ATM_GOOGLE_ACCOUNT=<address>`, read by `atm-server.service`; the address is stored in every list backup and stays out of this repository (the unit file carried it until 29 Oct 2026, so the history still has it) |
 | State | `~/.local/share/atm-finder/`: `lists/*.json` (backups), `lock.json`, `site-releases/` |
 | Backup copy | `/mnt/backup/atm-finder/lists/` at once after each list, plus `atm-backup.timer` daily |
 

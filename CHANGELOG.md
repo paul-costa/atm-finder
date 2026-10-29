@@ -8,7 +8,8 @@
 - Server: a request with a malformed escape in its path (`/%E0`) answers 400 instead of
   crashing the process; an exception in the request handler answers 500 and is logged.
 - Server: the Google account's address comes from `~/.config/atm-finder/env` on the server, no
-  longer from the unit file in this repository.
+  longer from the unit file in this repository (it stays in the repository's history; a new
+  account for the lists is the only way to retire it).
 
 ## 1.1.0 (2026-10-29)
 
