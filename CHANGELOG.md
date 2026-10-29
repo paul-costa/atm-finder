@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+- Server: security headers on every answer (Content-Security-Policy, no framing, referrer and
+  permissions policies, HSTS); the page loader moved from an inline script to `boot.js` so the
+  policy can forbid inline scripts.
+- Server: a request with a malformed escape in its path (`/%E0`) answers 400 instead of
+  crashing the process; an exception in the request handler answers 500 and is logged.
+- Server: the Google account's address comes from `~/.config/atm-finder/env` on the server, no
+  longer from the unit file in this repository.
+
 ## 1.1.0 (2026-10-29)
 
 - The website moves to atm-finder.costapaul.com and runs on costaserver together with a small
