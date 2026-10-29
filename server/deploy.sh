@@ -13,6 +13,7 @@ export PATH="$HOME/.local/bin:$HOME/.cargo/bin:$PATH"
 STATE="${ATM_STATE_DIR:-$HOME/.local/share/atm-finder}"
 
 cargo test -q --workspace
+node --test server/quota.test.js >/dev/null
 cargo build -q -p atm-finder --release
 if [ "${1:-}" = "--export" ]; then
   ./target/release/atm-finder batch

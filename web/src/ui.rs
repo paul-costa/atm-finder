@@ -594,7 +594,26 @@ fn on_create_list(app: &Shared) {
     let app = app.clone();
     spawn_local(async move {
         match engine::create_list(relation, &name).await {
-            Ok(lists) => set_lists(&app, lists),
+            Ok(lists) => {
+                let refused = lists.quota.clone();
+                set_lists(&app, lists);
+                // The per-visitor limit is not part of the shared lock; say it under the button.
+                if let Some(quota) = refused {
+                    let lang = app.borrow().lang;
+                    let limit = quota.limit.to_string();
+                    let note = match quota.reason.as_str() {
+                        "blocked" => fill(lang.t("gmaps_quota_blocked"), &[("n", &limit)]),
+                        "day" => fill(
+                            lang.t("gmaps_quota_day"),
+                            &[("n", &limit), ("time", &quota.until)],
+                        ),
+                        _ => fill(lang.t("gmaps_quota_hour"), &[("time", &quota.until)]),
+                    };
+                    set_text("gmaps-note", &note);
+                    show("gmaps-note", true);
+                    set_disabled("gmaps-create", true);
+                }
+            }
             Err(message) => {
                 let lang = app.borrow().lang;
                 set_text(

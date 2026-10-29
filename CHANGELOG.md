@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Creating Google Maps lists is limited per visitor on top of the global lock: one list per
+  hour and three per day from one connection, none after 20 in total; the page says why and
+  from when. Addresses are stored only as salted hashes.
 - Server: security headers on every answer (Content-Security-Policy, no framing, referrer and
   permissions policies, HSTS); the page loader moved from an inline script to `boot.js` so the
   policy can forbid inline scripts.
