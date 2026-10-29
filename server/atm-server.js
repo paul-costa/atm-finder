@@ -105,13 +105,43 @@ const TYPES = {
   '.md': 'text/plain; charset=utf-8', '.txt': 'text/plain; charset=utf-8',
 };
 
+// Security headers on every answer. The page loads its own scripts and the WebAssembly module
+// ('wasm-unsafe-eval' lets the browser compile it), fonts from Google, map tiles from
+// OpenStreetMap, and talks to Overpass, Nominatim and its own API; nothing may frame it.
+// TLS, HTTP->HTTPS and HSTS at the edge are Cloudflare's; the HSTS header here is a backstop.
+const SECURITY_HEADERS = {
+  'X-Content-Type-Options': 'nosniff',
+  'Content-Security-Policy': [
+    "default-src 'self'",
+    "script-src 'self' 'wasm-unsafe-eval'",
+    "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
+    'font-src https://fonts.gstatic.com',
+    "img-src 'self' data: https://tile.openstreetmap.org",
+    "connect-src 'self' https://overpass-api.de https://overpass.kumi.systems https://nominatim.openstreetmap.org",
+    "frame-ancestors 'none'",
+    "base-uri 'self'",
+    "form-action 'self'",
+    "object-src 'none'",
+  ].join('; '),
+  'X-Frame-Options': 'DENY',
+  'Referrer-Policy': 'strict-origin-when-cross-origin',
+  'Permissions-Policy': 'camera=(), microphone=(), geolocation=(), payment=(), usb=()',
+  'Strict-Transport-Security': 'max-age=31536000; includeSubDomains',
+};
+
 function send(res, status, body, type = 'application/json', headers = {}) {
-  res.writeHead(status, { 'Content-Type': type, 'X-Content-Type-Options': 'nosniff', ...headers });
+  res.writeHead(status, { 'Content-Type': type, ...SECURITY_HEADERS, ...headers });
   res.end(body);
 }
 
 function serveStatic(req, res, pathname) {
-  let rel = decodeURIComponent(pathname);
+  let rel;
+  try {
+    rel = decodeURIComponent(pathname);
+  } catch {
+    // A malformed escape such as /%E0 is a client error, not a reason to crash the server.
+    return send(res, 400, 'bad request', 'text/plain');
+  }
   if (rel.endsWith('/')) rel += 'index.html';
   const file = path.normalize(path.join(DIST, rel));
   if (!file.startsWith(DIST + path.sep)) return send(res, 403, 'forbidden', 'text/plain');
@@ -119,7 +149,7 @@ function serveStatic(req, res, pathname) {
     if (error || !stat.isFile()) return send(res, 404, 'not found', 'text/plain');
     const ext = path.extname(file);
     // Hashless file names: let browsers revalidate, the files are small.
-    res.writeHead(200, { 'Content-Type': TYPES[ext] || 'application/octet-stream', 'Content-Length': stat.size, 'Cache-Control': 'no-cache', 'X-Content-Type-Options': 'nosniff' });
+    res.writeHead(200, { 'Content-Type': TYPES[ext] || 'application/octet-stream', 'Content-Length': stat.size, 'Cache-Control': 'no-cache', ...SECURITY_HEADERS });
     if (req.method === 'HEAD') return res.end();
     fs.createReadStream(file).pipe(res);
   });
@@ -156,20 +186,32 @@ async function onCreate(req, res) {
   send(res, started ? 202 : 409, JSON.stringify(state()));
 }
 
+function handle(req, res) {
+  const { pathname } = new URL(req.url, 'http://localhost');
+  // The old name atm.costapaul.com points here too; keep its links working.
+  if ((req.headers.host || '').split(':')[0] === OLD_HOST) {
+    return send(res, 301, '', 'text/plain', { Location: `https://${HOST}${req.url}` });
+  }
+  if (pathname === '/api/lists') {
+    if (req.method === 'GET') return send(res, 200, JSON.stringify(state()), 'application/json', { 'Cache-Control': 'no-store' });
+    if (req.method === 'POST') return onCreate(req, res).catch(() => send(res, 500, '{}'));
+    return send(res, 405, '{}');
+  }
+  if (req.method !== 'GET' && req.method !== 'HEAD') return send(res, 405, 'method not allowed', 'text/plain');
+  serveStatic(req, res, pathname);
+}
+
 function serve() {
   const server = http.createServer((req, res) => {
-    const { pathname } = new URL(req.url, 'http://localhost');
-    // The old name atm.costapaul.com points here too; keep its links working.
-    if ((req.headers.host || '').split(':')[0] === OLD_HOST) {
-      return send(res, 301, '', 'text/plain', { Location: `https://${HOST}${req.url}` });
+    // One bad request must not take the site down: an exception in the handler answers 500
+    // and is logged, and the process keeps serving.
+    try {
+      handle(req, res);
+    } catch (error) {
+      log('Fehler bei', req.method, req.url, error.stack || error);
+      if (!res.headersSent) send(res, 500, 'internal error', 'text/plain');
+      else res.end();
     }
-    if (pathname === '/api/lists') {
-      if (req.method === 'GET') return send(res, 200, JSON.stringify(state()), 'application/json', { 'Cache-Control': 'no-store' });
-      if (req.method === 'POST') return onCreate(req, res).catch(() => send(res, 500, '{}'));
-      return send(res, 405, '{}');
-    }
-    if (req.method !== 'GET' && req.method !== 'HEAD') return send(res, 405, 'method not allowed', 'text/plain');
-    serveStatic(req, res, pathname);
   });
   server.listen(PORT, '127.0.0.1', () => log(`atm-server auf http://127.0.0.1:${PORT} (${DIST})`));
 }

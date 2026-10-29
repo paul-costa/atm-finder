@@ -7,7 +7,9 @@ After=network-online.target
 
 [Service]
 WorkingDirectory=%h/atm-finder
-Environment=ATM_GOOGLE_ACCOUNT=dosed.admin.android@gmail.com
+# ATM_GOOGLE_ACCOUNT (the Google account the lists belong to) lives in ~/.config/atm-finder/env on
+# the server, not in this public repository: `ATM_GOOGLE_ACCOUNT=...` on one line, mode 600.
+EnvironmentFile=-%h/.config/atm-finder/env
 Environment=ATM_DIST=%h/.local/share/atm-finder/site
 ExecStart=%h/.local/bin/node server/atm-server.js serve
 Restart=on-failure
