@@ -9,6 +9,7 @@ runs as user services, without root.
 server/
   atm-server.js   website (web/dist via the symlink ~/.local/share/atm-finder/site) + /api/lists,
                   lock and cooldown; commands serve | create-ready | restore
+  quota.js        per-visitor limits for creating lists (tests: quota.test.js)
   lists.js        one list end to end: ATMs, Google place ids, Google Maps, share link, backup
   deploy.sh       test, build, smoke-test and publish the site (optionally re-export data/)
   systemd/        atm-server, atm-tunnel, atm-backup (+ timer)
@@ -21,7 +22,7 @@ server/
 | Google account | container `atm-chromium` (linuxserver/chromium), profile in `~/.local/share/atm-finder/chromium`, remote view `https://costaserver.<tailnet>.ts.net:3011` (user `paul`, password in `vnc-pass`), DevTools on `127.0.0.1:9222` |
 | Places API key | `~/.local/share/atm-finder/places-key` (mode 600) |
 | Google account name | `~/.config/atm-finder/env` (mode 600): `ATM_GOOGLE_ACCOUNT=<address>`, read by `atm-server.service`; the address is stored in every list backup and stays out of this repository |
-| State | `~/.local/share/atm-finder/`: `lists/*.json` (backups), `lock.json`, `site-releases/` |
+| State | `~/.local/share/atm-finder/`: `lists/*.json` (backups), `lock.json`, `quota.json` (per-visitor counts, addresses only as salted hashes), `site-releases/` |
 | Backup copy | `/mnt/backup/atm-finder/lists/` at once after each list, plus `atm-backup.timer` daily |
 
 ## Creating a list
@@ -40,6 +41,14 @@ ATMs that Google does not know as places are left out; the page says "n of total
 list", and CSV/KML still have all of them. Only one list is created at a time; after each run
 (also a failed one) creating is locked for 30 minutes for everybody. Existing lists stay
 available all the time.
+
+On top of that, each visitor (the address Cloudflare reports in `cf-connecting-ip`) may start
+at most one list per hour and three per day; after 20 lists in total that address can create
+no more (`429`, or `403` when blocked, with a `quota` field the page turns into a sentence under
+the button). The limits are `ATM_IP_PER_HOUR`, `ATM_IP_PER_DAY` and `ATM_IP_BLOCK_AFTER`;
+`quota.json` keeps only salted hashes of the addresses. To lift a block, delete the visitor's
+entry or the whole file. Requests without the header come from the server itself (the batch
+commands, curl on costaserver) and have no limit.
 
 `node server/atm-server.js create-ready` creates the lists for the ready-made places in `data/`
 that do not have one yet (the cooldown does not apply).

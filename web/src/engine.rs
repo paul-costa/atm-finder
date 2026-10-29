@@ -319,10 +319,26 @@ pub struct ListLock {
     pub error: String,
 }
 
+/// Why this visitor may not create a list now (only in 429/403 answers).
+#[derive(Debug, Clone, Default, serde::Deserialize)]
+pub struct ListQuota {
+    /// `hour`, `day` or `blocked`.
+    pub reason: String,
+    /// The number of lists that was reached (per hour, per day, or in total).
+    #[serde(default)]
+    pub limit: u32,
+    /// When this visitor can create the next list (`HH:MM` or `DD.MM. HH:MM`; empty when blocked).
+    #[serde(default)]
+    pub until: String,
+}
+
 #[derive(Debug, Clone, Default, serde::Deserialize)]
 pub struct ListsState {
     pub lists: Vec<ListEntry>,
     pub lock: ListLock,
+    /// Set when the server refused this visitor (per-visitor limit).
+    #[serde(default)]
+    pub quota: Option<ListQuota>,
 }
 
 /// The lists and the lock state; fails when the site runs without the server (e.g. local tests).
@@ -339,7 +355,8 @@ pub async fn load_lists() -> Result<ListsState, String> {
 }
 
 /// Ask the server to create the list for a boundary. The answer is the new state either way:
-/// 202 = started, 409 = locked, 200 = the list already exists.
+/// 202 = started, 409 = locked, 200 = the list already exists, 429/403 = this visitor's limit
+/// (then `quota` says why).
 pub async fn create_list(relation: u64, name: &str) -> Result<ListsState, String> {
     let body = serde_json::json!({ "relation": relation, "name": name }).to_string();
     let response = Request::post("api/lists")
@@ -351,7 +368,7 @@ pub async fn create_list(relation: u64, name: &str) -> Result<ListsState, String
         .map_err(|e| e.to_string())?;
     let text = response.text().await.map_err(|e| e.to_string())?;
     match response.status() {
-        200 | 202 | 409 => serde_json::from_str(&text).map_err(|e| e.to_string()),
+        200 | 202 | 403 | 409 | 429 => serde_json::from_str(&text).map_err(|e| e.to_string()),
         status => Err(format!("HTTP {status}")),
     }
 }

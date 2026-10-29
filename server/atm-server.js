@@ -7,10 +7,14 @@
 //
 // API (same origin as the site):
 //   GET  /api/lists   -> { lists: [{slug, name, relation, url, in_list, total}], lock }
-//   POST /api/lists   {relation, name} -> 202 started | 409 locked | 200 exists (same body)
+//   POST /api/lists   {relation, name} -> 202 started | 409 locked | 200 exists | 429 limit of
+//                     this visitor | 403 visitor blocked (same body; 429/403 add {quota})
 //
 // Lock: one list at a time for everybody; after each run (success or not) a cooldown of
 // 30 minutes (ATM_COOLDOWN_MIN). The lock lives in lock.json so restarts keep it.
+// Per visitor (quota.js): 1 list per hour, 3 per day, none after 20 in total (ATM_IP_PER_HOUR,
+// ATM_IP_PER_DAY, ATM_IP_BLOCK_AFTER). The visitor is the address Cloudflare reports in
+// cf-connecting-ip; requests without it come from the server itself and have no limit.
 
 'use strict';
 
@@ -18,6 +22,7 @@ const fs = require('fs');
 const http = require('http');
 const path = require('path');
 const lists = require('./lists');
+const quota = require('./quota');
 
 const PORT = Number(process.env.ATM_PORT || 8090);
 const DIST = process.env.ATM_DIST || path.join(__dirname, '../web/dist');
@@ -26,6 +31,8 @@ const HOST = 'atm-finder.costapaul.com';
 const OLD_HOST = 'atm.costapaul.com';
 const COOLDOWN_MS = Number(process.env.ATM_COOLDOWN_MIN || 30) * 60000;
 const LOCK_FILE = path.join(lists.STATE, 'lock.json');
+const QUOTA_FILE = path.join(lists.STATE, 'quota.json');
+const LIMITS = quota.limits();
 const { log } = lists;
 
 // ---------------------------------------------------------------- lock
@@ -45,6 +52,9 @@ function writeLock(lock) {
 }
 
 const hhmm = (ms) => new Date(ms).toLocaleTimeString('de-AT', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Vienna' });
+const ddmm = (ms) => new Date(ms).toLocaleDateString('de-AT', { day: '2-digit', month: '2-digit', timeZone: 'Europe/Vienna' });
+/** `HH:MM` today, `DD.MM. HH:MM` on another day. */
+const when = (ms) => (ddmm(ms) === ddmm(Date.now()) ? hhmm(ms) : `${ddmm(ms)} ${hhmm(ms)}`);
 
 /** The lock as the website sees it; a running lock of a dead process counts as finished. */
 function publicLock() {
@@ -181,8 +191,21 @@ async function onCreate(req, res) {
   const name = String(request.name || '').slice(0, 80);
   if (!Number.isSafeInteger(relation) || relation <= 0) return send(res, 400, JSON.stringify({ error: 'relation' }));
   if (lists.readLists().some((list) => list.relation === relation && list.url)) return send(res, 200, JSON.stringify(state()));
+  const address = String(req.headers['cf-connecting-ip'] || '').trim();
+  const visitors = address ? quota.load(QUOTA_FILE) : null;
+  const denied = visitors && quota.check(visitors, address, Date.now(), LIMITS);
+  if (denied) {
+    const body = { ...state(), quota: { reason: denied.reason, limit: denied.limit, until: denied.until ? when(denied.until) : '' } };
+    return send(res, denied.reason === 'blocked' ? 403 : 429, JSON.stringify(body));
+  }
   const started = runLocked(name || `r${relation}`, relation, () => lists.createList({ relation }));
-  if (started) log(`Liste angefordert: ${name} (r${relation})`);
+  if (started) {
+    log(`Liste angefordert: ${name} (r${relation})`);
+    if (visitors) {
+      quota.record(visitors, address, Date.now());
+      quota.save(QUOTA_FILE, visitors);
+    }
+  }
   send(res, started ? 202 : 409, JSON.stringify(state()));
 }
 
