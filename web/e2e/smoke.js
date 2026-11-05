@@ -148,6 +148,7 @@ function assert(condition, message) {
       assert(note === 'Adressen ergänzt: 9 über nächste Hausnummer, 9 per Rückwärtssuche, 0 offen.', `address note: ${note}`);
       assert(calls.nominatim === 9, `nominatim calls: ${calls.nominatim}`);
 
+      assert(await page.evaluate(() => getComputedStyle(document.querySelector('.lang-toggle [data-lang="de"]')).color !== getComputedStyle(document.querySelector('.lang-toggle [data-lang="en"]')).color), 'active language highlighted');
       await page.click('#lang-toggle');
       assert((await page.title()) === 'ATMs in Austria', 'English title after toggle');
       assert((await page.textContent('#result-summary')).startsWith('38 ATMs in Graz'), 'English summary');

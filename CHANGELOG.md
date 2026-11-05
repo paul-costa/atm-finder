@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Website: the language button shows both languages (Deutsch and English) with the active one
+  highlighted; the header reads `atm-finder.costapaul.com` without the `~/`.
 - Creating Google Maps lists is limited per visitor on top of the global lock: one list per
   hour and three per day from one connection, none after 20 in total; the page says why and
   from when. Addresses are stored only as salted hashes.

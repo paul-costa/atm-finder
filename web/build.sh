@@ -30,6 +30,8 @@ fi
 
 # 4. Page, styles, map glue and vendored Leaflet.
 cp -r static/. dist/
+# Cloudflare turns the server's no-cache into a 4 h browser cache for .css: a new file needs a new address.
+sed -i.bak "s|href=\"style.css\"|href=\"style.css?v=$(git hash-object dist/style.css)\"|" dist/index.html && rm dist/index.html.bak
 
 # 5. Ready-made exports and their index for the "ready-made files" section.
 cargo run -q -p atm-finder --release -- data-index ../data dist/data
