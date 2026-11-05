@@ -40,11 +40,6 @@ p { margin: 0 0 0.5rem; }
 .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; padding-top: 28px; padding-bottom: 28px; }
 .brand { font: 500 17px/1.2 var(--mono); color: var(--text); }
 .brand .tld { color: var(--text); }
-@media (max-width: 480px) {
-  .brand { font-size: 13px; }
-  .lang-toggle { font-size: 12px; }
-  .lang-toggle span { padding: 0 4px; }
-}
 main { display: grid; gap: 12px; padding-bottom: 1rem; }
 footer { color: var(--faint); font: 400 12px/1.6 var(--mono); padding-top: 28px; padding-bottom: 28px; }
 footer a { color: var(--faint); }
@@ -87,6 +82,11 @@ button.primary:hover:not(:disabled) { background: color-mix(in srgb, var(--green
 .lang-toggle { display: inline-flex; flex: none; gap: 2px; padding: 3px; min-height: 40px; background: #141416; font: 400 13px/1 var(--mono); }
 .lang-toggle span { display: flex; align-items: center; padding: 0 10px; border-radius: 6px; color: var(--muted); }
 html[lang="de"] .lang-toggle [data-lang="de"], html[lang="en"] .lang-toggle [data-lang="en"] { background: color-mix(in srgb, var(--green) 16%, var(--tile)); color: var(--green); font-weight: 500; }
+@media (max-width: 480px) {
+  .brand { font-size: 13px; }
+  .lang-toggle { font-size: 12px; }
+  .lang-toggle span { padding: 0 4px; }
+}
 button.link { border: 0; background: none; padding: 0; min-height: 0; color: var(--muted); font: inherit; }
 button.link:hover { color: var(--green); background: none; }
 
