@@ -22,10 +22,11 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <!-- Look and feel of costapaul.com: dark tiles, Roboto + Roboto Mono, green prompt -->
+  <!-- Look and feel of costapaul.com: dark tiles, Roboto + Roboto Mono -->
   <header class="bar">
-    <a class="brand" href="/"><span class="prompt">~/</span>atm-finder<span class="tld">.costapaul.com</span></a>
-    <button id="lang-toggle" type="button" class="icon-btn" data-i18n="lang_switch">English</button>
+    <a class="brand" href="/">atm-finder<span class="tld">.costapaul.com</span></a>
+    <!-- One button: a click switches the language, the highlight follows <html lang> (style.css) -->
+    <button id="lang-toggle" type="button" class="lang-toggle"><span data-lang="de">Deutsch</span><span data-lang="en">English</span></button>
   </header>
 
   <main>

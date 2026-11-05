@@ -109,7 +109,6 @@ const STRINGS: &[(&str, &str, &str)] = &[
     ("footer", "Daten © OpenStreetMap-Mitwirkende (ODbL). Quellcode und Kommandozeilenwerkzeug auf GitHub.",
      "Data © OpenStreetMap contributors (ODbL). Source code and command-line tool on GitHub."),
     // The toggle shows the *other* language.
-    ("lang_switch", "English", "Deutsch"),
     ("map_popup_hours", "Öffnungszeiten", "Opening hours"),
     ("map_boundary", "Gebietsgrenze", "Boundary"),
 ];
